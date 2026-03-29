@@ -9,15 +9,15 @@ interface Props {
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.lucidblocks.wiki'
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.cookierunovensmash.wiki'
   const path = '/privacy-policy'
 
   return {
-    title: 'Privacy Policy - Lucid Blocks Wiki',
-    description: 'Lucid Blocks Wiki Privacy Policy. Learn how we collect, use, and protect your data when you use our Steam game resource platform. Your privacy matters to us.',
+    title: 'Privacy Policy - CookieRun: OvenSmash Wiki',
+    description: 'CookieRun: OvenSmash Wiki Privacy Policy. Learn how we collect, use, and protect your data when you use our mobile game resource platform. Your privacy matters to us.',
     keywords: [
       'privacy policy',
-      'Lucid Blocks Wiki privacy',
+      'CookieRun: OvenSmash Wiki privacy',
       'data protection',
       'user privacy',
       'GDPR compliance',
@@ -37,21 +37,21 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       type: 'website',
       locale: locale,
       url: locale === 'en' ? `${siteUrl}${path}` : `${siteUrl}/${locale}${path}`,
-      siteName: 'Lucid Blocks Wiki',
-      title: 'Privacy Policy - Lucid Blocks Wiki',
+      siteName: 'CookieRun: OvenSmash Wiki',
+      title: 'Privacy Policy - CookieRun: OvenSmash Wiki',
       description: 'Learn how we protect your privacy and handle your data.',
       images: [
         {
           url: `${siteUrl}/og-image.jpg`,
           width: 1200,
           height: 630,
-          alt: 'Lucid Blocks Wiki',
+          alt: 'CookieRun: OvenSmash Wiki',
         },
       ],
     },
     twitter: {
       card: 'summary_large_image',
-      title: 'Privacy Policy - Lucid Blocks Wiki',
+      title: 'Privacy Policy - CookieRun: OvenSmash Wiki',
       description: 'Learn how we protect your privacy and handle your data.',
       images: [`${siteUrl}/og-image.jpg`],
     },
@@ -72,7 +72,7 @@ export default function PrivacyPolicy() {
             How we collect, use, and protect your information
           </p>
           <p className="text-slate-400 text-sm">
-            Last Updated: March 14, 2026
+            Last Updated: March 29, 2026
           </p>
         </div>
       </section>
@@ -83,7 +83,7 @@ export default function PrivacyPolicy() {
           <div className="prose prose-invert prose-slate max-w-none">
             <h2>1. Information Collection</h2>
             <p>
-              Lucid Blocks Wiki ("we", "our", or "us") collects minimal information to provide and improve our services.
+              CookieRun: OvenSmash Wiki ("we", "our", or "us") collects minimal information to provide and improve our services.
               We collect information in the following ways:
             </p>
             <ul>
@@ -148,7 +148,7 @@ export default function PrivacyPolicy() {
 
             <h2>4. Third-Party Services</h2>
             <p>
-              Our website may contain links to external websites, including Steam, Discord, and social media platforms.
+              Our website may contain links to external websites, including Google Play, App Store, Discord, and social media platforms.
               We are not responsible for the privacy practices or content of these third-party sites. We encourage
               you to review their privacy policies before providing any personal information.
             </p>
@@ -219,8 +219,8 @@ export default function PrivacyPolicy() {
 
             <h2>11. Disclaimer</h2>
             <p>
-              Lucid Blocks Wiki is an unofficial fan-made website and is not affiliated with, endorsed by, or associated
-              with Valve Corporation (Steam) or the developers of Lucid Blocks. All game content, trademarks, and assets are
+              CookieRun: OvenSmash Wiki is an unofficial fan-made website and is not affiliated with, endorsed by, or associated
+              with Devsisters Corporation or the developers of CookieRun: OvenSmash. All game content, trademarks, and assets are
               the property of their respective owners.
             </p>
 
@@ -230,7 +230,7 @@ export default function PrivacyPolicy() {
               please contact us at:
             </p>
             <p>
-              <strong>Email:</strong> <a href="mailto:privacy@lucidblocks.wiki" className="text-[hsl(var(--nav-theme-light))] hover:underline">privacy@lucidblocks.wiki</a>
+              <strong>Email:</strong> <a href="mailto:privacy@cookierunovensmash.wiki" className="text-[hsl(var(--nav-theme-light))] hover:underline">privacy@cookierunovensmash.wiki</a>
             </p>
             <p>
               We will respond to all legitimate requests within 30 days.
