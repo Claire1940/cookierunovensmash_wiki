@@ -1,11 +1,11 @@
 {
-  "name": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-  "short_name": "Lucid Blocks",
-  "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
+  "name": "CookieRun: OvenSmash Wiki - Tier List, Codes & Cookies",
+  "short_name": "CookieRun OvenSmash",
+  "description": "CookieRun: OvenSmash Wiki with cookie guides, tier list, codes, battle modes, builds, release info, and beginner tips for iOS, Android, and PC players.",
   "start_url": "/",
   "display": "standalone",
   "orientation": "any",
-  "theme_color": "#1a7a7a",
+  "theme_color": "#11b5cc",
   "background_color": "#0a0a0a",
   "icons": [
     {
