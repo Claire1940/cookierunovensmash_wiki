@@ -11,12 +11,14 @@
     }
   },
   "nav": {
-    "guides": "Anleitungen",
-    "crafting": "Herstellung",
-    "items": "Gegenstände",
-    "biomes": "Biome",
-    "building": "Bauen",
-    "support": "Unterstützung"
+    "guide": "Anleitung",
+    "codes": "Codes",
+    "ranking": "Rangliste",
+    "cookies": "Cookies",
+    "download": "Download",
+    "release": "Veröffentlichung",
+    "issues": "Probleme",
+    "media": "Medien"
   },
   "common": {
     "home": "Startseite",

@@ -10,7 +10,16 @@
       "twitterDescription": "CookieRun: OvenSmash Wiki with cookie guides, tier list, codes, battle modes, builds, and beginner tips for iOS, Android, and PC players."
     }
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "codes": "Codes",
+    "ranking": "Ranking",
+    "cookies": "Cookies",
+    "download": "Download",
+    "release": "Release",
+    "issues": "Issues",
+    "media": "Media"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -292,17 +301,50 @@
           "tier": "S",
           "summary": "Top launch-meta picks with strong all-around value, role impact, or easy conversion into wins.",
           "cookies": [
-            { "name": "Dark Choco Cookie", "role": "Bruiser" },
-            { "name": "Red Velvet Cookie", "role": "Controller" },
-            { "name": "Madeleine Cookie", "role": "Tank" },
-            { "name": "Rye Cookie", "role": "Marksman" },
-            { "name": "Blue Slushy Cookie", "role": "Marksman" },
-            { "name": "String Cheese Cookie", "role": "Marksman" },
-            { "name": "Latte Cookie", "role": "Mage" },
-            { "name": "Melon Soda Cookie", "role": "Support" },
-            { "name": "Peppermint Cookie", "role": "Support" },
-            { "name": "Peach Cookie", "role": "Assassin" },
-            { "name": "Cherry Cookie", "role": "Bomber" }
+            {
+              "name": "Dark Choco Cookie",
+              "role": "Bruiser"
+            },
+            {
+              "name": "Red Velvet Cookie",
+              "role": "Controller"
+            },
+            {
+              "name": "Madeleine Cookie",
+              "role": "Tank"
+            },
+            {
+              "name": "Rye Cookie",
+              "role": "Marksman"
+            },
+            {
+              "name": "Blue Slushy Cookie",
+              "role": "Marksman"
+            },
+            {
+              "name": "String Cheese Cookie",
+              "role": "Marksman"
+            },
+            {
+              "name": "Latte Cookie",
+              "role": "Mage"
+            },
+            {
+              "name": "Melon Soda Cookie",
+              "role": "Support"
+            },
+            {
+              "name": "Peppermint Cookie",
+              "role": "Support"
+            },
+            {
+              "name": "Peach Cookie",
+              "role": "Assassin"
+            },
+            {
+              "name": "Cherry Cookie",
+              "role": "Bomber"
+            }
           ],
           "featuredNotes": [
             "Dark Choco Cookie stands out because he can tank, deal damage, and sustain well.",
@@ -314,12 +356,30 @@
           "tier": "A",
           "summary": "Strong picks that reward better positioning, cleaner execution, or a more stable frontline around them.",
           "cookies": [
-            { "name": "Bacon Roll Cookie", "role": "Bruiser" },
-            { "name": "Ice Pop Cookie", "role": "Controller" },
-            { "name": "Strawberry Crepe Cookie", "role": "Tank" },
-            { "name": "Jerky Cookie", "role": "Mage" },
-            { "name": "Blueberry Pie Cookie", "role": "Mage" },
-            { "name": "Chili Pepper Cookie", "role": "Assassin" }
+            {
+              "name": "Bacon Roll Cookie",
+              "role": "Bruiser"
+            },
+            {
+              "name": "Ice Pop Cookie",
+              "role": "Controller"
+            },
+            {
+              "name": "Strawberry Crepe Cookie",
+              "role": "Tank"
+            },
+            {
+              "name": "Jerky Cookie",
+              "role": "Mage"
+            },
+            {
+              "name": "Blueberry Pie Cookie",
+              "role": "Mage"
+            },
+            {
+              "name": "Chili Pepper Cookie",
+              "role": "Assassin"
+            }
           ],
           "featuredNotes": [
             "Ice Pop Cookie brings excellent crowd control but wants better team spacing.",
@@ -331,9 +391,18 @@
           "tier": "B",
           "summary": "Playable options with narrower value, simpler kits, or more matchup-dependent performance.",
           "cookies": [
-            { "name": "GingerBrave", "role": "Bruiser" },
-            { "name": "Fruit Punch Cookie", "role": "Tank" },
-            { "name": "Tiger Lily Cookie", "role": "Marksman" }
+            {
+              "name": "GingerBrave",
+              "role": "Bruiser"
+            },
+            {
+              "name": "Fruit Punch Cookie",
+              "role": "Tank"
+            },
+            {
+              "name": "Tiger Lily Cookie",
+              "role": "Marksman"
+            }
           ],
           "featuredNotes": [
             "GingerBrave is straightforward and flexible, but not as impactful as the higher tiers.",
@@ -356,7 +425,10 @@
             "basic": "Dagger Throw",
             "special": "Stinging Rush",
             "ultimate": "Wild Chili Storm",
-            "powerBiscuits": ["Accelerated Special Skill", "Blessing of the Battlefield"]
+            "powerBiscuits": [
+              "Accelerated Special Skill",
+              "Blessing of the Battlefield"
+            ]
           },
           "playstyle": [
             "Poke with your basic attack before committing.",
@@ -373,7 +445,11 @@
             "basic": "Cool Swing",
             "special": "Icy Guard",
             "ultimate": "Freezing Strike",
-            "powerBiscuits": ["HP Boost", "Blessing of the Battlefield", "Accelerated Special Skill"]
+            "powerBiscuits": [
+              "HP Boost",
+              "Blessing of the Battlefield",
+              "Accelerated Special Skill"
+            ]
           },
           "playstyle": [
             "Go in with teammates, apply crowd control, and disengage before enemies unfreeze.",
@@ -406,26 +482,146 @@
       "subtitle": "Browse the current playable roster by rarity, combat role, and practical battlefield job. This module is built for quick lookup after pulls, unlocks, or ranked losses.",
       "intro": "CookieRun: OvenSmash mixes Tanks, Bruisers, Controllers, Supports, Marksmen, Mages, Assassins, and Bombers across a launch roster of familiar and new Cookies. The fastest way to use this list is to match a Cookie's role with the job your team is missing: engage, sustained damage, control, or healing.",
       "cookies": [
-        { "name": "Madeleine Cookie", "rarity": "Epic", "role": "Tank", "signature": "Reliable engage with area knock-up", "bestUse": "Lead teamfights, start objective contests, and protect ranged carries" },
-        { "name": "Red Velvet Cookie", "rarity": "Epic", "role": "Controller", "signature": "Enemy pull and displacement pressure", "bestUse": "Create picks, drag enemies out of position, and punish clustered teams" },
-        { "name": "String Cheese Cookie", "rarity": "Epic", "role": "Marksman", "signature": "Safe ranged poke with turret support", "bestUse": "Hold backline angles, pressure lanes, and chip enemies before commits" },
-        { "name": "Ice Pop Cookie", "rarity": "Epic", "role": "Controller", "signature": "Freeze-based crowd control", "bestUse": "Lock down targets for follow-up damage and stall tight choke fights" },
-        { "name": "Jerky Cookie", "rarity": "Epic", "role": "Mage", "signature": "Explosive talisman bursts", "bestUse": "Punish grouped enemies and add delayed area pressure in midrange fights" },
-        { "name": "Bacon Roll Cookie", "rarity": "Epic", "role": "Bruiser", "signature": "Sticky melee pressure", "bestUse": "Dive into skirmishes, chase weakened targets, and brawl around objectives" },
-        { "name": "Fruit Punch Cookie", "rarity": "Common", "role": "Tank", "signature": "Simple engage with shielding utility", "bestUse": "Frontline for beginner-friendly teams and soak pressure in grouped fights" },
-        { "name": "Melon Soda Cookie", "rarity": "Rare", "role": "Support", "signature": "Backline utility support", "bestUse": "Stabilize teamfights, help carries stay active, and round out balanced comps" },
-        { "name": "Dark Choco Cookie", "rarity": "Rare", "role": "Bruiser", "signature": "Durable melee pressure with sustain", "bestUse": "Trade aggressively, survive extended fights, and pressure frontline mirrors" },
-        { "name": "Strawberry Crepe Cookie", "rarity": "Rare", "role": "Tank", "signature": "Disruption and summon-based protection", "bestUse": "Block space, set up for teammates, and slow enemy entries into objectives" },
-        { "name": "Peach Cookie", "rarity": "Rare", "role": "Assassin", "signature": "High mobility dive and cleanup", "bestUse": "Punish isolated backliners and snowball after enemies spend cooldowns" },
-        { "name": "Tiger Lily Cookie", "rarity": "Rare", "role": "Marksman", "signature": "Long-range poke with jump-in follow-up", "bestUse": "Harass safely, then collapse when a low target is exposed" },
-        { "name": "Blueberry Pie Cookie", "rarity": "Rare", "role": "Mage", "signature": "Teleport-based burst angles", "bestUse": "Reposition around terrain and threaten midrange burst from unusual lines" },
-        { "name": "Latte Cookie", "rarity": "Rare", "role": "Mage", "signature": "Spell-heavy midline pressure", "bestUse": "Control space with magic damage and support slower, structured teamfights" },
-        { "name": "Peppermint Cookie", "rarity": "Common", "role": "Support", "signature": "Healing and knock-up sustain", "bestUse": "Keep frontline alive, extend fights, and anchor balanced 3v3 comps" },
-        { "name": "Rye Cookie", "rarity": "Common", "role": "Marksman", "signature": "Continuous straight-line gunfire", "bestUse": "Deal steady backline damage and punish enemies who walk predictable routes" },
-        { "name": "Blue Slushy Cookie", "rarity": "Common", "role": "Marksman", "signature": "Clone-arrow poke and lane pressure", "bestUse": "Play open maps, fire through lines, and wear teams down before all-ins" },
-        { "name": "Cherry Cookie", "rarity": "Common", "role": "Bomber", "signature": "Explosive zone control", "bestUse": "Throw pressure over walls, defend objectives, and disrupt enemy pathing" },
-        { "name": "Chili Pepper Cookie", "rarity": "Common", "role": "Assassin", "signature": "Fast burst entry and exit", "bestUse": "Flank exposed targets, finish low enemies, and punish weak backlines" },
-        { "name": "GingerBrave", "rarity": "Common", "role": "Bruiser", "signature": "Simple, flexible starter bruiser kit", "bestUse": "Learn engage timing, survive close combat, and fill gaps in casual lineups" }
+        {
+          "name": "Madeleine Cookie",
+          "rarity": "Epic",
+          "role": "Tank",
+          "signature": "Reliable engage with area knock-up",
+          "bestUse": "Lead teamfights, start objective contests, and protect ranged carries"
+        },
+        {
+          "name": "Red Velvet Cookie",
+          "rarity": "Epic",
+          "role": "Controller",
+          "signature": "Enemy pull and displacement pressure",
+          "bestUse": "Create picks, drag enemies out of position, and punish clustered teams"
+        },
+        {
+          "name": "String Cheese Cookie",
+          "rarity": "Epic",
+          "role": "Marksman",
+          "signature": "Safe ranged poke with turret support",
+          "bestUse": "Hold backline angles, pressure lanes, and chip enemies before commits"
+        },
+        {
+          "name": "Ice Pop Cookie",
+          "rarity": "Epic",
+          "role": "Controller",
+          "signature": "Freeze-based crowd control",
+          "bestUse": "Lock down targets for follow-up damage and stall tight choke fights"
+        },
+        {
+          "name": "Jerky Cookie",
+          "rarity": "Epic",
+          "role": "Mage",
+          "signature": "Explosive talisman bursts",
+          "bestUse": "Punish grouped enemies and add delayed area pressure in midrange fights"
+        },
+        {
+          "name": "Bacon Roll Cookie",
+          "rarity": "Epic",
+          "role": "Bruiser",
+          "signature": "Sticky melee pressure",
+          "bestUse": "Dive into skirmishes, chase weakened targets, and brawl around objectives"
+        },
+        {
+          "name": "Fruit Punch Cookie",
+          "rarity": "Common",
+          "role": "Tank",
+          "signature": "Simple engage with shielding utility",
+          "bestUse": "Frontline for beginner-friendly teams and soak pressure in grouped fights"
+        },
+        {
+          "name": "Melon Soda Cookie",
+          "rarity": "Rare",
+          "role": "Support",
+          "signature": "Backline utility support",
+          "bestUse": "Stabilize teamfights, help carries stay active, and round out balanced comps"
+        },
+        {
+          "name": "Dark Choco Cookie",
+          "rarity": "Rare",
+          "role": "Bruiser",
+          "signature": "Durable melee pressure with sustain",
+          "bestUse": "Trade aggressively, survive extended fights, and pressure frontline mirrors"
+        },
+        {
+          "name": "Strawberry Crepe Cookie",
+          "rarity": "Rare",
+          "role": "Tank",
+          "signature": "Disruption and summon-based protection",
+          "bestUse": "Block space, set up for teammates, and slow enemy entries into objectives"
+        },
+        {
+          "name": "Peach Cookie",
+          "rarity": "Rare",
+          "role": "Assassin",
+          "signature": "High mobility dive and cleanup",
+          "bestUse": "Punish isolated backliners and snowball after enemies spend cooldowns"
+        },
+        {
+          "name": "Tiger Lily Cookie",
+          "rarity": "Rare",
+          "role": "Marksman",
+          "signature": "Long-range poke with jump-in follow-up",
+          "bestUse": "Harass safely, then collapse when a low target is exposed"
+        },
+        {
+          "name": "Blueberry Pie Cookie",
+          "rarity": "Rare",
+          "role": "Mage",
+          "signature": "Teleport-based burst angles",
+          "bestUse": "Reposition around terrain and threaten midrange burst from unusual lines"
+        },
+        {
+          "name": "Latte Cookie",
+          "rarity": "Rare",
+          "role": "Mage",
+          "signature": "Spell-heavy midline pressure",
+          "bestUse": "Control space with magic damage and support slower, structured teamfights"
+        },
+        {
+          "name": "Peppermint Cookie",
+          "rarity": "Common",
+          "role": "Support",
+          "signature": "Healing and knock-up sustain",
+          "bestUse": "Keep frontline alive, extend fights, and anchor balanced 3v3 comps"
+        },
+        {
+          "name": "Rye Cookie",
+          "rarity": "Common",
+          "role": "Marksman",
+          "signature": "Continuous straight-line gunfire",
+          "bestUse": "Deal steady backline damage and punish enemies who walk predictable routes"
+        },
+        {
+          "name": "Blue Slushy Cookie",
+          "rarity": "Common",
+          "role": "Marksman",
+          "signature": "Clone-arrow poke and lane pressure",
+          "bestUse": "Play open maps, fire through lines, and wear teams down before all-ins"
+        },
+        {
+          "name": "Cherry Cookie",
+          "rarity": "Common",
+          "role": "Bomber",
+          "signature": "Explosive zone control",
+          "bestUse": "Throw pressure over walls, defend objectives, and disrupt enemy pathing"
+        },
+        {
+          "name": "Chili Pepper Cookie",
+          "rarity": "Common",
+          "role": "Assassin",
+          "signature": "Fast burst entry and exit",
+          "bestUse": "Flank exposed targets, finish low enemies, and punish weak backlines"
+        },
+        {
+          "name": "GingerBrave",
+          "rarity": "Common",
+          "role": "Bruiser",
+          "signature": "Simple, flexible starter bruiser kit",
+          "bestUse": "Learn engage timing, survive close combat, and fill gaps in casual lineups"
+        }
       ]
     },
     "gameModes": {
@@ -549,7 +745,14 @@
             "Absorb pressure and block direct access to your backline",
             "Stand on high-value objectives first and force enemies to walk through you"
           ],
-          "examples": ["Madeleine Cookie", "Dark Choco Cookie", "Bacon Roll Cookie", "Fruit Punch Cookie", "Strawberry Crepe Cookie", "GingerBrave"],
+          "examples": [
+            "Madeleine Cookie",
+            "Dark Choco Cookie",
+            "Bacon Roll Cookie",
+            "Fruit Punch Cookie",
+            "Strawberry Crepe Cookie",
+            "GingerBrave"
+          ],
           "playTip": "Do not engage alone just because you can survive for a few seconds. Engage when your damage dealers are ready to cash in."
         },
         {
@@ -560,7 +763,17 @@
             "Punish exposed targets and bad positioning quickly",
             "Keep steady output during extended teamfights and objective contests"
           ],
-          "examples": ["String Cheese Cookie", "Rye Cookie", "Blue Slushy Cookie", "Blueberry Pie Cookie", "Latte Cookie", "Cherry Cookie", "Peach Cookie", "Chili Pepper Cookie", "Tiger Lily Cookie"],
+          "examples": [
+            "String Cheese Cookie",
+            "Rye Cookie",
+            "Blue Slushy Cookie",
+            "Blueberry Pie Cookie",
+            "Latte Cookie",
+            "Cherry Cookie",
+            "Peach Cookie",
+            "Chili Pepper Cookie",
+            "Tiger Lily Cookie"
+          ],
           "playTip": "Most damage losses come from stepping too far forward too early. Let your frontline or controller create the opening first."
         },
         {
@@ -571,7 +784,12 @@
             "Create picks before full teamfights begin",
             "Lock important targets long enough for your team to finish them"
           ],
-          "examples": ["Red Velvet Cookie", "Ice Pop Cookie", "Peppermint Cookie", "Jerky Cookie"],
+          "examples": [
+            "Red Velvet Cookie",
+            "Ice Pop Cookie",
+            "Peppermint Cookie",
+            "Jerky Cookie"
+          ],
           "playTip": "Your best value usually comes from controlling the enemy carry or the diver reaching your backline, not from randomly spending crowd control on tanks."
         },
         {
@@ -582,7 +800,11 @@
             "Boost the team's uptime so carries can keep firing",
             "Help winning fights stay won by preventing a sudden collapse"
           ],
-          "examples": ["Peppermint Cookie", "Melon Soda Cookie", "Fruit Punch Cookie"],
+          "examples": [
+            "Peppermint Cookie",
+            "Melon Soda Cookie",
+            "Fruit Punch Cookie"
+          ],
           "playTip": "Stand close enough to influence the fight, but far enough that the enemy cannot remove your healing or utility first."
         }
       ]
@@ -871,47 +1093,127 @@
         {
           "name": "CookieRun: OvenSmash General Summon Total Grade Rates",
           "rows": [
-            { "item": "Common Soulchips", "rate": "40.0000%", "detail": "1x: 18% (40-59), 2x: 10% (60-79), 3x: 6% (80-119), 4x: 4% (120-159), 5x: 2% (160)" },
-            { "item": "Rare Soulchips", "rate": "40.0000%", "detail": "1x: 18% (20-29), 2x: 10% (30-39), 3x: 6% (40-59), 4x: 4% (60-79), 5x: 2% (80)" },
-            { "item": "Epic Soulchips", "rate": "20.0000%", "detail": "1x: 9% (5), 2x: 5% (6-8), 3x: 3% (9-12), 4x: 2% (20), 5x: 1% (40)" }
+            {
+              "item": "Common Soulchips",
+              "rate": "40.0000%",
+              "detail": "1x: 18% (40-59), 2x: 10% (60-79), 3x: 6% (80-119), 4x: 4% (120-159), 5x: 2% (160)"
+            },
+            {
+              "item": "Rare Soulchips",
+              "rate": "40.0000%",
+              "detail": "1x: 18% (20-29), 2x: 10% (30-39), 3x: 6% (40-59), 4x: 4% (60-79), 5x: 2% (80)"
+            },
+            {
+              "item": "Epic Soulchips",
+              "rate": "20.0000%",
+              "detail": "1x: 9% (5), 2x: 5% (6-8), 3x: 3% (9-12), 4x: 2% (20), 5x: 1% (40)"
+            }
           ]
         },
         {
           "name": "CookieRun: OvenSmash Costume Draw Rates",
           "rows": [
-            { "item": "Stage 1 — Common Grade", "rate": "49.8421%" },
-            { "item": "Stage 2 — Rare Grade", "rate": "33.7587%" },
-            { "item": "Stage 3 — Epic Grade (Themed + Standard)", "rate": "10.9077%" },
-            { "item": "Stage 4 — Epic Grade (Themed only, Full Set chance)", "rate": "5.4916%" }
+            {
+              "item": "Stage 1 — Common Grade",
+              "rate": "49.8421%"
+            },
+            {
+              "item": "Stage 2 — Rare Grade",
+              "rate": "33.7587%"
+            },
+            {
+              "item": "Stage 3 — Epic Grade (Themed + Standard)",
+              "rate": "10.9077%"
+            },
+            {
+              "item": "Stage 4 — Epic Grade (Themed only, Full Set chance)",
+              "rate": "5.4916%"
+            }
           ]
         },
         {
           "name": "CookieRun: OvenSmash Soulchip Remix Stage Probabilities",
           "rows": [
-            { "item": "Stage 1", "rate": "45.0000%", "detail": "Common 120-139, Rare 60-69, Epic 20-29, Coins 4,510-5,610" },
-            { "item": "Stage 2", "rate": "25.0000%", "detail": "Common 140-159, Rare 70-79, Epic 30-39, Coins 5,720-6,820" },
-            { "item": "Stage 3", "rate": "15.0000%", "detail": "Common 160-199, Rare 80-99, Epic 40-59, Coins 6,920-9,230" },
-            { "item": "Stage 4", "rate": "10.0000%", "detail": "Common 200-259, Rare 100-129, Epic 60-89, Coins 9,340-12,860" },
-            { "item": "Stage 5", "rate": "5.0000%", "detail": "Common 260-319, Rare 130-159, Epic 90-119, Coins 12,960-16,480" }
+            {
+              "item": "Stage 1",
+              "rate": "45.0000%",
+              "detail": "Common 120-139, Rare 60-69, Epic 20-29, Coins 4,510-5,610"
+            },
+            {
+              "item": "Stage 2",
+              "rate": "25.0000%",
+              "detail": "Common 140-159, Rare 70-79, Epic 30-39, Coins 5,720-6,820"
+            },
+            {
+              "item": "Stage 3",
+              "rate": "15.0000%",
+              "detail": "Common 160-199, Rare 80-99, Epic 40-59, Coins 6,920-9,230"
+            },
+            {
+              "item": "Stage 4",
+              "rate": "10.0000%",
+              "detail": "Common 200-259, Rare 100-129, Epic 60-89, Coins 9,340-12,860"
+            },
+            {
+              "item": "Stage 5",
+              "rate": "5.0000%",
+              "detail": "Common 260-319, Rare 130-159, Epic 90-119, Coins 12,960-16,480"
+            }
           ]
         },
         {
           "name": "CookieRun: OvenSmash Battle Box Upgrade Distribution",
           "rows": [
-            { "item": "Battle Box I", "rate": "Upgrade 1 at 80%", "detail": "2: 12.5%, 3: 6%, 4: 1.4%, 5: 0.1%, 6: 0.002%" },
-            { "item": "Battle Box II", "rate": "Upgrade 2 at 80%", "detail": "3: 12.5%, 4: 6%, 5: 1.4%, 6: 0.1%" },
-            { "item": "Battle Box III", "rate": "Upgrade 3 at 80%", "detail": "4: 12.5%, 5: 6%, 6: 1.5%" },
-            { "item": "Battle Box IV", "rate": "Upgrade 4 at 80%", "detail": "5: 12.5%, 6: 7.5%" },
-            { "item": "Battle Box V", "rate": "Upgrade 5 at 80%", "detail": "6: 20%" },
-            { "item": "Battle Box VI", "rate": "Upgrade 6 at 100%", "detail": "Guaranteed max upgrade" }
+            {
+              "item": "Battle Box I",
+              "rate": "Upgrade 1 at 80%",
+              "detail": "2: 12.5%, 3: 6%, 4: 1.4%, 5: 0.1%, 6: 0.002%"
+            },
+            {
+              "item": "Battle Box II",
+              "rate": "Upgrade 2 at 80%",
+              "detail": "3: 12.5%, 4: 6%, 5: 1.4%, 6: 0.1%"
+            },
+            {
+              "item": "Battle Box III",
+              "rate": "Upgrade 3 at 80%",
+              "detail": "4: 12.5%, 5: 6%, 6: 1.5%"
+            },
+            {
+              "item": "Battle Box IV",
+              "rate": "Upgrade 4 at 80%",
+              "detail": "5: 12.5%, 6: 7.5%"
+            },
+            {
+              "item": "Battle Box V",
+              "rate": "Upgrade 5 at 80%",
+              "detail": "6: 20%"
+            },
+            {
+              "item": "Battle Box VI",
+              "rate": "Upgrade 6 at 100%",
+              "detail": "Guaranteed max upgrade"
+            }
           ]
         },
         {
           "name": "CookieRun: OvenSmash Coin Box Drop Rates",
           "rows": [
-            { "item": "Small Coin Box", "rate": "4,600–10,600", "detail": "Stage 1: 51.2% (4,600-5,600), Stage 2: 31.8% (5,601-7,600), Stage 3: 17% (7,601-10,600)" },
-            { "item": "Medium Coin Box", "rate": "14,000–32,000", "detail": "Stage 1: 51.2% (14,000-17,000), Stage 2: 31.8% (17,001-23,000), Stage 3: 17% (23,001-32,000)" },
-            { "item": "Large Coin Box", "rate": "28,000–64,000", "detail": "Stage 1: 51.2% (28,000-34,000), Stage 2: 31.8% (34,001-46,000), Stage 3: 17% (46,001-64,000)" }
+            {
+              "item": "Small Coin Box",
+              "rate": "4,600–10,600",
+              "detail": "Stage 1: 51.2% (4,600-5,600), Stage 2: 31.8% (5,601-7,600), Stage 3: 17% (7,601-10,600)"
+            },
+            {
+              "item": "Medium Coin Box",
+              "rate": "14,000–32,000",
+              "detail": "Stage 1: 51.2% (14,000-17,000), Stage 2: 31.8% (17,001-23,000), Stage 3: 17% (23,001-32,000)"
+            },
+            {
+              "item": "Large Coin Box",
+              "rate": "28,000–64,000",
+              "detail": "Stage 1: 51.2% (28,000-34,000), Stage 2: 31.8% (34,001-46,000), Stage 3: 17% (46,001-64,000)"
+            }
           ]
         }
       ]
@@ -1144,19 +1446,79 @@
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "\u00a9 2026 CookieRun: OvenSmash Wiki. Not affiliated with Devsisters.",
+    "copyright": "© 2026 CookieRun: OvenSmash Wiki. Not affiliated with Devsisters.",
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
+    "guide": {
+      "title": "Cookie Run: OvenSmash Guide",
+      "description": "Complete guides covering beginner tips, kingdom missions, exclusive costumes, and advanced strategies for Cookie Run: OvenSmash.",
+      "metaTitle": "Cookie Run: OvenSmash Guide - Beginner Tips & Strategies",
+      "metaDescription": "Master Cookie Run: OvenSmash with beginner guides, kingdom mission walkthroughs, costume guides, and advanced gameplay strategies.",
+      "categoryLabel": "GUIDE",
+      "whatIs": "What are Cookie Run: OvenSmash Guides?",
+      "whatIsDescription": "Comprehensive guides covering everything from first-session basics to advanced PvP tactics, kingdom missions, and exclusive costume unlocks in Cookie Run: OvenSmash.",
+      "why": "Why read Cookie Run: OvenSmash guides?",
+      "whySteps": {
+        "step1Title": "Master the Basics",
+        "step1Description": "Learn controls, match flow, and Cookie roles from your very first session",
+        "step2Title": "Complete Missions",
+        "step2Description": "Follow step-by-step walkthroughs for kingdom missions and event quests",
+        "step3Title": "Unlock Costumes",
+        "step3Description": "Discover how to earn exclusive costumes and customize your Cookies"
+      },
+      "featured": "Essential Guides",
+      "all": "All Guides"
+    },
+    "codes": {
+      "title": "Cookie Run: OvenSmash Codes",
+      "description": "Latest active coupon codes for free Crystals, Coins, and rewards. Updated with every new release.",
+      "metaTitle": "Cookie Run: OvenSmash Codes - Free Crystals & Rewards",
+      "metaDescription": "Get free Crystals, Coins, and items with active Cookie Run: OvenSmash codes. Updated list with working codes and step-by-step redemption guide.",
+      "categoryLabel": "CODES",
+      "whatIs": "What are Cookie Run: OvenSmash Codes?",
+      "whatIsDescription": "Coupon codes are special promotional keys released by Devsisters that grant free Crystals, Coins, and in-game items. Redeem them through the official DevPlay coupon page.",
+      "why": "Why use Cookie Run: OvenSmash codes?",
+      "whySteps": {
+        "step1Title": "Free Resources",
+        "step1Description": "Instantly receive Crystals, Coins, and items without spending real money",
+        "step2Title": "Accelerate Progress",
+        "step2Description": "Use free rewards to summon Cookies and upgrade your team faster",
+        "step3Title": "Limited-Time Rewards",
+        "step3Description": "Codes expire quickly — redeem them before they become inactive"
+      },
+      "featured": "Active Codes",
+      "all": "All Codes"
+    },
+    "ranking": {
+      "title": "Cookie Run: OvenSmash Ranking",
+      "description": "Current meta tier list ranking all Cookies by strength, role impact, and competitive viability.",
+      "metaTitle": "Cookie Run: OvenSmash Tier List & Rankings - Best Cookies",
+      "metaDescription": "Cookie Run: OvenSmash tier list ranking every Cookie by meta strength, role effectiveness, and ranked performance. Find the best characters to play.",
+      "categoryLabel": "RANKING",
+      "whatIs": "What is the Cookie Run: OvenSmash Ranking?",
+      "whatIsDescription": "The tier list ranks every Cookie by their current meta strength, role impact, and ability to convert wins across all competitive game modes in Cookie Run: OvenSmash.",
+      "why": "Why check Cookie Run: OvenSmash rankings?",
+      "whySteps": {
+        "step1Title": "Pick Strong Cookies",
+        "step1Description": "Know which Cookies dominate the current competitive meta",
+        "step2Title": "Plan Your Roster",
+        "step2Description": "Invest resources into Cookies that will stay relevant across patches",
+        "step3Title": "Counter the Meta",
+        "step3Description": "Understand matchups to counter popular high-tier picks"
+      },
+      "featured": "Current Rankings",
+      "all": "Full Tier List"
+    },
     "cookies": {
-      "title": "CookieRun: OvenSmash Cookies",
+      "title": "Cookie Run: OvenSmash Cookies",
       "description": "Complete character roster with roles, rarities, abilities, and practical usage tips for every Cookie.",
-      "metaTitle": "CookieRun: OvenSmash Cookies - Full Character List & Roles",
-      "metaDescription": "Complete CookieRun: OvenSmash Cookies list with roles, rarities, abilities, and tier rankings. Find the best Cookie for your playstyle.",
+      "metaTitle": "Cookie Run: OvenSmash Cookies - Full Character List & Roles",
+      "metaDescription": "Complete Cookie Run: OvenSmash character list with roles, rarities, abilities, and tier rankings. Find the best Cookie for your playstyle.",
       "categoryLabel": "COOKIES",
-      "whatIs": "What are Cookies?",
-      "whatIsDescription": "Cookies are the playable characters in CookieRun: OvenSmash. Each Cookie has a defined role, unique abilities, and an ultimate skill.",
-      "why": "Why learn about Cookies?",
+      "whatIs": "What are Cookie Run: OvenSmash Cookies?",
+      "whatIsDescription": "Cookies are the playable characters in Cookie Run: OvenSmash. Each Cookie has a defined role (Tank, Damage, Control, or Support), unique abilities, and an ultimate skill.",
+      "why": "Why learn about Cookie Run: OvenSmash Cookies?",
       "whySteps": {
         "step1Title": "Choose Your Main",
         "step1Description": "Find the Cookie that matches your preferred playstyle and role",
@@ -1168,145 +1530,85 @@
       "featured": "Featured Cookies",
       "all": "All Cookies"
     },
-    "builds": {
-      "title": "CookieRun: OvenSmash Builds",
-      "description": "Optimal skill setups, Power Biscuit choices, and playstyle guides for top-tier Cookies.",
-      "metaTitle": "CookieRun: OvenSmash Builds - Best Skill & Biscuit Setups",
-      "metaDescription": "Best CookieRun: OvenSmash builds with optimal skills, Power Biscuits, and playstyle tips for every role.",
-      "categoryLabel": "BUILDS",
-      "whatIs": "What are Builds?",
-      "whatIsDescription": "Builds are the recommended skill, ultimate, and Power Biscuit combinations for each Cookie to maximize their effectiveness in battle.",
-      "why": "Why follow builds?",
+    "download": {
+      "title": "Cookie Run: OvenSmash Download",
+      "description": "Download Cookie Run: OvenSmash on iOS, Android, PC via Google Play Games, BlueStacks, or Steam.",
+      "metaTitle": "Cookie Run: OvenSmash Download - PC, iOS, Android & APK",
+      "metaDescription": "Download Cookie Run: OvenSmash on PC, iOS, Android, BlueStacks, and Steam. Complete installation guide with APK download and emulator setup instructions.",
+      "categoryLabel": "DOWNLOAD",
+      "whatIs": "How to Download Cookie Run: OvenSmash?",
+      "whatIsDescription": "Cookie Run: OvenSmash is available on iOS and Android. PC players can use Google Play Games, BlueStacks emulator, or wait for the Steam release.",
+      "why": "Why download Cookie Run: OvenSmash?",
       "whySteps": {
-        "step1Title": "Optimize Performance",
-        "step1Description": "Use proven setups to get the most out of your Cookie's kit",
-        "step2Title": "Save Resources",
-        "step2Description": "Avoid wasting Coins on suboptimal upgrades",
-        "step3Title": "Win More Matches",
-        "step3Description": "Properly built Cookies perform significantly better in ranked play"
+        "step1Title": "Cross-Platform Play",
+        "step1Description": "Play on mobile or PC with the same account and progress",
+        "step2Title": "PC Advantages",
+        "step2Description": "Enjoy better controls and larger screen for competitive matches",
+        "step3Title": "Easy Setup",
+        "step3Description": "Follow step-by-step guides for your preferred platform"
       },
-      "featured": "Featured Builds",
-      "all": "All Builds"
+      "featured": "Popular Downloads",
+      "all": "All Download Guides"
     },
-    "tier-list": {
-      "title": "CookieRun: OvenSmash Tier List",
-      "description": "Current meta rankings for all Cookies by role, with strengths and weaknesses.",
-      "metaTitle": "CookieRun: OvenSmash Tier List - Best Cookies Ranked",
-      "metaDescription": "Current CookieRun: OvenSmash tier list ranking the best Cookies by meta strength, role impact, and ease of use.",
-      "categoryLabel": "TIER LIST",
-      "whatIs": "What is the Tier List?",
-      "whatIsDescription": "The tier list ranks every Cookie by their current meta strength, role impact, and ability to convert wins in ranked and casual play.",
-      "why": "Why check the tier list?",
+    "release": {
+      "title": "Cookie Run: OvenSmash Release Info",
+      "description": "Launch dates, pre-registration details, official announcements, and regional publisher information.",
+      "metaTitle": "Cookie Run: OvenSmash Release Date & Launch Info",
+      "metaDescription": "Cookie Run: OvenSmash release date, pre-registration info, VNG regional launch details, and official announcements from Devsisters.",
+      "categoryLabel": "RELEASE",
+      "whatIs": "What is Cookie Run: OvenSmash Release Info?",
+      "whatIsDescription": "Official launch timeline, pre-registration milestones, global and regional release schedules, and publisher partnership details for Cookie Run: OvenSmash.",
+      "why": "Why follow Cookie Run: OvenSmash release info?",
       "whySteps": {
-        "step1Title": "Pick Strong Cookies",
-        "step1Description": "Know which Cookies perform best in the current meta",
-        "step2Title": "Plan Your Roster",
-        "step2Description": "Invest resources into Cookies that will stay relevant",
-        "step3Title": "Counter the Meta",
-        "step3Description": "Understand matchups to counter popular picks"
+        "step1Title": "Pre-Registration Rewards",
+        "step1Description": "Claim exclusive launch rewards by pre-registering before release",
+        "step2Title": "Regional Availability",
+        "step2Description": "Check when Cookie Run: OvenSmash launches in your region",
+        "step3Title": "Official Updates",
+        "step3Description": "Stay informed with announcements directly from Devsisters and VNG"
       },
-      "featured": "Current Rankings",
-      "all": "Full Tier List"
+      "featured": "Latest Release News",
+      "all": "All Release Info"
     },
-    "modes": {
-      "title": "CookieRun: OvenSmash Game Modes",
-      "description": "Rules, objectives, and winning strategies for all six competitive game modes.",
-      "metaTitle": "CookieRun: OvenSmash Modes - Rules & Strategies",
-      "metaDescription": "Complete guide to all CookieRun: OvenSmash game modes including Castle Crasher, Drop the Beat, Jelly Race, and more.",
-      "categoryLabel": "GAME MODES",
-      "whatIs": "What are Game Modes?",
-      "whatIsDescription": "CookieRun: OvenSmash features six competitive modes, each with unique objectives and win conditions.",
-      "why": "Why learn about modes?",
+    "issues": {
+      "title": "Cookie Run: OvenSmash Issues & Fixes",
+      "description": "Solutions for common errors, crashes, lag, black screens, and server connection problems.",
+      "metaTitle": "Cookie Run: OvenSmash Issues - Error Fixes & Troubleshooting",
+      "metaDescription": "Fix Cookie Run: OvenSmash issues including error codes, lag, black screen, crashes, and server connection failures. Step-by-step troubleshooting guide.",
+      "categoryLabel": "ISSUES",
+      "whatIs": "What are Cookie Run: OvenSmash Issues?",
+      "whatIsDescription": "Common technical problems players encounter including error codes, connection failures, lag spikes, black screens, and app crashes across different devices.",
+      "why": "Why check Cookie Run: OvenSmash troubleshooting?",
       "whySteps": {
-        "step1Title": "Understand Objectives",
-        "step1Description": "Know what to do in each mode to win matches",
-        "step2Title": "Choose the Right Cookie",
-        "step2Description": "Some Cookies excel in specific modes",
-        "step3Title": "Develop Strategies",
-        "step3Description": "Master mode-specific tactics to climb ranks"
+        "step1Title": "Quick Fixes",
+        "step1Description": "Resolve common errors and get back into the game fast",
+        "step2Title": "Device-Specific Solutions",
+        "step2Description": "Find fixes tailored to your specific device and OS version",
+        "step3Title": "Prevent Future Issues",
+        "step3Description": "Learn settings and habits that minimize crashes and lag"
       },
-      "featured": "Mode Guides",
-      "all": "All Modes"
+      "featured": "Common Issues",
+      "all": "All Issues & Fixes"
     },
-    "codes": {
-      "title": "CookieRun: OvenSmash Codes",
-      "description": "Active coupon codes, expired codes, and step-by-step redemption instructions.",
-      "metaTitle": "CookieRun: OvenSmash Codes - Active Coupons & Rewards",
-      "metaDescription": "Latest CookieRun: OvenSmash codes for free Crystals, Coins, and rewards. Updated list with active and expired codes plus redemption guide.",
-      "categoryLabel": "CODES",
-      "whatIs": "What are Codes?",
-      "whatIsDescription": "Coupon codes provide free rewards including Crystals, Coins, and items. They are redeemed through the official DevPlay coupon page.",
-      "why": "Why check codes?",
+    "media": {
+      "title": "Cookie Run: OvenSmash Media & Community",
+      "description": "Official social channels, community hubs, content creators, and media resources.",
+      "metaTitle": "Cookie Run: OvenSmash Media - Discord, Reddit, YouTube & More",
+      "metaDescription": "Join the Cookie Run: OvenSmash community on Discord, Reddit, YouTube, Twitter, and Facebook. Find official channels and community resources.",
+      "categoryLabel": "MEDIA",
+      "whatIs": "What is Cookie Run: OvenSmash Media?",
+      "whatIsDescription": "Official and community channels where players share strategies, discuss updates, report bugs, and connect with other Cookie Run: OvenSmash fans.",
+      "why": "Why join Cookie Run: OvenSmash communities?",
       "whySteps": {
-        "step1Title": "Free Rewards",
-        "step1Description": "Get Crystals and items without spending real money",
-        "step2Title": "Stay Updated",
-        "step2Description": "New codes are released with events and updates",
-        "step3Title": "Quick Progression",
-        "step3Description": "Code rewards accelerate early game progression"
+        "step1Title": "Get Updates First",
+        "step1Description": "Official channels share codes, events, and patch notes before anyone else",
+        "step2Title": "Find Teams",
+        "step2Description": "Connect with players for parties, ranked matches, and friend invites",
+        "step3Title": "Learn Strategies",
+        "step3Description": "Watch content creators and discuss meta with experienced players"
       },
-      "featured": "Active Codes",
-      "all": "All Codes"
-    },
-    "beginner": {
-      "title": "CookieRun: OvenSmash Beginner Guide",
-      "description": "Complete starter path covering controls, objectives, team roles, and early progression tips.",
-      "metaTitle": "CookieRun: OvenSmash Beginner Guide - Getting Started",
-      "metaDescription": "New to CookieRun: OvenSmash? Start here with beginner tips, match flow, role basics, and early progression strategies.",
-      "categoryLabel": "BEGINNER",
-      "whatIs": "What is the Beginner Guide?",
-      "whatIsDescription": "A structured starting path for new players covering match flow, objectives, Cookie selection, and early upgrade habits.",
-      "why": "Why read the beginner guide?",
-      "whySteps": {
-        "step1Title": "Learn the Basics",
-        "step1Description": "Understand how matches work and what each mode requires",
-        "step2Title": "Avoid Mistakes",
-        "step2Description": "Skip the common errors that cause early losses",
-        "step3Title": "Progress Efficiently",
-        "step3Description": "Build good habits from your first session"
-      },
-      "featured": "Essential Guides",
-      "all": "All Beginner Content"
-    },
-    "updates": {
-      "title": "CookieRun: OvenSmash Updates",
-      "description": "Latest patch notes, balance changes, events, and official announcements.",
-      "metaTitle": "CookieRun: OvenSmash Updates - Patch Notes & Events",
-      "metaDescription": "Stay current with CookieRun: OvenSmash updates including patch notes, balance changes, events, and new content announcements.",
-      "categoryLabel": "UPDATES",
-      "whatIs": "What are Updates?",
-      "whatIsDescription": "Patch notes, balance changes, new Cookie releases, event announcements, and maintenance schedules.",
-      "why": "Why follow updates?",
-      "whySteps": {
-        "step1Title": "Meta Changes",
-        "step1Description": "Balance patches shift which Cookies and builds are strongest",
-        "step2Title": "New Content",
-        "step2Description": "New Cookies, modes, and features arrive with updates",
-        "step3Title": "Event Rewards",
-        "step3Description": "Limited-time events offer valuable free rewards"
-      },
-      "featured": "Latest Updates",
-      "all": "All Updates"
-    },
-    "cards": {
-      "title": "CookieRun: OvenSmash Spell Cards",
-      "description": "Complete spell card guide with effects, best combinations, and tactical usage tips.",
-      "metaTitle": "CookieRun: OvenSmash Spell Cards - Effects & Best Combos",
-      "metaDescription": "Full CookieRun: OvenSmash spell card guide with effects, tactical usage, and best combinations for every role and game mode.",
-      "categoryLabel": "SPELL CARDS",
-      "whatIs": "What are Spell Cards?",
-      "whatIsDescription": "Spell cards are equippable abilities that provide shields, heals, freezes, and burst effects during battle.",
-      "why": "Why learn about spell cards?",
-      "whySteps": {
-        "step1Title": "Swing Fights",
-        "step1Description": "Well-timed spell cards can turn losing fights into wins",
-        "step2Title": "Match Your Role",
-        "step2Description": "Choose cards that complement your Cookie's kit",
-        "step3Title": "Counter Strategies",
-        "step3Description": "Use the right cards to counter enemy tactics"
-      },
-      "featured": "Top Spell Cards",
-      "all": "All Spell Cards"
+      "featured": "Official Channels",
+      "all": "All Media & Community"
     }
   }
 }

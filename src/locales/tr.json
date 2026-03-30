@@ -11,12 +11,14 @@
     }
   },
   "nav": {
-    "guides": "Rehberler",
-    "crafting": "Üretim",
-    "items": "Eşyalar",
-    "biomes": "Biyomlar",
-    "building": "İnşa",
-    "support": "Destek"
+    "guide": "Rehber",
+    "codes": "Kodlar",
+    "ranking": "Sıralama",
+    "cookies": "Kurabiyeler",
+    "download": "İndir",
+    "release": "Çıkış",
+    "issues": "Sorunlar",
+    "media": "Medya"
   },
   "common": {
     "home": "Ana Sayfa",
