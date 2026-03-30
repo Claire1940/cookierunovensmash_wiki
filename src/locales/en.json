@@ -865,25 +865,53 @@
     "ratesGuide": {
       "title": "CookieRun: OvenSmash Rates Guide",
       "displayType": "table",
-      "intro": "Knowing the actual summon odds, costume draw rates, and battle box drop percentages helps you make informed decisions before spending premium currency in CookieRun: OvenSmash.",
+      "subtitle": "Read the official summon, costume draw, and box probabilities in a cleaner format. Compare value before spending Crystals, tickets, or boxes.",
+      "intro": "CookieRun: OvenSmash publishes separate probability tables for General Summon, Soulchip Remix, Costume Draw, Battle Boxes, and Coin Boxes. General Summon splits 40% Common, 40% Rare, and 20% Epic by total grade rate, while Costume Draw is weighted toward Common and Rare looks with a smaller Epic slice.",
       "tables": [
         {
-          "name": "General Summon Rates",
+          "name": "CookieRun: OvenSmash General Summon Total Grade Rates",
           "rows": [
-            { "item": "Epic Cookie", "rate": "3.0%" },
-            { "item": "Rare Cookie", "rate": "15.0%" },
-            { "item": "Common Cookie", "rate": "32.0%" },
-            { "item": "Soulchips", "rate": "30.0%" },
-            { "item": "Other Items", "rate": "20.0%" }
+            { "item": "Common Soulchips", "rate": "40.0000%", "detail": "1x: 18% (40-59), 2x: 10% (60-79), 3x: 6% (80-119), 4x: 4% (120-159), 5x: 2% (160)" },
+            { "item": "Rare Soulchips", "rate": "40.0000%", "detail": "1x: 18% (20-29), 2x: 10% (30-39), 3x: 6% (40-59), 4x: 4% (60-79), 5x: 2% (80)" },
+            { "item": "Epic Soulchips", "rate": "20.0000%", "detail": "1x: 9% (5), 2x: 5% (6-8), 3x: 3% (9-12), 4x: 2% (20), 5x: 1% (40)" }
           ]
         },
         {
-          "name": "Costume Draw Rates",
+          "name": "CookieRun: OvenSmash Costume Draw Rates",
           "rows": [
-            { "item": "Legendary Costume", "rate": "1.0%" },
-            { "item": "Epic Costume", "rate": "5.0%" },
-            { "item": "Rare Costume", "rate": "20.0%" },
-            { "item": "Common Costume", "rate": "74.0%" }
+            { "item": "Stage 1 — Common Grade", "rate": "49.8421%" },
+            { "item": "Stage 2 — Rare Grade", "rate": "33.7587%" },
+            { "item": "Stage 3 — Epic Grade (Themed + Standard)", "rate": "10.9077%" },
+            { "item": "Stage 4 — Epic Grade (Themed only, Full Set chance)", "rate": "5.4916%" }
+          ]
+        },
+        {
+          "name": "CookieRun: OvenSmash Soulchip Remix Stage Probabilities",
+          "rows": [
+            { "item": "Stage 1", "rate": "45.0000%", "detail": "Common 120-139, Rare 60-69, Epic 20-29, Coins 4,510-5,610" },
+            { "item": "Stage 2", "rate": "25.0000%", "detail": "Common 140-159, Rare 70-79, Epic 30-39, Coins 5,720-6,820" },
+            { "item": "Stage 3", "rate": "15.0000%", "detail": "Common 160-199, Rare 80-99, Epic 40-59, Coins 6,920-9,230" },
+            { "item": "Stage 4", "rate": "10.0000%", "detail": "Common 200-259, Rare 100-129, Epic 60-89, Coins 9,340-12,860" },
+            { "item": "Stage 5", "rate": "5.0000%", "detail": "Common 260-319, Rare 130-159, Epic 90-119, Coins 12,960-16,480" }
+          ]
+        },
+        {
+          "name": "CookieRun: OvenSmash Battle Box Upgrade Distribution",
+          "rows": [
+            { "item": "Battle Box I", "rate": "Upgrade 1 at 80%", "detail": "2: 12.5%, 3: 6%, 4: 1.4%, 5: 0.1%, 6: 0.002%" },
+            { "item": "Battle Box II", "rate": "Upgrade 2 at 80%", "detail": "3: 12.5%, 4: 6%, 5: 1.4%, 6: 0.1%" },
+            { "item": "Battle Box III", "rate": "Upgrade 3 at 80%", "detail": "4: 12.5%, 5: 6%, 6: 1.5%" },
+            { "item": "Battle Box IV", "rate": "Upgrade 4 at 80%", "detail": "5: 12.5%, 6: 7.5%" },
+            { "item": "Battle Box V", "rate": "Upgrade 5 at 80%", "detail": "6: 20%" },
+            { "item": "Battle Box VI", "rate": "Upgrade 6 at 100%", "detail": "Guaranteed max upgrade" }
+          ]
+        },
+        {
+          "name": "CookieRun: OvenSmash Coin Box Drop Rates",
+          "rows": [
+            { "item": "Small Coin Box", "rate": "4,600–10,600", "detail": "Stage 1: 51.2% (4,600-5,600), Stage 2: 31.8% (5,601-7,600), Stage 3: 17% (7,601-10,600)" },
+            { "item": "Medium Coin Box", "rate": "14,000–32,000", "detail": "Stage 1: 51.2% (14,000-17,000), Stage 2: 31.8% (17,001-23,000), Stage 3: 17% (23,001-32,000)" },
+            { "item": "Large Coin Box", "rate": "28,000–64,000", "detail": "Stage 1: 51.2% (28,000-34,000), Stage 2: 31.8% (34,001-46,000), Stage 3: 17% (46,001-64,000)" }
           ]
         }
       ]
@@ -891,74 +919,167 @@
     "costumes": {
       "title": "CookieRun: OvenSmash Costumes Guide",
       "displayType": "gallery",
-      "intro": "Costumes in CookieRun: OvenSmash are cosmetic skins obtained through Costume Draws and special events. They change your Cookie's appearance without affecting gameplay stats.",
-      "sections": [
+      "subtitle": "See how OvenSmash handles style, themed costume drops, and visual collections. Covers what is cosmetic, how the costume pool is structured, and what players can chase.",
+      "intro": "Customization is a core part of OvenSmash's identity. Players can build a Cookie with dozens of looks and items, while the official costume channels feature named seasonal themes such as Summer Time Breeze and Cosmic Odyssey.",
+      "items": [
         {
-          "name": "How CookieRun: OvenSmash Costumes Work",
-          "description": "Costumes are purely visual changes applied to your Cookie in battle. They come in Common, Rare, Epic, and Legendary rarity tiers, with higher tiers featuring more dramatic visual effects."
+          "name": "CookieRun: OvenSmash Custom Looks",
+          "tag": "Base Customization",
+          "description": "The App Store description presents customization as a headline feature, stating that players can create their own Cookie style with dozens of looks and items.",
+          "howToGet": "Use the game's appearance and costume systems to change your Cookie's visual style.",
+          "playerTakeaway": "The broadest style layer in OvenSmash, aimed at self-expression rather than raw combat power."
         },
         {
-          "name": "Obtaining CookieRun: OvenSmash Costumes",
-          "description": "Use Costume Draw Tickets to pull from the costume pool. Tickets are earned from events, login rewards, and the Oven Crown Road."
+          "name": "CookieRun: OvenSmash Standard Costume Pool",
+          "tag": "Draw Pool",
+          "description": "The official Costume Draw table confirms a mixed pool that includes Common, Rare, and Epic costume results, with Stage 3 listing Epic results that include both themed and standard costumes.",
+          "howToGet": "Pull through Costume Draw.",
+          "playerTakeaway": "Most costume results sit in the Common and Rare ranges, while Epic results are a smaller part of the pool."
         },
         {
-          "name": "CookieRun: OvenSmash Costume Collections",
-          "description": "Collecting multiple costumes for the same Cookie builds your collection score. Higher collection scores can unlock additional profile rewards."
+          "name": "CookieRun: OvenSmash Themed Epic Pool",
+          "tag": "Premium Style",
+          "description": "Stage 4 of Costume Draw is reserved for Epic Grade themed-only results and also includes a full set chance.",
+          "howToGet": "Pull through the top themed Epic stage in Costume Draw.",
+          "playerTakeaway": "The cleanest chase lane for players who want event-style costume sets rather than general cosmetic variety."
+        },
+        {
+          "name": "CookieRun: OvenSmash Summer Time Breeze",
+          "tag": "Seasonal Theme",
+          "description": "A summer costume line built around breezy outfits, stylish shades, and a vacation look for the Cookies.",
+          "howToGet": "Watch the official promotion cycle and matching costume releases.",
+          "playerTakeaway": "Leans into bright seasonal fashion and works well as a showcase set for style-first players."
+        },
+        {
+          "name": "CookieRun: OvenSmash Cosmic Odyssey",
+          "tag": "Seasonal Theme",
+          "description": "A space-themed costume line described with phrases such as space hackers and galactic wanderers.",
+          "howToGet": "Watch the official promotion cycle and matching costume releases.",
+          "playerTakeaway": "Gives OvenSmash a stronger sci-fi urban fantasy look and is one of the clearest themed identity sets announced so far."
         }
       ]
     },
     "updates": {
       "title": "CookieRun: OvenSmash Updates",
-      "displayType": "timeline",
-      "intro": "CookieRun: OvenSmash is a live-service PvP game with regular patches, balance changes, and event rotations. Stay current with the latest announcements and content drops.",
-      "entries": [
-        {
-          "title": "Global Launch",
-          "type": "Major Update",
-          "description": "CookieRun: OvenSmash launched globally on March 26, 2026, featuring 20 playable Cookies, six game modes, and the Oven Crown Road progression system."
-        },
-        {
-          "title": "Launch Event: Welcome to Platter City",
-          "type": "Event",
-          "description": "Celebrate the global launch with bonus Crystals, a free Cookie selector, daily login rewards, and limited-time missions."
-        },
-        {
-          "title": "Community Channels",
-          "type": "Info",
-          "description": "Follow official patch notes and event announcements through Discord, X/Twitter, YouTube, and the in-game news feed."
-        }
-      ],
+      "displayType": "card-list",
+      "subtitle": "Track the channels that matter for patch news, event drops, and new costume reveals.",
+      "intro": "The Help Center does not publish a fixed patch calendar and instead directs players to the official Discord for update timing. The most useful watchlist is Discord for next-update chatter, YouTube and X for reveal posts, and the app store listing for version history.",
       "channels": [
-        { "name": "Discord", "url": "https://discord.gg/crovensmash" },
-        { "name": "X / Twitter", "url": "https://x.com/CROvenSmash" },
-        { "name": "YouTube", "url": "https://www.youtube.com/@cookierunovensmash" },
-        { "name": "Help Center", "url": "https://cs-cookierunovensmash.devsisters.com/hc/en-us" }
+        {
+          "name": "CookieRun: OvenSmash Official Discord",
+          "role": "Primary place to check next update timing",
+          "details": "The official Help Center article for update timing specifically tells players to check the CookieRun: OvenSmash Discord regularly for the latest news, tactics, and community updates.",
+          "bestFor": "Next update notices, live announcements, community conversation",
+          "url": "https://discord.com/invite/crovensmash"
+        },
+        {
+          "name": "CookieRun: OvenSmash Official YouTube",
+          "role": "Best source for visual reveals",
+          "details": "The official YouTube channel publishes costume reveal content, including Cosmic Odyssey and Summer Time Breeze videos.",
+          "bestFor": "Trailers, costume previews, promo videos",
+          "url": "https://www.youtube.com/@cookierunovensmash"
+        },
+        {
+          "name": "CookieRun: OvenSmash Official X",
+          "role": "Fast-moving announcement feed",
+          "details": "The official X feed is used for costume promotions, share campaigns, and seasonal reveal posts, including summer and cosmic-themed costume announcements.",
+          "bestFor": "Short-form announcements, event reminders, promotional drops",
+          "url": "https://x.com/CROvenSmash"
+        },
+        {
+          "name": "CookieRun: OvenSmash App Store Version History",
+          "role": "Quick patch-note checkpoint",
+          "details": "The current version history shows Version 1.0.01 with the note: Fixed bugs and registered new in-app products for review.",
+          "bestFor": "Bug-fix confirmations and store-side version tracking",
+          "url": "https://apps.apple.com/us/app/cookierun-ovensmash/id6550902247"
+        },
+        {
+          "name": "CookieRun: OvenSmash Help Center Update Page",
+          "role": "Official support-side update guidance",
+          "details": "The support article on update timing is the official place that points users toward the main live-news channel.",
+          "bestFor": "Official confirmation of where update news is routed",
+          "url": "https://cs-cookierunovensmash.devsisters.com/hc/en-us/articles/56159773706009-When-is-the-next-update"
+        }
       ]
     },
     "troubleshooting": {
       "title": "CookieRun: OvenSmash Troubleshooting",
-      "displayType": "steps",
-      "intro": "If CookieRun: OvenSmash is crashing, failing to connect, or running poorly, follow these steps to resolve the most common launch-period issues.",
-      "steps": [
+      "displayType": "accordion",
+      "subtitle": "Fix install, update, connection, stutter, crash, and notification issues with the official device steps.",
+      "intro": "Most CookieRun: OvenSmash support steps repeat the same core checks: use the official store build, keep the device OS updated, free up space and memory, and make sure the device meets minimum requirements. For iPhone and iPad, iOS 15 or newer is required; for Android, version 9.0 or newer with 3 GB RAM or more.",
+      "items": [
         {
-          "title": "Update CookieRun: OvenSmash to the latest version",
-          "description": "Check your app store for available updates. Most launch-period crashes are resolved in the first few patches."
+          "question": "I can't install CookieRun: OvenSmash",
+          "answer": "Download the game only from the App Store or Google Play Store. Then check storage, free memory by removing unused apps or media, update the device OS, and confirm the minimum requirements: iOS 15 or newer, or Android 9.0 or newer with 3 GB RAM or more.",
+          "steps": [
+            "Use the official store version only",
+            "Check device storage capacity",
+            "Free memory by removing unused apps, videos, or photos",
+            "Update the device OS to the latest version",
+            "Confirm system requirements before trying again"
+          ]
         },
         {
-          "title": "Check your internet connection",
-          "description": "CookieRun: OvenSmash requires a stable internet connection for all game modes. Switch between Wi-Fi and mobile data to test connectivity."
+          "question": "Why can't I update CookieRun: OvenSmash?",
+          "answer": "Updating may require more space than the minimum install size. Free storage, keep at least 3 GB of space available, update the device OS, and confirm the same minimum requirements used for installation.",
+          "steps": [
+            "Free up device memory by removing unused apps or files",
+            "Keep at least 3 GB of free space available",
+            "Update the device OS to the latest version",
+            "Confirm iOS 15+ or Android 9.0+ with 3 GB RAM or more"
+          ]
         },
         {
-          "title": "Clear the app cache",
-          "description": "Go to your device settings, find CookieRun: OvenSmash in the app list, and clear the cache. This resolves most loading and display issues."
+          "question": "I can't connect to CookieRun: OvenSmash. What do I do?",
+          "answer": "Start with network quality. Unstable networks can make CookieRun: OvenSmash unstable, so switch to a reliable connection, confirm you installed the official store version, update the OS, free some device memory, and check the minimum device requirements.",
+          "steps": [
+            "Move to a stable network connection",
+            "Make sure the game was downloaded from the App Store or Google Play",
+            "Update the device OS",
+            "Free up memory by removing unused apps or media",
+            "Confirm iOS 15+ or Android 9.0+ with 3 GB RAM or more"
+          ]
         },
         {
-          "title": "Check device compatibility",
-          "description": "CookieRun: OvenSmash requires iOS 14 or later, or Android 7.0 or later, with at least 3GB RAM for smooth performance."
+          "question": "CookieRun: OvenSmash keeps stuttering during play",
+          "answer": "The Help Center points first to network stability, especially because full bars do not always mean a strong connection. Subway travel and crowded places can still cause unstable play. If the network is fine, close background apps to free device memory.",
+          "steps": [
+            "Use a strong network or a stable 3G or 4G connection",
+            "Avoid unstable environments such as crowded locations or subway travel if possible",
+            "Close other apps running in the background",
+            "Try again after freeing memory"
+          ]
         },
         {
-          "title": "Contact support if issues persist",
-          "description": "Submit a ticket through the official Help Center with your device model, OS version, and a description of the problem."
+          "question": "CookieRun: OvenSmash crashes on Android",
+          "answer": "Update Android first, then check connection quality, free at least 3 GB of space, close background apps, and restart the device. Android device variety means some devices may still fall short of recommended performance.",
+          "steps": [
+            "Update Android in Settings > About Device",
+            "Use a solid network connection",
+            "Free at least 3 GB of space",
+            "Close all running apps",
+            "Restart the device"
+          ]
+        },
+        {
+          "question": "CookieRun: OvenSmash crashes on iOS",
+          "answer": "Update iOS, check available storage, keep at least 3 GB of space free, remove unused apps or media, then close apps and restart the device. Jail-broken devices are not guaranteed to run CookieRun: OvenSmash correctly.",
+          "steps": [
+            "Update iOS in Settings > General > Software Update",
+            "Check storage in Settings > General > About",
+            "Keep at least 3 GB of free space available",
+            "Remove unused apps, videos, or photos if needed",
+            "Close running apps and restart the device"
+          ]
+        },
+        {
+          "question": "How do I disable CookieRun: OvenSmash push notifications?",
+          "answer": "There are three paths. In the game settings, go to Settings > Notifications and toggle the needed alerts. On iOS, go to Settings > Notifications and select CookieRun: OvenSmash. On Android, go to Settings > Sounds and notifications > Application notifications, then block or unblock notifications for the game.",
+          "steps": [
+            "In the game or general settings, open Notifications and toggle the needed alerts",
+            "On iOS, go to Settings > Notifications and select CookieRun: OvenSmash",
+            "On Android, go to Settings > Sounds and notifications > Application notifications, then block or unblock game notifications"
+          ]
         }
       ]
     }

@@ -28,6 +28,15 @@ import {
   Users,
   Wrench,
   AlertTriangle,
+  Gem,
+  HelpCircle,
+  Layers,
+  Palette,
+  Rocket,
+  Smartphone,
+  Sun,
+  Video,
+  AtSign,
 } from 'lucide-react'
 import Link from 'next/link'
 import { useMessages } from 'next-intl'
@@ -155,6 +164,7 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
   const [modeExpanded, setModeExpanded] = useState<number | null>(null)
   const [summonExpanded, setSummonExpanded] = useState<number | null>(null)
   const [copiedCode, setCopiedCode] = useState<string | null>(null)
+  const [troubleExpanded, setTroubleExpanded] = useState<number | null>(null)
 
   const copyCode = (code: string) => {
     navigator.clipboard.writeText(code)
@@ -960,6 +970,9 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4">{t.modules.ratesGuide.title}</h2>
+            {t.modules.ratesGuide.subtitle && (
+              <p className="text-muted-foreground text-base max-w-3xl mx-auto mb-3">{t.modules.ratesGuide.subtitle}</p>
+            )}
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.ratesGuide.intro}</p>
           </div>
           <div className="scroll-reveal space-y-6">
@@ -971,9 +984,14 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
                 </h3>
                 <div className="space-y-2">
                   {table.rows.map((row: any, ri2: number) => (
-                    <div key={ri2} className="flex items-center justify-between p-3 bg-white/5 rounded-lg">
-                      <span className="text-sm">{row.item}</span>
-                      <span className="text-sm font-mono font-bold text-[hsl(var(--nav-theme-light))]">{row.rate}</span>
+                    <div key={ri2} className="p-3 bg-white/5 rounded-lg">
+                      <div className="flex items-center justify-between">
+                        <span className="text-sm font-medium">{row.item}</span>
+                        <span className="text-sm font-mono font-bold text-[hsl(var(--nav-theme-light))]">{row.rate}</span>
+                      </div>
+                      {row.detail && (
+                        <p className="text-xs text-muted-foreground mt-1.5 pl-2 border-l-2 border-[hsl(var(--nav-theme)/0.3)]">{row.detail}</p>
+                      )}
                     </div>
                   ))}
                 </div>
@@ -988,16 +1006,40 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4">{t.modules.costumes.title}</h2>
+            {t.modules.costumes.subtitle && (
+              <p className="text-muted-foreground text-base max-w-3xl mx-auto mb-3">{t.modules.costumes.subtitle}</p>
+            )}
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.costumes.intro}</p>
           </div>
-          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-3 gap-4">
-            {t.modules.costumes.sections.map((section: any, index: number) => (
-              <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
-                <Shirt className="w-6 h-6 text-[hsl(var(--nav-theme-light))] mb-3" />
-                <h3 className="font-bold mb-2">{section.name}</h3>
-                <p className="text-sm text-muted-foreground">{section.description}</p>
-              </div>
-            ))}
+          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            {t.modules.costumes.items.map((item: any, index: number) => {
+              const costumeIcons = [Palette, Layers, Gem, Sun, Rocket]
+              const CostumeIcon = costumeIcons[index] || Shirt
+              return (
+                <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors flex flex-col">
+                  <div className="flex items-center gap-3 mb-3">
+                    <div className="w-10 h-10 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] flex items-center justify-center flex-shrink-0">
+                      <CostumeIcon className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
+                    </div>
+                    <div>
+                      <h3 className="font-bold text-sm">{item.name}</h3>
+                      <span className="text-xs px-2 py-0.5 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-[hsl(var(--nav-theme-light))]">{item.tag}</span>
+                    </div>
+                  </div>
+                  <p className="text-sm text-muted-foreground mb-3 flex-1">{item.description}</p>
+                  <div className="space-y-2 pt-3 border-t border-border">
+                    <div className="flex items-start gap-2">
+                      <Gift className="w-4 h-4 text-[hsl(var(--nav-theme-light))] mt-0.5 flex-shrink-0" />
+                      <span className="text-xs text-muted-foreground">{item.howToGet}</span>
+                    </div>
+                    <div className="flex items-start gap-2">
+                      <Star className="w-4 h-4 text-[hsl(var(--nav-theme-light))] mt-0.5 flex-shrink-0" />
+                      <span className="text-xs text-muted-foreground">{item.playerTakeaway}</span>
+                    </div>
+                  </div>
+                </div>
+              )
+            })}
           </div>
         </div>
       </section>
@@ -1007,31 +1049,40 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4">{t.modules.updates.title}</h2>
+            {t.modules.updates.subtitle && (
+              <p className="text-muted-foreground text-base max-w-3xl mx-auto mb-3">{t.modules.updates.subtitle}</p>
+            )}
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.updates.intro}</p>
           </div>
-          <div className="scroll-reveal relative pl-6 border-l-2 border-[hsl(var(--nav-theme)/0.3)] space-y-8 mb-8">
-            {t.modules.updates.entries.map((entry: any, index: number) => (
-              <div key={index} className="relative">
-                <div className="absolute -left-[1.4rem] w-4 h-4 rounded-full bg-[hsl(var(--nav-theme))] border-2 border-background" />
-                <div className="p-5 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
-                  <div className="flex items-center gap-2 mb-2">
-                    <span className="text-xs px-2 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)]">{entry.type}</span>
-                    <Clock className="w-4 h-4 text-muted-foreground" />
+          <div className="scroll-reveal space-y-4">
+            {t.modules.updates.channels.map((ch: any, index: number) => {
+              const channelIcons = [MessageCircle, Video, AtSign, Smartphone, HelpCircle]
+              const ChannelIcon = channelIcons[index] || Bell
+              return (
+                <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
+                  <div className="flex items-start gap-4">
+                    <div className="w-12 h-12 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] flex items-center justify-center flex-shrink-0">
+                      <ChannelIcon className="w-6 h-6 text-[hsl(var(--nav-theme-light))]" />
+                    </div>
+                    <div className="flex-1">
+                      <div className="flex items-center gap-2 mb-1 flex-wrap">
+                        <h3 className="font-bold">{ch.name}</h3>
+                        <span className="text-xs px-2 py-0.5 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-[hsl(var(--nav-theme-light))]">{ch.role}</span>
+                      </div>
+                      <p className="text-sm text-muted-foreground mb-2">{ch.details}</p>
+                      <div className="flex items-center gap-2 mb-3">
+                        <Check className="w-4 h-4 text-[hsl(var(--nav-theme-light))] flex-shrink-0" />
+                        <span className="text-xs text-muted-foreground">{ch.bestFor}</span>
+                      </div>
+                      <a href={ch.url} target="_blank" rel="noopener noreferrer"
+                        className="inline-flex items-center gap-1.5 text-sm text-[hsl(var(--nav-theme-light))] hover:underline">
+                        Visit Channel <ExternalLink className="w-3 h-3" />
+                      </a>
+                    </div>
                   </div>
-                  <h3 className="font-bold mb-1">{entry.title}</h3>
-                  <p className="text-muted-foreground text-sm">{entry.description}</p>
                 </div>
-              </div>
-            ))}
-          </div>
-          {/* Update channels */}
-          <div className="scroll-reveal flex flex-wrap gap-3 justify-center">
-            {t.modules.updates.channels.map((ch: any, i: number) => (
-              <a key={i} href={ch.url} target="_blank" rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-sm hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors">
-                {ch.name} <ExternalLink className="w-3 h-3" />
-              </a>
-            ))}
+              )
+            })}
           </div>
         </div>
       </section>
@@ -1041,26 +1092,49 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4">{t.modules.troubleshooting.title}</h2>
+            {t.modules.troubleshooting.subtitle && (
+              <p className="text-muted-foreground text-base max-w-3xl mx-auto mb-3">{t.modules.troubleshooting.subtitle}</p>
+            )}
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.troubleshooting.intro}</p>
           </div>
-          <div className="scroll-reveal space-y-4 mb-8">
-            {t.modules.troubleshooting.steps.map((step: any, index: number) => (
-              <div key={index} className="flex gap-4 p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
-                <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[hsl(var(--nav-theme)/0.2)] border-2 border-[hsl(var(--nav-theme)/0.5)] flex items-center justify-center">
-                  <span className="text-xl font-bold text-[hsl(var(--nav-theme-light))]">{index + 1}</span>
+          <div className="scroll-reveal space-y-3 mb-8">
+            {t.modules.troubleshooting.items.map((item: any, index: number) => {
+              const troubleIcons = [Smartphone, ArrowRight, Shield, BarChart3, AlertTriangle, AlertTriangle, Bell]
+              const TroubleIcon = troubleIcons[index] || LifeBuoy
+              return (
+                <div key={index} className="bg-white/5 border border-border rounded-xl overflow-hidden hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
+                  <button
+                    onClick={() => setTroubleExpanded(troubleExpanded === index ? null : index)}
+                    className="w-full flex items-center gap-3 p-5 text-left"
+                  >
+                    <TroubleIcon className="w-5 h-5 text-[hsl(var(--nav-theme-light))] flex-shrink-0" />
+                    <span className="font-bold flex-1">{item.question}</span>
+                    <ChevronDown className={`w-5 h-5 text-muted-foreground transition-transform ${troubleExpanded === index ? 'rotate-180' : ''}`} />
+                  </button>
+                  {troubleExpanded === index && (
+                    <div className="px-5 pb-5 pt-0">
+                      <p className="text-sm text-muted-foreground mb-4">{item.answer}</p>
+                      {item.steps && (
+                        <div className="space-y-2 pl-2 border-l-2 border-[hsl(var(--nav-theme)/0.3)]">
+                          {item.steps.map((step: string, si: number) => (
+                            <div key={si} className="flex items-start gap-2 pl-2">
+                              <Check className="w-4 h-4 text-[hsl(var(--nav-theme-light))] mt-0.5 flex-shrink-0" />
+                              <span className="text-sm text-muted-foreground">{step}</span>
+                            </div>
+                          ))}
+                        </div>
+                      )}
+                    </div>
+                  )}
                 </div>
-                <div>
-                  <h3 className="text-xl font-bold mb-2">{step.title}</h3>
-                  <p className="text-muted-foreground">{step.description}</p>
-                </div>
-              </div>
-            ))}
+              )
+            })}
           </div>
-          <div className="scroll-reveal p-6 bg-yellow-500/10 border border-yellow-500/30 rounded-xl">
+          <div className="scroll-reveal p-6 bg-[hsl(var(--nav-theme)/0.05)] border border-[hsl(var(--nav-theme)/0.3)] rounded-xl">
             <div className="flex items-start gap-3">
-              <AlertTriangle className="w-6 h-6 text-yellow-400 flex-shrink-0 mt-1" />
+              <LifeBuoy className="w-6 h-6 text-[hsl(var(--nav-theme-light))] flex-shrink-0 mt-1" />
               <div>
-                <h3 className="font-bold text-yellow-400 mb-2">Still having issues?</h3>
+                <h3 className="font-bold text-[hsl(var(--nav-theme-light))] mb-2">Still having issues?</h3>
                 <p className="text-sm text-muted-foreground mb-3">Report bugs with your device details through the official channels:</p>
                 <div className="flex flex-wrap gap-3">
                   <a href="https://discord.gg/crovensmash" target="_blank" rel="noopener noreferrer"
