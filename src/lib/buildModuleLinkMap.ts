@@ -14,46 +14,44 @@ interface ArticleWithType extends ContentItem {
 
 // Module sub-field mapping: moduleKey -> { field, nameKey }
 const MODULE_FIELDS: Record<string, { field: string; nameKey: string }> = {
-  lucidBlocksBeginnerGuide: { field: 'steps', nameKey: 'title' },
-  lucidBlocksApotheosisCrafting: { field: 'cards', nameKey: 'name' },
-  lucidBlocksToolsAndWeapons: { field: 'items', nameKey: 'name' },
-  lucidBlocksStorageAndInventory: { field: 'solutions', nameKey: 'name' },
-  lucidBlocksQualiaAndBaseBuilding: { field: 'cards', nameKey: 'name' },
-  lucidBlocksWorldRegions: { field: 'regions', nameKey: 'name' },
-  lucidBlocksCreaturesAndEnemies: { field: 'creatures', nameKey: 'name' },
-  lucidBlocksMobilityGear: { field: 'items', nameKey: 'name' },
-  lucidBlocksFarmingAndGrowth: { field: 'sections', nameKey: 'name' },
-  lucidBlocksBestEarlyUnlocks: { field: 'priorities', nameKey: 'name' },
-  lucidBlocksAchievementTracker: { field: 'groups', nameKey: 'name' },
-  lucidBlocksSingleplayerAndPlatformFAQ: { field: 'faqs', nameKey: 'question' },
-  lucidBlocksSteamDeckAndController: { field: 'faqs', nameKey: 'question' },
-  lucidBlocksSettingsAndAccessibility: { field: 'settings', nameKey: 'name' },
-  lucidBlocksUpdatesAndPatchNotes: { field: 'entries', nameKey: 'title' },
-  lucidBlocksCrashFixAndTroubleshooting: { field: 'steps', nameKey: 'title' },
+  beginnerGuide: { field: 'steps', nameKey: 'title' },
+  tierList: { field: 'tiers', nameKey: 'tier' },
+  bestBuilds: { field: 'builds', nameKey: 'cookie' },
+  cookiesList: { field: 'cookies', nameKey: 'name' },
+  gameModes: { field: 'modes', nameKey: 'name' },
+  currencyGuide: { field: 'currencies', nameKey: 'name' },
+  rolesGuide: { field: 'roles', nameKey: 'name' },
+  ovenCrownRoad: { field: 'steps', nameKey: 'title' },
+  summonGuide: { field: 'summons', nameKey: 'name' },
+  inviteCodes: { field: 'items', nameKey: 'title' },
+  friendsParty: { field: 'steps', nameKey: 'title' },
+  ratesGuide: { field: 'tables', nameKey: 'name' },
+  costumes: { field: 'items', nameKey: 'name' },
+  updates: { field: 'channels', nameKey: 'name' },
+  troubleshooting: { field: 'items', nameKey: 'question' },
 }
 
 // Extra semantic keywords per module to boost matching for h2 titles
 // These supplement the module title text when matching against articles
 const MODULE_EXTRA_KEYWORDS: Record<string, string[]> = {
-  lucidBlocksBeginnerGuide: ['guide', 'mastering', 'progression', 'crafting', 'starter'],
-  lucidBlocksApotheosisCrafting: ['apotheosis', 'fusion', 'essence'],
-  lucidBlocksToolsAndWeapons: ['crafting recipes', 'frost pick', 'osmium', 'azrael', 'faith wand'],
-  lucidBlocksStorageAndInventory: ['chest', 'cache cube', 'cabinet', 'storage'],
-  lucidBlocksQualiaAndBaseBuilding: ['qualia', 'clonaqualia', 'personal dimensions'],
-  lucidBlocksWorldRegions: ['tiamana', 'leyline', 'biomes', 'regions'],
-  lucidBlocksCreaturesAndEnemies: ['survival', 'combat', 'surreal creatures'],
-  lucidBlocksMobilityGear: ['bee glider', 'hookshot', 'glider', 'movement'],
-  lucidBlocksFarmingAndGrowth: ['seed', 'farming', 'growth', 'material', 'progression', 'crafting'],
-  lucidBlocksBestEarlyUnlocks: ['early', 'osmium', 'frost pick', 'starter', 'progression'],
-  lucidBlocksAchievementTracker: ['achievement', 'tiamana', 'leyline'],
-  lucidBlocksSingleplayerAndPlatformFAQ: ['multiplayer', 'platform', 'co op'],
-  lucidBlocksSteamDeckAndController: ['steam deck', 'controller', 'proton'],
-  lucidBlocksSettingsAndAccessibility: ['full screen', 'controls', 'display'],
-  lucidBlocksUpdatesAndPatchNotes: ['update', 'patch', 'fix'],
-  lucidBlocksCrashFixAndTroubleshooting: ['crash', 'vulkan', 'troubleshooting', 'full screen', 'controls', 'gameplay'],
+  beginnerGuide: ['beginner', 'how to play', 'starter', 'guide', 'progression'],
+  tierList: ['tier list', 'best character', 'meta', 'ranking'],
+  bestBuilds: ['build', 'spell card', 'loadout', 'cookie build'],
+  cookiesList: ['cookies', 'character', 'rarity', 'role'],
+  gameModes: ['battle', 'arena', 'pvp', 'mode'],
+  currencyGuide: ['gems', 'coins', 'currency', 'resources'],
+  rolesGuide: ['tank', 'support', 'attacker', 'role'],
+  ovenCrownRoad: ['crown road', 'progression', 'missions', 'kingdom'],
+  summonGuide: ['summon', 'gacha', 'banner', 'pull'],
+  inviteCodes: ['invite', 'referral', 'code', 'reward'],
+  friendsParty: ['friends', 'party', 'co op', 'multiplayer'],
+  ratesGuide: ['rates', 'probability', 'gacha rates', 'drop rate'],
+  costumes: ['costume', 'skin', 'exclusive', 'outfit'],
+  updates: ['update', 'patch', 'news', 'official'],
+  troubleshooting: ['error', 'crash', 'fix', 'not working', 'lagging'],
 }
 
-const FILLER_WORDS = ['lucid', 'blocks', '2026', '2025', 'complete', 'the', 'and', 'for', 'how', 'with', 'our', 'this', 'your', 'all', 'from', 'learn', 'master']
+const FILLER_WORDS = ['cookie', 'run', 'ovensmash', '2026', '2025', 'complete', 'the', 'and', 'for', 'how', 'with', 'our', 'this', 'your', 'all', 'from', 'learn', 'master']
 
 function normalize(text: string): string {
   return text
@@ -78,8 +76,8 @@ function matchScore(queryText: string, article: ArticleWithType, extraKeywords?:
   let score = 0
 
   // Exact phrase match in title (stripped of "Lucid Blocks")
-  const strippedQuery = normalizedQuery.replace(/lucid blocks?\s*/g, '').trim()
-  const strippedTitle = normalizedTitle.replace(/lucid blocks?\s*/g, '').trim()
+  const strippedQuery = normalizedQuery.replace(/cookie\s*run\s*ovensmash?\s*/g, '').trim()
+  const strippedTitle = normalizedTitle.replace(/cookie\s*run\s*ovensmash?\s*/g, '').trim()
   if (strippedQuery.length > 3 && strippedTitle.includes(strippedQuery)) {
     score += 100
   }

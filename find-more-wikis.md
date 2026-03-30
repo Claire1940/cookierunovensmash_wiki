@@ -1,12 +1,12 @@
 # Find more Wikis
 
-1. https://www.ragnarokoriginclassic.wiki
-2. https://www.tomodachilifelivingthedream.wiki
-3. https://www.cursedgearwiki.wiki
-4. https://www.dissidiaduellumfinalfantasy.wiki
-5. https://www.cursedgear.wiki
-6. https://www.dragdrivesimulator.wiki
-7. https://www.animeoverloadwiki.wiki
-8. https://www.retrorewindvideostoresimulator.wiki
-9. https://www.bealuckyblockwiki.wiki
-10. https://www.starsavior.wiki
+1. https://www.lastepoch.wiki
+2. https://www.bridgerwestern.wiki
+3. https://www.lifeisstrangereunion.wiki
+4. https://www.bitebynight.wiki
+5. https://www.reawakened.wiki
+6. https://www.ragnarokoriginclassic.wiki
+7. https://www.tomodachilifelivingthedream.wiki
+8. https://www.cursedgearwiki.wiki
+9. https://www.dissidiaduellumfinalfantasy.wiki
+10. https://www.dragdrivesimulator.wiki
