@@ -10,26 +10,25 @@ import type { LucideIcon } from 'lucide-react'
  * 3. 运行 `bun run validate:icons` 验证
  */
 export const iconRegistry: Record<string, LucideIcon> = {
-  // 工具和资源图标
-  Download: LucideIcons.Download,
+  // 导航和模块图标
   BookOpen: LucideIcons.BookOpen,
+  Gift: LucideIcons.Gift,
+  Trophy: LucideIcons.Trophy,
+  Wrench: LucideIcons.Wrench,
   Users: LucideIcons.Users,
-  ClipboardCheck: LucideIcons.ClipboardCheck,
-  Keyboard: LucideIcons.Keyboard,
-  Shield: LucideIcons.Shield,
-  Hammer: LucideIcons.Hammer,
-  Package: LucideIcons.Package,
-  AlertTriangle: LucideIcons.AlertTriangle,
-  Eye: LucideIcons.Eye,
-  Home: LucideIcons.Home,
-  MessageCircle: LucideIcons.MessageCircle,
-  Settings: LucideIcons.Settings,
-  Star: LucideIcons.Star,
-  Gamepad2: LucideIcons.Gamepad2,
-  TrendingUp: LucideIcons.TrendingUp,
+  Swords: LucideIcons.Swords,
+  Coins: LucideIcons.Coins,
+  ShieldCheck: LucideIcons.ShieldCheck,
+  Crown: LucideIcons.Crown,
+  Sparkles: LucideIcons.Sparkles,
+  UserPlus: LucideIcons.UserPlus,
+  Handshake: LucideIcons.Handshake,
+  BarChart3: LucideIcons.BarChart3,
+  Shirt: LucideIcons.Shirt,
+  Bell: LucideIcons.Bell,
+  LifeBuoy: LucideIcons.LifeBuoy,
 
   // UI 交互图标
-  Sparkles: LucideIcons.Sparkles,
   ChevronDown: LucideIcons.ChevronDown,
   ArrowRight: LucideIcons.ArrowRight,
   Check: LucideIcons.Check,
@@ -37,6 +36,11 @@ export const iconRegistry: Record<string, LucideIcon> = {
   ExternalLink: LucideIcons.ExternalLink,
   Clock: LucideIcons.Clock,
   X: LucideIcons.X,
+  Star: LucideIcons.Star,
+  Shield: LucideIcons.Shield,
+  AlertTriangle: LucideIcons.AlertTriangle,
+  MessageCircle: LucideIcons.MessageCircle,
+  Download: LucideIcons.Download,
 
   // 默认回退图标
   HelpCircle: LucideIcons.HelpCircle,

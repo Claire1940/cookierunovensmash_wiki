@@ -14,7 +14,7 @@
   "common": {
     "home": "Home",
     "more": "More",
-    "playNow": "Play on Steam",
+    "playNow": "Play on Google Play",
     "switchLanguage": "Switch Language",
     "switchTheme": "Switch Theme",
     "lightMode": "Light Mode",
@@ -51,728 +51,764 @@
     }
   },
   "gameFeature": {
-    "title": "Lucid Blocks Gameplay",
-    "description": "Explore surreal biomes, fuse items with Apotheosis, and survive strange creatures in this dreamlike voxel sandbox on Steam."
+    "title": "CookieRun: OvenSmash PvP Arena",
+    "description": "Jump into real-time 3v3 battles, master unique Cookie abilities, and dominate six competitive modes in Platter City."
+  },
+  "moduleNav": {
+    "title": "Jump to Guide"
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Resources",
-    "subtitle": "Everything you need to explore, craft, and survive in Lucid Blocks",
+    "title": "CookieRun: OvenSmash",
+    "titleHighlight": "Wiki Guides",
+    "subtitle": "Everything you need to master Cookies, builds, modes, and codes in CookieRun: OvenSmash",
     "cards": [
       {
         "icon": "BookOpen",
-        "title": "Beginner Guide",
-        "description": "First steps, exploration, and early progression"
+        "title": "CookieRun: OvenSmash Beginner Guide",
+        "description": "First-session path, objectives, and early habits"
+      },
+      {
+        "icon": "Gift",
+        "title": "CookieRun: OvenSmash Codes",
+        "description": "Active coupon codes and redemption steps"
+      },
+      {
+        "icon": "Trophy",
+        "title": "CookieRun: OvenSmash Tier List",
+        "description": "Best Cookies ranked by role and meta strength"
+      },
+      {
+        "icon": "Wrench",
+        "title": "CookieRun: OvenSmash Best Builds",
+        "description": "Optimal skill and Power Biscuit setups"
+      },
+      {
+        "icon": "Users",
+        "title": "CookieRun: OvenSmash Cookies List",
+        "description": "Full character roster with roles and abilities"
+      },
+      {
+        "icon": "Swords",
+        "title": "CookieRun: OvenSmash Game Modes",
+        "description": "Rules and win conditions for all six modes"
+      },
+      {
+        "icon": "Coins",
+        "title": "CookieRun: OvenSmash Currency Guide",
+        "description": "Crystals, Coins, and smart spending priorities"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "CookieRun: OvenSmash Roles Guide",
+        "description": "Tank, Damage, Control, and Support explained"
+      },
+      {
+        "icon": "Crown",
+        "title": "CookieRun: OvenSmash Oven Crown Road",
+        "description": "Ranked milestones and progression rewards"
       },
       {
         "icon": "Sparkles",
-        "title": "Apotheosis Crafting",
-        "description": "Freeform fusion system and early recipes"
+        "title": "CookieRun: OvenSmash Summon Guide",
+        "description": "General Summon, Soulchip Remix, and draws"
       },
       {
-        "icon": "Hammer",
-        "title": "Tools and Weapons",
-        "description": "Frost Pick, Azrael, Hookshot, and more"
+        "icon": "UserPlus",
+        "title": "CookieRun: OvenSmash Invite Codes",
+        "description": "Friend invite event and social rewards"
       },
       {
-        "icon": "Package",
-        "title": "Storage and Inventory",
-        "description": "Cache Cubes, Cabinets, and Qualia storage"
+        "icon": "Handshake",
+        "title": "CookieRun: OvenSmash Friends & Party",
+        "description": "Add friends, create parties, and queue together"
       },
       {
-        "icon": "Home",
-        "title": "Qualia and Base Building",
-        "description": "Personal Qualia and home base setup"
+        "icon": "BarChart3",
+        "title": "CookieRun: OvenSmash Rates Guide",
+        "description": "Summon odds, costume draw rates, and box drops"
       },
       {
-        "icon": "Eye",
-        "title": "World Regions",
-        "description": "Fog Meadow, Essence Morass, and more"
+        "icon": "Shirt",
+        "title": "CookieRun: OvenSmash Costumes Guide",
+        "description": "Costume draws, skins, and customization system"
       },
       {
-        "icon": "AlertTriangle",
-        "title": "Creatures and Enemies",
-        "description": "Manikins, spiders, and how to survive"
+        "icon": "Bell",
+        "title": "CookieRun: OvenSmash Updates",
+        "description": "Patch notes, events, and official announcements"
       },
       {
-        "icon": "ArrowRight",
-        "title": "Mobility Gear",
-        "description": "Hookshot, Glider Glove, Bee Glider"
-      },
-      {
-        "icon": "TrendingUp",
-        "title": "Farming and Growth",
-        "description": "Seed progression and material farming"
-      },
-      {
-        "icon": "Star",
-        "title": "Best Early Unlocks",
-        "description": "Priority upgrades for the first hour"
-      },
-      {
-        "icon": "ClipboardCheck",
-        "title": "Achievement Tracker",
-        "description": "All 19 Steam achievements and conditions"
-      },
-      {
-        "icon": "MessageCircle",
-        "title": "Singleplayer FAQ",
-        "description": "Platform, price, co-op, and language questions"
-      },
-      {
-        "icon": "Gamepad2",
-        "title": "Steam Deck and Controller",
-        "description": "Proton 9.0.4 setup and controller tips"
-      },
-      {
-        "icon": "Settings",
-        "title": "Settings and Accessibility",
-        "description": "Hide hands, Vulkan, and display options"
-      },
-      {
-        "icon": "Clock",
-        "title": "Updates and Patch Notes",
-        "description": "Recent fixes and roadmap notes"
-      },
-      {
-        "icon": "Shield",
-        "title": "Crash Fix",
-        "description": "Vulkan check, logs path, and bug reporting"
+        "icon": "LifeBuoy",
+        "title": "CookieRun: OvenSmash Troubleshooting",
+        "description": "Install fixes, crash solutions, and device support"
       }
     ]
   },
   "modules": {
-    "lucidBlocksBeginnerGuide": {
-      "title": "Lucid Blocks Beginner Guide",
+    "beginnerGuide": {
+      "title": "CookieRun: OvenSmash Beginner Guide",
       "displayType": "steps",
-      "intro": "Start by learning how exploration, fusion, and progression connect. Lucid Blocks rewards experimentation, so early progress comes from gathering unusual materials, testing combinations, and unlocking your personal Qualia.",
+      "intro": "CookieRun: OvenSmash is a fast real-time arena game where short matches are decided by movement, timing, positioning, and objective control. The easiest way to improve early is to understand what each mode asks you to do, pick one Cookie to learn properly, and treat ultimates and spell cards as planned tools instead of panic buttons.",
       "steps": [
         {
-          "title": "Explore Before You Commit",
-          "description": "Walk outward, mine common blocks, and keep any strange drops you find. Early progress is less about fixed quests and more about discovering what materials can become."
+          "title": "Understand the CookieRun: OvenSmash match loop first",
+          "description": "OvenSmash is built around short, tactical arena battles. You control one Cookie at a time, and good movement, ability timing, and teamwork matter more than long grinding sessions.",
+          "highlights": [
+            "Real-time multiplayer arena combat",
+            "Short and dynamic matches",
+            "Unique Cookie skills and ultimates",
+            "Spell cards that can swing fights",
+            "Objective-based modes instead of pure kill chasing"
+          ]
         },
         {
-          "title": "Unlock Your Personal Qualia Early",
-          "description": "Your personal Qualia is one of the most important early milestones. It gives you a reliable place to regroup and build around."
+          "title": "Play the objective, not just the fight",
+          "description": "Different modes reward different kinds of pressure. Early losses often happen because new players chase eliminations and ignore the actual win condition.",
+          "highlights": [
+            "Escort the Turtle to the enemy castle or destroy the castle",
+            "Capture the center stage to score over time",
+            "Collect Jellies and deposit them in the enemy goal",
+            "Reach the target elimination count before the opposing team",
+            "Be the last player standing in the free-for-all mode",
+            "Collect gnomes, build structures, and score points"
+          ]
         },
         {
-          "title": "Use Osmium for Fast Early Progress",
-          "description": "Osmium is one of the most useful early materials. A popular early route is combining Osmium with sticks to make a Frost Pick for fast mining."
+          "title": "Pick one main Cookie before branching out",
+          "description": "A strong early habit is to stay on one Cookie long enough to learn attack range, cooldown rhythm, and ultimate timing. Keep one backup pick, but do not swap constantly.",
+          "highlights": [
+            "Learn one main first",
+            "Keep a secondary pick for bad matchups or team needs",
+            "Do not switch Cookies every few matches",
+            "Mechanical comfort is worth more than shallow roster coverage"
+          ]
         },
         {
-          "title": "Record Good Fusions",
-          "description": "Keep track of successful combinations in your journal. Lucid Blocks has many possible fusion paths, so writing down useful results saves a lot of time."
+          "title": "Know your team role in CookieRun: OvenSmash 3v3",
+          "description": "Beginners perform better when they understand how their Cookie fits into the team. Balanced lineups are usually more consistent than all-damage teams.",
+          "highlights": [
+            "Tanks and frontliners create space and absorb pressure",
+            "Damage dealers finish fights and punish bad positioning",
+            "Supports keep teammates alive or increase team pressure",
+            "Stay near teammates in 3v3 instead of forcing solo fights"
+          ]
+        },
+        {
+          "title": "Use spell cards and ultimates at the right moment",
+          "description": "Many matches turn on one well-timed shield, heal, freeze, or burst ultimate. Strong timing beats random button use.",
+          "highlights": [
+            "Save big tools for team fights or objective pushes",
+            "Use shields before impact, not after you are already collapsing",
+            "Use healing when it changes a fight, not after the fight is lost",
+            "Cast ultimates when enemies group up or commit to an objective"
+          ]
+        },
+        {
+          "title": "Build progress through consistency",
+          "description": "Progress comes from steady play and smarter resource use, not from trying to unlock everything immediately. Daily missions and mode variety help you grow faster.",
+          "highlights": [
+            "Complete daily missions",
+            "Play different modes to learn map flow",
+            "Gradually unlock stronger Cookies and spell cards",
+            "Avoid common mistakes: over-aggression, ignoring objectives, wasting ultimates, and switching mains too often"
+          ]
         }
       ],
       "quickTips": [
-        "Apotheosis does not require a fixed recipe list.",
-        "Infinite world generation means moving higher or deeper can reveal completely different materials.",
-        "Movement tools and utility gear become a major quality-of-life boost once you start unlocking them.",
-        "Getting lost early is normal, but useful tools, storage, and movement options snowball fast once your first good fusions start working."
+        "Movement and positioning decide more fights than raw damage stats.",
+        "Short matches mean every decision counts from the opening seconds.",
+        "Spell cards are planned tools, not panic buttons.",
+        "Consistent play on one Cookie builds skill faster than roster-hopping."
       ]
     },
-    "lucidBlocksApotheosisCrafting": {
-      "title": "Lucid Blocks Apotheosis Crafting",
-      "displayType": "cards",
-      "intro": "Apotheosis is the game's unrestricted fusion system. Instead of memorizing a traditional recipe book, you combine materials, watch the result, and build your own crafting knowledge over time.",
-      "cards": [
+    "codes": {
+      "title": "CookieRun: OvenSmash Codes",
+      "displayType": "codeCards",
+      "intro": "Coupon codes are one of the fastest early sources of free Crystals in CookieRun: OvenSmash. The official redemption flow uses the DevPlay coupon page, and the reward arrives through your in-game mailbox after you claim the code and restart the game.",
+      "activeCodes": {
+        "title": "Active CookieRun: OvenSmash Codes",
+        "entries": [
+          {
+            "code": "WELCOME2OVENSMASH",
+            "reward": "1000 Crystals",
+            "status": "Active",
+            "lastVerified": "2026-03-29"
+          }
+        ]
+      },
+      "expiredCodes": {
+        "title": "Expired CookieRun: OvenSmash Codes",
+        "emptyState": "No expired CookieRun: OvenSmash codes are listed on the current March 2026 trackers."
+      },
+      "redeemSteps": {
+        "title": "How to Redeem CookieRun: OvenSmash Codes",
+        "entries": [
+          {
+            "step": 1,
+            "instruction": "Launch CookieRun: OvenSmash and complete the tutorial."
+          },
+          {
+            "step": 2,
+            "instruction": "Open the menu, go to Settings, then open the Account tab."
+          },
+          {
+            "step": 3,
+            "instruction": "Check the DevPlay account information used for the game."
+          },
+          {
+            "step": 4,
+            "instruction": "Open the official coupon page at coupon.devplay.com."
+          },
+          {
+            "step": 5,
+            "instruction": "Enter your DevPlay Account and the coupon code."
+          },
+          {
+            "step": 6,
+            "instruction": "Press Claim Rewards, then restart the game and collect the reward from your mailbox."
+          }
+        ]
+      },
+      "couponFields": {
+        "title": "CookieRun: OvenSmash Coupon Page Fields",
+        "entries": [
+          {
+            "field": "DevPlay Account",
+            "purpose": "The account tied to your game login"
+          },
+          {
+            "field": "Coupon Code",
+            "purpose": "The redeem code you want to claim"
+          }
+        ]
+      }
+    },
+    "tierList": {
+      "title": "CookieRun: OvenSmash Tier List",
+      "displayType": "tierGrid",
+      "intro": "Tier lists matter more in CookieRun: OvenSmash than in a slow PvE game because your first main shapes your early win rate, resource use, and comfort with the mode rotation. A good first pick should match your preferred role, help in multiple game types, and be worth early upgrade investment.",
+      "tiers": [
         {
-          "name": "Freeform Fusion",
-          "description": "Apotheosis lets you fuse together different items without needing to follow a fixed recipe list."
+          "tier": "S",
+          "summary": "Top launch-meta picks with strong all-around value, role impact, or easy conversion into wins.",
+          "cookies": [
+            { "name": "Dark Choco Cookie", "role": "Bruiser" },
+            { "name": "Red Velvet Cookie", "role": "Controller" },
+            { "name": "Madeleine Cookie", "role": "Tank" },
+            { "name": "Rye Cookie", "role": "Marksman" },
+            { "name": "Blue Slushy Cookie", "role": "Marksman" },
+            { "name": "String Cheese Cookie", "role": "Marksman" },
+            { "name": "Latte Cookie", "role": "Mage" },
+            { "name": "Melon Soda Cookie", "role": "Support" },
+            { "name": "Peppermint Cookie", "role": "Support" },
+            { "name": "Peach Cookie", "role": "Assassin" },
+            { "name": "Cherry Cookie", "role": "Bomber" }
+          ],
+          "featuredNotes": [
+            "Dark Choco Cookie stands out because he can tank, deal damage, and sustain well.",
+            "Red Velvet Cookie is valued for displacement and fight control.",
+            "Cherry Cookie is a free starter who still performs at a top-tier level."
+          ]
         },
         {
-          "name": "Multiple Useful Outcomes",
-          "description": "Different materials often push toward certain results. Community discoveries show that similar inputs can still lead to practical tools, storage, or combat upgrades."
+          "tier": "A",
+          "summary": "Strong picks that reward better positioning, cleaner execution, or a more stable frontline around them.",
+          "cookies": [
+            { "name": "Bacon Roll Cookie", "role": "Bruiser" },
+            { "name": "Ice Pop Cookie", "role": "Controller" },
+            { "name": "Strawberry Crepe Cookie", "role": "Tank" },
+            { "name": "Jerky Cookie", "role": "Mage" },
+            { "name": "Blueberry Pie Cookie", "role": "Mage" },
+            { "name": "Chili Pepper Cookie", "role": "Assassin" }
+          ],
+          "featuredNotes": [
+            "Ice Pop Cookie brings excellent crowd control but wants better team spacing.",
+            "Blueberry Pie Cookie is a mage who can play aggressively without feeling paper-thin.",
+            "Chili Pepper Cookie can clean up fights well if your entry timing is good."
+          ]
         },
         {
-          "name": "Journal-First Crafting",
-          "description": "The best way to learn Apotheosis is to track your successful combinations. Your journal quickly becomes your own crafting reference."
+          "tier": "B",
+          "summary": "Playable options with narrower value, simpler kits, or more matchup-dependent performance.",
+          "cookies": [
+            { "name": "GingerBrave", "role": "Bruiser" },
+            { "name": "Fruit Punch Cookie", "role": "Tank" },
+            { "name": "Tiger Lily Cookie", "role": "Marksman" }
+          ],
+          "featuredNotes": [
+            "GingerBrave is straightforward and flexible, but not as impactful as the higher tiers.",
+            "Fruit Punch Cookie works, but stronger frontline options are available.",
+            "Tiger Lily Cookie needs more setup and feels better later into her progression."
+          ]
+        }
+      ]
+    },
+    "bestBuilds": {
+      "title": "CookieRun: OvenSmash Best Builds",
+      "displayType": "cardList",
+      "intro": "In CookieRun: OvenSmash, a build is not just about raw damage. Your special variant, ultimate version, and Power Biscuit choices all shape how your Cookie enters fights, exits fights, and supports the team objective. The strongest early results usually come from pairing one stable main with disciplined resource spending.",
+      "builds": [
+        {
+          "cookie": "Chili Pepper Cookie",
+          "role": "Assassin",
+          "rarity": "Common",
+          "build": {
+            "basic": "Dagger Throw",
+            "special": "Stinging Rush",
+            "ultimate": "Wild Chili Storm",
+            "powerBiscuits": ["Accelerated Special Skill", "Blessing of the Battlefield"]
+          },
+          "playstyle": [
+            "Poke with your basic attack before committing.",
+            "Dash in, use your ultimate, then dash back out.",
+            "Prioritize backline targets and low-HP enemies.",
+            "Pair well with a distracting frontliner such as Dark Choco Cookie."
+          ]
         },
         {
-          "name": "Community-Tested Early Fusions",
-          "description": "Popular early examples include Osmium plus Stick for a Frost Pick, Stick plus Tungsten Appendage for Azrael, and Azrael plus Magnetite for the Tendril Rapier."
+          "cookie": "Ice Pop Cookie",
+          "role": "Controller",
+          "rarity": "Epic",
+          "build": {
+            "basic": "Cool Swing",
+            "special": "Icy Guard",
+            "ultimate": "Freezing Strike",
+            "powerBiscuits": ["HP Boost", "Blessing of the Battlefield", "Accelerated Special Skill"]
+          },
+          "playstyle": [
+            "Go in with teammates, apply crowd control, and disengage before enemies unfreeze.",
+            "Do not frontline alone like a tank or bruiser.",
+            "Play beside a sturdier teammate in team fights.",
+            "For a more support-heavy style, Freezing Bat Flip is a strong alternative ultimate."
+          ]
+        },
+        {
+          "cookie": "Build Progression Rules",
+          "role": "Account-wide",
+          "rarity": "Guide",
+          "build": {
+            "coreRules": [
+              "Invest in one main first because Coins are needed in large amounts.",
+              "Farm Crystals through quests, events, and redeem codes.",
+              "Farm Coins through Cookie Mastery, events, and reward boxes."
+            ]
+          },
+          "playstyle": [
+            "Use one stable main to learn ranges, cooldowns, and objective timing before spreading upgrades.",
+            "Build depth on a proven main first, then add a backup pick."
+          ]
+        }
+      ]
+    },
+    "cookiesList": {
+      "title": "CookieRun: OvenSmash Cookies List",
+      "displayType": "table",
+      "intro": "Every Cookie in CookieRun: OvenSmash has a defined role, rarity, and set of abilities. This full character index helps you compare options before committing upgrade resources.",
+      "cookies": [
+        { "name": "Dark Choco Cookie", "role": "Bruiser", "rarity": "Epic", "description": "High sustain bruiser who can tank, deal damage, and survive extended fights." },
+        { "name": "Red Velvet Cookie", "role": "Controller", "rarity": "Epic", "description": "Displacement specialist with strong fight control and disruption abilities." },
+        { "name": "Madeleine Cookie", "role": "Tank", "rarity": "Epic", "description": "Sturdy frontliner who creates space and absorbs pressure for the team." },
+        { "name": "Rye Cookie", "role": "Marksman", "rarity": "Rare", "description": "Long-range damage dealer who punishes bad positioning from a distance." },
+        { "name": "Blue Slushy Cookie", "role": "Marksman", "rarity": "Rare", "description": "Fast ranged attacker with quick burst damage and solid poke." },
+        { "name": "String Cheese Cookie", "role": "Marksman", "rarity": "Common", "description": "Versatile marksman with consistent damage output across multiple modes." },
+        { "name": "Latte Cookie", "role": "Mage", "rarity": "Epic", "description": "Area-of-effect mage who controls zones and punishes grouped enemies." },
+        { "name": "Melon Soda Cookie", "role": "Support", "rarity": "Rare", "description": "Team healer who keeps allies alive during objective pushes." },
+        { "name": "Peppermint Cookie", "role": "Support", "rarity": "Rare", "description": "Defensive support who shields teammates and boosts team survivability." },
+        { "name": "Peach Cookie", "role": "Assassin", "rarity": "Epic", "description": "Agile assassin who dives backlines and eliminates high-value targets." },
+        { "name": "Cherry Cookie", "role": "Bomber", "rarity": "Common", "description": "Free starter bomber who still performs at top tier with strong area damage." },
+        { "name": "Bacon Roll Cookie", "role": "Bruiser", "rarity": "Rare", "description": "Aggressive frontliner who trades well in extended brawls." },
+        { "name": "Ice Pop Cookie", "role": "Controller", "rarity": "Epic", "description": "Crowd control specialist with freeze abilities and team-fight impact." },
+        { "name": "Strawberry Crepe Cookie", "role": "Tank", "rarity": "Epic", "description": "Durable tank with shielding mechanics and frontline presence." },
+        { "name": "Jerky Cookie", "role": "Mage", "rarity": "Rare", "description": "Burst mage with strong combo potential and aggressive playstyle." },
+        { "name": "Blueberry Pie Cookie", "role": "Mage", "rarity": "Epic", "description": "Tanky mage who can play aggressively without feeling fragile." },
+        { "name": "Chili Pepper Cookie", "role": "Assassin", "rarity": "Common", "description": "Fast assassin who cleans up fights with strong entry timing." },
+        { "name": "GingerBrave", "role": "Bruiser", "rarity": "Common", "description": "Straightforward and flexible but less impactful than higher-tier bruisers." },
+        { "name": "Fruit Punch Cookie", "role": "Tank", "rarity": "Rare", "description": "Functional tank, though stronger frontline options exist." },
+        { "name": "Tiger Lily Cookie", "role": "Marksman", "rarity": "Rare", "description": "Setup-dependent marksman who improves with progression investment." }
+      ]
+    },
+    "gameModes": {
+      "title": "CookieRun: OvenSmash Game Modes Guide",
+      "displayType": "accordion",
+      "intro": "CookieRun: OvenSmash features six competitive modes, each with unique objectives and win conditions. Understanding how each mode works is one of the fastest ways to improve your early win rate.",
+      "modes": [
+        {
+          "name": "Castle Crasher",
+          "teamSize": "3v3",
+          "objective": "Escort the Turtle to the enemy castle or destroy their castle before time runs out.",
+          "tips": [
+            "Stay near the Turtle to push it forward.",
+            "Eliminate enemies to clear the path.",
+            "Coordinate pushes with your team after winning a fight."
+          ]
+        },
+        {
+          "name": "Drop the Beat",
+          "teamSize": "3v3",
+          "objective": "Capture and hold the center stage to score points over time.",
+          "tips": [
+            "Control the center zone as a team.",
+            "Group up before contesting the stage.",
+            "Use crowd control to force enemies off the point."
+          ]
+        },
+        {
+          "name": "Jelly Race",
+          "teamSize": "3v3",
+          "objective": "Collect Jellies scattered across the map and deposit them in the enemy goal.",
+          "tips": [
+            "Split between collecting and defending your goal.",
+            "Carry Jellies as a group for safer deposits.",
+            "Target enemy carriers to steal their Jellies."
+          ]
+        },
+        {
+          "name": "Team Battle",
+          "teamSize": "3v3",
+          "objective": "Reach the target elimination count before the opposing team.",
+          "tips": [
+            "Focus fire on one target to secure eliminations quickly.",
+            "Stay grouped to avoid getting picked off alone.",
+            "Use ultimates during team engagements for maximum impact."
+          ]
+        },
+        {
+          "name": "Cookie Royale",
+          "teamSize": "FFA",
+          "objective": "Be the last Cookie standing in the free-for-all arena.",
+          "tips": [
+            "Play cautiously and let others fight first.",
+            "Save your ultimate for the final showdown.",
+            "Position near the edge to control space."
+          ]
+        },
+        {
+          "name": "Gnome Battle",
+          "teamSize": "3v3",
+          "objective": "Collect gnomes, build structures, and score more points than the enemy team.",
+          "tips": [
+            "Prioritize gnome collection over fighting.",
+            "Protect your structures once built.",
+            "Disrupt enemy builders to slow their score."
+          ]
+        }
+      ]
+    },
+    "currencyGuide": {
+      "title": "CookieRun: OvenSmash Currency Guide",
+      "displayType": "table",
+      "intro": "CookieRun: OvenSmash uses several currencies that each serve different purposes. Smart spending early prevents wasted resources and keeps your progression efficient.",
+      "currencies": [
+        {
+          "name": "Crystals",
+          "source": "Quests, events, coupon codes, Oven Crown Road",
+          "usage": "Summon pulls, premium shop items, and special banners"
+        },
+        {
+          "name": "Coins",
+          "source": "Cookie Mastery, events, reward boxes, daily missions",
+          "usage": "Cookie upgrades, skill leveling, and Power Biscuit purchases"
+        },
+        {
+          "name": "Soulchips",
+          "source": "Duplicate Cookie pulls and Soulchip exchange",
+          "usage": "Unlock Cookies and raise Cookie star levels"
+        },
+        {
+          "name": "Tickets",
+          "source": "Events, login rewards, and seasonal passes",
+          "usage": "Costume draws and special event summons"
+        }
+      ],
+      "spendingTips": [
+        "Invest Coins into one main Cookie before spreading across the roster.",
+        "Save Crystals for featured banners with rate-up Cookies you plan to main.",
+        "Use coupon codes immediately to maximize early Crystal income.",
+        "Complete daily missions every day to maintain steady resource flow."
+      ]
+    },
+    "rolesGuide": {
+      "title": "CookieRun: OvenSmash Roles Guide",
+      "displayType": "cardList",
+      "intro": "CookieRun: OvenSmash is a role-based PvP game. Understanding how frontline, damage, control, and support responsibilities translate into winning team play is essential for climbing ranks and winning 3v3 matches.",
+      "roles": [
+        {
+          "name": "Tank",
+          "description": "Tanks absorb damage and create space for teammates. They initiate fights, protect squishier allies, and control the frontline.",
+          "examples": ["Madeleine Cookie", "Strawberry Crepe Cookie", "Fruit Punch Cookie"]
+        },
+        {
+          "name": "Bruiser",
+          "description": "Bruisers deal sustained damage while staying durable in extended fights. They trade blows in the frontline and pressure enemies.",
+          "examples": ["Dark Choco Cookie", "Bacon Roll Cookie", "GingerBrave"]
+        },
+        {
+          "name": "Marksman",
+          "description": "Marksmen deal consistent ranged damage from the backline. They punish bad positioning and finish low-HP targets.",
+          "examples": ["Rye Cookie", "Blue Slushy Cookie", "String Cheese Cookie"]
+        },
+        {
+          "name": "Mage",
+          "description": "Mages control zones with area-of-effect abilities. They punish grouped enemies and control team-fight tempo.",
+          "examples": ["Latte Cookie", "Jerky Cookie", "Blueberry Pie Cookie"]
+        },
+        {
+          "name": "Assassin",
+          "description": "Assassins dive into the backline to eliminate high-value targets quickly. They excel at picking off isolated or low-HP enemies.",
+          "examples": ["Peach Cookie", "Chili Pepper Cookie"]
+        },
+        {
+          "name": "Controller",
+          "description": "Controllers apply crowd control effects to disrupt enemies. They set up kills for teammates and peel for allies.",
+          "examples": ["Red Velvet Cookie", "Ice Pop Cookie"]
+        },
+        {
+          "name": "Support",
+          "description": "Supports heal and shield teammates, increasing overall team survivability. They enable aggressive plays by keeping the team healthy.",
+          "examples": ["Melon Soda Cookie", "Peppermint Cookie"]
+        },
+        {
+          "name": "Bomber",
+          "description": "Bombers deal heavy area damage with explosive abilities. They punish grouped enemies and control chokepoints.",
+          "examples": ["Cherry Cookie"]
+        }
+      ]
+    },
+    "ovenCrownRoad": {
+      "title": "CookieRun: OvenSmash Oven Crown Road Guide",
+      "displayType": "steps",
+      "intro": "The Oven Crown Road is CookieRun: OvenSmash's long-term progression ladder. Climbing it unlocks milestone rewards including Crystals, Coins, Cookie Soulchips, and cosmetic items. Efficient climbing depends on consistent daily play and winning matches.",
+      "steps": [
+        {
+          "title": "Complete Oven Crown Road milestones regularly",
+          "description": "Each rank milestone on the Oven Crown Road provides rewards that directly accelerate your Cookie upgrades and summoning power."
+        },
+        {
+          "title": "Win matches to earn Crown Road points faster",
+          "description": "Winning ranked and casual matches provides the most efficient Crown Road progression. Focus on modes where your main Cookie performs best."
+        },
+        {
+          "title": "Claim milestone rewards immediately",
+          "description": "Check the Crown Road screen regularly and collect earned rewards. Unclaimed rewards do not compound, so pick them up as soon as possible."
+        },
+        {
+          "title": "Plan upgrades around Crown Road rewards",
+          "description": "Time your upgrade spending with expected Crown Road payouts. This prevents running out of Coins or Crystals at critical progression points."
         }
       ],
       "milestones": [
-        "Fuse an item",
-        "Fuse a vermin",
-        "Fuse a divine artifact"
+        "Crystals at rank milestones",
+        "Coins for Cookie upgrades",
+        "Cookie Soulchips for star levels",
+        "Cosmetic rewards and profile items"
       ]
     },
-    "lucidBlocksToolsAndWeapons": {
-      "title": "Lucid Blocks Tools and Weapons",
-      "displayType": "itemCards",
-      "intro": "Lucid Blocks mixes official utility gear with community-discovered early weapons. The best setup is usually a blend of fast mining, safe traversal, and one dependable combat option.",
-      "items": [
-        {
-          "name": "Frost Pick",
-          "type": "Mining Tool",
-          "description": "A fast and affordable early pick made from Osmium and Stick. Players use it to speed up early material gathering."
-        },
-        {
-          "name": "Azrael",
-          "type": "Starter Weapon",
-          "description": "A practical early weapon route crafted from Stick and Tungsten Appendage."
-        },
-        {
-          "name": "Tendril Rapier",
-          "type": "Upgraded Weapon",
-          "description": "A stronger follow-up made by combining Azrael with Magnetite. It is one of the most useful early-mid combat paths shared by players."
-        },
-        {
-          "name": "Hookshot",
-          "type": "Mobility Tool",
-          "description": "An official traversal item that greatly improves movement and vertical exploration."
-        },
-        {
-          "name": "Bee Glider",
-          "type": "Mobility Tool",
-          "description": "An official movement item that helps cover space more safely and efficiently."
-        },
-        {
-          "name": "Ball Wand",
-          "type": "Utility Weapon",
-          "description": "An official ranged utility item that expands your combat and puzzle options."
-        },
-        {
-          "name": "Scuba Diving Gear",
-          "type": "Traversal Gear",
-          "description": "An official utility item for reaching areas that would otherwise slow down exploration."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Officially highlighted as part of the core toolset and useful for breaking through threats or obstacles."
-        }
-      ]
-    },
-    "lucidBlocksStorageAndInventory": {
-      "title": "Lucid Blocks Storage and Inventory",
-      "displayType": "solutionCards",
-      "intro": "Inventory pressure starts early in Lucid Blocks, so building storage should be one of your first goals. Several real player-tested solutions already stand out.",
-      "solutions": [
-        {
-          "name": "Cache Cube",
-          "role": "Chest-Like Storage",
-          "description": "Cache Cubes are one of the earliest practical storage answers and are treated by players as the game's main chest-style container."
-        },
-        {
-          "name": "Cabinet",
-          "role": "Simple Base Storage",
-          "description": "Cabinets are another confirmed storage option. A shared early recipe uses 1 Cut Wood and 1 String."
-        },
-        {
-          "name": "Personal Qualia",
-          "role": "Long-Term Storage Hub",
-          "description": "Once unlocked, your personal Qualia becomes a natural place to organize materials, craft in peace, and expand your base setup."
-        },
-        {
-          "name": "Journal Tracking",
-          "role": "Inventory Efficiency",
-          "description": "Recording useful combinations in your journal reduces wasted materials and makes inventory management much easier."
-        }
-      ],
-      "managementTips": [
-        "Prioritize one dependable storage option before hoarding rare drops.",
-        "Build around your personal Qualia once it becomes available.",
-        "Keep crafting materials, combat tools, and movement gear separated so upgrades are easier to plan.",
-        "Use your journal as part of inventory management, not just crafting discovery."
-      ]
-    },
-    "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Lucid Blocks Qualia and Base Building",
-      "displayType": "cards",
-      "intro": "Qualia is one of the most important progression milestones in Lucid Blocks. It gives you a personal space to regroup, store materials, and gradually turn exploration progress into a real home base.",
-      "cards": [
-        {
-          "name": "Personal Qualia",
-          "description": "Unlocking a Qualia is an early milestone that gives you a more reliable place to return to while exploring the wider world."
-        },
-        {
-          "name": "Storage-First Building",
-          "description": "Many players start using their Qualia as a storage hub before turning it into a larger base with organized crafting and building space."
-        },
-        {
-          "name": "Creative Home Building",
-          "description": "Lucid Blocks supports creative building, and players are already using Qualia spaces to make houses and personalized layouts."
-        },
-        {
-          "name": "Progression Hub",
-          "description": "A strong base helps you separate exploration loot, crafting materials, seeds, tools, and mobility gear so your next upgrades are easier to plan."
-        }
-      ],
-      "highlights": [
-        "Enter a qualia",
-        "Store materials safely",
-        "Expand from utility to decoration",
-        "Use base space to support crafting and farming"
-      ]
-    },
-    "lucidBlocksWorldRegions": {
-      "title": "Lucid Blocks World Regions",
-      "displayType": "regionCards",
-      "intro": "Lucid Blocks uses infinite world generation, so players keep discovering new environments and structures. A few named places are already showing up in achievements and community discussions.",
-      "regions": [
-        {
-          "name": "Fog Meadow",
-          "type": "Community-Noted Area",
-          "description": "Fog Meadow is already known among players as a tense area associated with hidden threats and dangerous encounters."
-        },
-        {
-          "name": "Tiamana Leyline",
-          "type": "Discovery Landmark",
-          "description": "The tiamana leyline is important enough to have its own achievement milestone, making it one of the clearest named world discoveries so far."
-        },
-        {
-          "name": "Clonaqualia",
-          "type": "Build Space",
-          "description": "Players are already using Clonaqualia as a place to build houses, store materials, and experiment with more permanent layouts."
-        },
-        {
-          "name": "Essence Morass",
-          "type": "Farming Area",
-          "description": "Essence Morass is being shared by players as a useful farming location, especially for fighting slimes and gaining experience."
-        }
-      ]
-    },
-    "lucidBlocksCreaturesAndEnemies": {
-      "title": "Lucid Blocks Creatures and Enemies",
-      "displayType": "creatureCards",
-      "intro": "Lucid Blocks mixes surreal creatures with real danger. Official descriptions and community posts point to a world full of strange life, hostile threats, and a few standout encounters players remember quickly.",
-      "creatures": [
-        {
-          "name": "Manikins",
-          "role": "Hostile Enemy",
-          "description": "Manikins are one of the officially named foes in the world and part of the game's surreal threat roster."
-        },
-        {
-          "name": "Squishy Gels",
-          "role": "Hostile Enemy",
-          "description": "Squishy gels are another officially named enemy type and help define the game's strange biological style."
-        },
-        {
-          "name": "Higher-Dimensional Beings",
-          "role": "Hostile Enemy",
-          "description": "These beings are presented as part of the world's more abstract and unsettling enemy lineup."
-        },
-        {
-          "name": "Colossal Spiders",
-          "role": "Major Threat",
-          "description": "Spiders are one of the most immediately feared enemies in community discussions and are clearly a memorable danger."
-        },
-        {
-          "name": "Bubblebear",
-          "role": "Named Creature",
-          "description": "Bubblebear is notable enough to have its own achievement, which makes it one of the clearest named creature encounters in the game."
-        },
-        {
-          "name": "Cute Vermin",
-          "role": "Interactable Creature",
-          "description": "Vermin are not only part of fusion progression, they can also be renamed, giving them a more personal role than standard enemies."
-        },
-        {
-          "name": "Blasphemous Creature",
-          "role": "Elite Threat",
-          "description": "The blasphemous creature is tied to a dedicated combat achievement, marking it as a significant enemy encounter."
-        }
-      ]
-    },
-    "lucidBlocksMobilityGear": {
-      "title": "Lucid Blocks Mobility Gear",
-      "displayType": "itemCards",
-      "intro": "Movement upgrades are one of the biggest quality-of-life jumps in Lucid Blocks. Once you unlock your first traversal tools, exploration becomes faster, safer, and much more rewarding.",
-      "items": [
-        {
-          "name": "Hookshot",
-          "type": "Traversal Tool",
-          "description": "The hookshot is one of the clearest movement milestones in the game and has its own dedicated achievement."
-        },
-        {
-          "name": "Glider Glove",
-          "type": "Air Mobility",
-          "description": "The glider glove opens up much smoother travel and is another major progression milestone with its own achievement."
-        },
-        {
-          "name": "Bee Glider",
-          "type": "Traversal Tool",
-          "description": "Bee gliders are officially highlighted as part of the game's movement toolkit for covering space more efficiently."
-        },
-        {
-          "name": "Ball Wand",
-          "type": "Utility Gear",
-          "description": "Ball wands are one of the officially highlighted special tools and expand how you move through or interact with the world."
-        },
-        {
-          "name": "Scuba Diving Gear",
-          "type": "Exploration Gear",
-          "description": "Scuba diving gear is officially listed as part of the core utility set for reaching areas that would otherwise be harder to explore."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Explosives are both officially highlighted and linked to an achievement milestone, making them part of the game's core utility progression."
-        }
-      ],
-      "unlockMilestones": [
-        "Command a hookshot",
-        "Fly with the glider glove",
-        "Brandish a projectile wand",
-        "Brandish an explosive"
-      ]
-    },
-    "lucidBlocksFarmingAndGrowth": {
-      "title": "Lucid Blocks Farming and Growth",
-      "displayType": "mixedCards",
-      "intro": "Growth is part of real progression in Lucid Blocks. Farming is not only about planting and harvesting, but also about setting up repeatable material routes that keep your tools, weapons, and crafting options flowing.",
-      "sections": [
-        {
-          "name": "Seed Progression",
-          "description": "Planting and fertilizing seeds is a real milestone in the game, and harvesting a fully-grown nut is part of the same growth path."
-        },
-        {
-          "name": "Material Farming",
-          "description": "A practical early farming loop is creating Mercury Capsules, which spawn small slimes that drop Tendrils and goo for repeatable crafting materials."
-        },
-        {
-          "name": "Tool Sustain",
-          "description": "Resource farming becomes much stronger once you can consistently gather Osmium, glass shards, plants, and slime materials for follow-up crafts."
-        },
-        {
-          "name": "Base Routine",
-          "description": "The best farming setup supports more than food. It should feed your storage, movement tools, weapon upgrades, and future fusion experiments."
-        }
-      ],
-      "growthMilestones": [
-        "Fertilize a seed",
-        "Harvest a fully-grown nut",
-        "Create repeatable material loops",
-        "Turn farming into long-term progression"
-      ]
-    },
-    "lucidBlocksBestEarlyUnlocks": {
-      "title": "Lucid Blocks Best Early Unlocks",
-      "displayType": "priorityCards",
-      "intro": "The strongest early unlocks are the ones that improve safety, storage, and movement. In Lucid Blocks, a few practical upgrades can make the entire rest of the game much smoother.",
-      "priorities": [
-        {
-          "name": "Personal Qualia",
-          "priority": "Essential",
-          "description": "As soon as you get access to your personal Qualia, your run becomes much more stable. It acts as a reliable hub for storage, building, and regrouping."
-        },
-        {
-          "name": "Frost Pick",
-          "priority": "Very High",
-          "description": "A fast and cheap early mining tool made from Osmium and Stick. It is one of the most useful upgrades for accelerating early resource collection."
-        },
-        {
-          "name": "Cache Cube",
-          "priority": "Very High",
-          "description": "Storage pressure starts early, so getting your first dependable chest-style container is a major quality-of-life upgrade."
-        },
-        {
-          "name": "Hookshot",
-          "priority": "High",
-          "description": "The hookshot is one of the clearest movement milestones in the game and quickly makes exploration faster and safer."
-        },
-        {
-          "name": "Glider Glove",
-          "priority": "High",
-          "description": "The glider glove adds another major mobility boost and makes long-distance movement far more efficient."
-        },
-        {
-          "name": "Projectile Wand or Bombs",
-          "priority": "High",
-          "description": "A ranged tool or explosive option gives you a safer answer to dangerous enemies and trial-style encounters."
-        }
-      ]
-    },
-    "lucidBlocksAchievementTracker": {
-      "title": "Lucid Blocks Achievement Tracker",
-      "displayType": "achievementGrid",
-      "intro": "Lucid Blocks currently has 19 Steam achievements, and they naturally split into exploration, crafting, mobility, combat, and growth progression.",
-      "groups": [
-        {
-          "name": "Exploration",
-          "achievements": [
-            {
-              "title": "Angel α",
-              "description": "Enter a qualia."
-            },
-            {
-              "title": "Angel γ",
-              "description": "Discover a tiamana leyline."
-            },
-            {
-              "title": "Angel δ",
-              "description": "Overcome a tiamana challenge."
-            },
-            {
-              "title": "Angel ε",
-              "description": "Hidden achievement."
-            }
-          ]
-        },
-        {
-          "name": "Crafting and Summoning",
-          "achievements": [
-            {
-              "title": "Apotheosis α",
-              "description": "Fuse an item."
-            },
-            {
-              "title": "Apotheosis β",
-              "description": "Fuse a vermin."
-            },
-            {
-              "title": "Apotheosis γ",
-              "description": "Fuse a divine artifact."
-            },
-            {
-              "title": "Archangel β",
-              "description": "Summon your faith."
-            }
-          ]
-        },
-        {
-          "name": "Mobility and Utility",
-          "achievements": [
-            {
-              "title": "Virtue α",
-              "description": "Fly with the glider glove."
-            },
-            {
-              "title": "Virtue β",
-              "description": "Command a hookshot."
-            },
-            {
-              "title": "Archangel α",
-              "description": "Brandish a projectile wand."
-            },
-            {
-              "title": "Archangel γ",
-              "description": "Brandish an explosive."
-            }
-          ]
-        },
-        {
-          "name": "Combat and Creatures",
-          "achievements": [
-            {
-              "title": "Bubblebear Massacre",
-              "description": "Defeat innocent bubblebears."
-            },
-            {
-              "title": "Archangel δ",
-              "description": "Eliminate a blasphemous creature."
-            },
-            {
-              "title": "Angel β",
-              "description": "Die."
-            },
-            {
-              "title": "Dominion γ",
-              "description": "Rename a cute vermin."
-            }
-          ]
-        },
-        {
-          "name": "Growth and Farming",
-          "achievements": [
-            {
-              "title": "Dominion α",
-              "description": "Fertilize a seed."
-            },
-            {
-              "title": "Dominion β",
-              "description": "Harvest a fully-grown nut."
-            },
-            {
-              "title": "Dominion δ",
-              "description": "Hidden achievement."
-            }
-          ]
-        }
-      ]
-    },
-    "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Lucid Blocks Singleplayer and Platform FAQ",
+    "summonGuide": {
+      "title": "CookieRun: OvenSmash Summon Guide",
       "displayType": "accordion",
-      "intro": "These are the core platform and access questions players keep asking before buying Lucid Blocks.",
-      "faqs": [
+      "intro": "CookieRun: OvenSmash uses several acquisition systems including General Summon, Soulchip Remix, Costume Draw, and box rewards. Understanding how they work helps you spend Crystals and Tickets wisely.",
+      "summons": [
         {
-          "question": "Is Lucid Blocks singleplayer?",
-          "answer": "Yes. Lucid Blocks is a singleplayer game."
+          "name": "General Summon",
+          "description": "The standard Crystal-based summon pool. Includes all available Cookies and provides the broadest chance at new roster additions."
         },
         {
-          "question": "Is multiplayer or co-op planned?",
-          "answer": "No. Multiplayer is not planned for release or future updates."
+          "name": "Soulchip Remix",
+          "description": "A targeted summon that focuses on Soulchips for specific Cookies. Best used when you need star upgrades for a Cookie you already own."
         },
         {
-          "question": "Where can I play Lucid Blocks?",
-          "answer": "It is currently available on Steam for Windows."
+          "name": "Costume Draw",
+          "description": "A Ticket-based draw for cosmetic skins. Costumes do not affect gameplay stats but provide visual customization for your favorite Cookies."
         },
         {
-          "question": "How much does Lucid Blocks cost?",
-          "answer": "$9.99 on Steam."
-        },
-        {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the menus are not designed around it."
-        },
-        {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 or 9.0.4 is the commonly recommended setup for Steam Deck."
-        },
-        {
-          "question": "Does Lucid Blocks work on Linux?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
-        },
-        {
-          "question": "Will Mac or Android be supported?",
-          "answer": "They may be supported in the future, but they are not current launch platforms."
-        },
-        {
-          "question": "Does Lucid Blocks have translations?",
-          "answer": "No. There are currently no translations planned."
-        },
-        {
-          "question": "Will Lucid Blocks keep getting updates?",
-          "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+          "name": "Box Rewards",
+          "description": "Event and progression boxes that contain mixed rewards including Coins, Crystals, Soulchips, and upgrade materials."
         }
       ]
     },
-    "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks Steam Deck and Controller",
-      "displayType": "accordion",
-      "intro": "Lucid Blocks can run on Steam Deck, but the default setup may need adjustment. Keyboard and mouse remains the smoother option for menus and general play.",
-      "faqs": [
+    "inviteCodes": {
+      "title": "CookieRun: OvenSmash Invite Codes",
+      "displayType": "codeCards",
+      "intro": "The invite code system in CookieRun: OvenSmash rewards players who bring friends into the game. Both the inviter and the invited player receive bonus rewards through the social event.",
+      "howItWorks": [
         {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 works well, and Proton 9.0.4 is a commonly shared fix for Steam Deck issues."
+          "step": 1,
+          "instruction": "Find your personal invite code in the Friends menu under the Invite tab."
         },
         {
-          "question": "What should I do if Steam Deck controls are not working?",
-          "answer": "Force compatibility and switch the game to Proton 9.0.4. The default configuration may not accept controller input correctly."
+          "step": 2,
+          "instruction": "Share your invite code with friends who have not yet played CookieRun: OvenSmash."
         },
         {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the game's menus are not designed around it."
+          "step": 3,
+          "instruction": "Your friend enters the invite code during the new player tutorial or in the Settings menu."
         },
         {
-          "question": "Is Linux support possible?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
-        },
-        {
-          "question": "What is the best input setup?",
-          "answer": "Keyboard and mouse is the smoothest option for menu navigation and general moment-to-moment play."
+          "step": 4,
+          "instruction": "Both players receive social rewards including Crystals and bonus items."
         }
       ]
     },
-    "lucidBlocksSettingsAndAccessibility": {
-      "title": "Lucid Blocks Settings and Accessibility",
-      "displayType": "settingCards",
-      "intro": "Lucid Blocks already has a few practical settings and compatibility notes that matter immediately when players first launch the game.",
-      "settings": [
-        {
-          "name": "Display Settings",
-          "type": "Comfort Option",
-          "description": "Display Settings includes an option that lets players hide the on-screen hands."
-        },
-        {
-          "name": "Graphics Compatibility",
-          "type": "System Requirement",
-          "description": "Vulkan support is required for the graphics to render properly. Systems without Vulkan can run into crashes and severe graphical glitches."
-        },
-        {
-          "name": "Input Preference",
-          "type": "Control Setup",
-          "description": "Controller support exists, but keyboard and mouse gives a smoother experience because menus are not built around controller use."
-        },
-        {
-          "name": "Language Support",
-          "type": "Localization",
-          "description": "The current setup is English-only, and no translations are planned right now."
-        }
-      ]
-    },
-    "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Lucid Blocks Updates and Patch Notes",
-      "displayType": "timeline",
-      "intro": "Lucid Blocks is already receiving quick post-launch fixes and small usability updates.",
-      "entries": [
-        {
-          "title": "Update 2.8.2",
-          "type": "UI Update",
-          "description": "Renamed \"awaken\" to \"exit\" in the main menu."
-        },
-        {
-          "title": "Small Patch for Start-Up Crashes",
-          "type": "Hotfix",
-          "description": "A dedicated patch was released for players whose game was crashing on launch."
-        },
-        {
-          "title": "Post-Launch Content Support",
-          "type": "Roadmap Note",
-          "description": "Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
-        }
-      ]
-    },
-    "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Lucid Blocks Crash Fix and Troubleshooting",
+    "friendsParty": {
+      "title": "CookieRun: OvenSmash Friends & Party Guide",
       "displayType": "steps",
-      "intro": "Most immediate launch and crash issues should be checked in a simple order: patch level, graphics support, platform compatibility, and logs.",
+      "intro": "Playing with friends is a core part of CookieRun: OvenSmash. Creating parties and queuing together for 3v3 modes makes coordination easier and matches more fun.",
       "steps": [
         {
-          "title": "Install the Latest Crash Hotfix",
-          "description": "If the game is crashing on start, update first and test again with the latest start-up crash patch."
+          "title": "Add friends using their player ID or search name",
+          "description": "Open the Friends menu, tap Add Friend, and enter the player ID or search for their username."
         },
         {
-          "title": "Check Vulkan Support",
-          "description": "Lucid Blocks requires Vulkan support. Systems without Vulkan can suffer from crashes or major rendering problems."
+          "title": "Create a party from the lobby",
+          "description": "Tap the Party button in the main lobby, then invite friends from your friend list."
         },
         {
-          "title": "Use Proton 9.0.4 on Steam Deck",
-          "description": "If Steam Deck input or launch behavior is broken, force compatibility and switch to Proton 9.0.4."
+          "title": "Share your party code for quick joins",
+          "description": "Your party generates a code that friends can enter to join directly without needing to be on your friend list."
         },
         {
-          "title": "Collect Crash Logs",
-          "description": "Open Windows Run, paste %APPDATA%, go to lucid blocks/logs, and gather the .txt files for troubleshooting."
+          "title": "Queue together for 3v3 modes",
+          "description": "Once your party is assembled, select a mode and queue together. Party members are placed on the same team."
+        }
+      ]
+    },
+    "ratesGuide": {
+      "title": "CookieRun: OvenSmash Rates Guide",
+      "displayType": "table",
+      "intro": "Knowing the actual summon odds, costume draw rates, and battle box drop percentages helps you make informed decisions before spending premium currency in CookieRun: OvenSmash.",
+      "tables": [
+        {
+          "name": "General Summon Rates",
+          "rows": [
+            { "item": "Epic Cookie", "rate": "3.0%" },
+            { "item": "Rare Cookie", "rate": "15.0%" },
+            { "item": "Common Cookie", "rate": "32.0%" },
+            { "item": "Soulchips", "rate": "30.0%" },
+            { "item": "Other Items", "rate": "20.0%" }
+          ]
         },
         {
-          "title": "Report the Issue Properly",
-          "description": "Share the logs and device details through the official Discord bug-reports forum or on the Steam community page."
+          "name": "Costume Draw Rates",
+          "rows": [
+            { "item": "Legendary Costume", "rate": "1.0%" },
+            { "item": "Epic Costume", "rate": "5.0%" },
+            { "item": "Rare Costume", "rate": "20.0%" },
+            { "item": "Common Costume", "rate": "74.0%" }
+          ]
+        }
+      ]
+    },
+    "costumes": {
+      "title": "CookieRun: OvenSmash Costumes Guide",
+      "displayType": "gallery",
+      "intro": "Costumes in CookieRun: OvenSmash are cosmetic skins obtained through Costume Draws and special events. They change your Cookie's appearance without affecting gameplay stats.",
+      "sections": [
+        {
+          "name": "How CookieRun: OvenSmash Costumes Work",
+          "description": "Costumes are purely visual changes applied to your Cookie in battle. They come in Common, Rare, Epic, and Legendary rarity tiers, with higher tiers featuring more dramatic visual effects."
+        },
+        {
+          "name": "Obtaining CookieRun: OvenSmash Costumes",
+          "description": "Use Costume Draw Tickets to pull from the costume pool. Tickets are earned from events, login rewards, and the Oven Crown Road."
+        },
+        {
+          "name": "CookieRun: OvenSmash Costume Collections",
+          "description": "Collecting multiple costumes for the same Cookie builds your collection score. Higher collection scores can unlock additional profile rewards."
+        }
+      ]
+    },
+    "updates": {
+      "title": "CookieRun: OvenSmash Updates",
+      "displayType": "timeline",
+      "intro": "CookieRun: OvenSmash is a live-service PvP game with regular patches, balance changes, and event rotations. Stay current with the latest announcements and content drops.",
+      "entries": [
+        {
+          "title": "Global Launch",
+          "type": "Major Update",
+          "description": "CookieRun: OvenSmash launched globally on March 26, 2026, featuring 20 playable Cookies, six game modes, and the Oven Crown Road progression system."
+        },
+        {
+          "title": "Launch Event: Welcome to Platter City",
+          "type": "Event",
+          "description": "Celebrate the global launch with bonus Crystals, a free Cookie selector, daily login rewards, and limited-time missions."
+        },
+        {
+          "title": "Community Channels",
+          "type": "Info",
+          "description": "Follow official patch notes and event announcements through Discord, X/Twitter, YouTube, and the in-game news feed."
+        }
+      ],
+      "channels": [
+        { "name": "Discord", "url": "https://discord.gg/crovensmash" },
+        { "name": "X / Twitter", "url": "https://x.com/CROvenSmash" },
+        { "name": "YouTube", "url": "https://www.youtube.com/@cookierunovensmash" },
+        { "name": "Help Center", "url": "https://cs-cookierunovensmash.devsisters.com/hc/en-us" }
+      ]
+    },
+    "troubleshooting": {
+      "title": "CookieRun: OvenSmash Troubleshooting",
+      "displayType": "steps",
+      "intro": "If CookieRun: OvenSmash is crashing, failing to connect, or running poorly, follow these steps to resolve the most common launch-period issues.",
+      "steps": [
+        {
+          "title": "Update CookieRun: OvenSmash to the latest version",
+          "description": "Check your app store for available updates. Most launch-period crashes are resolved in the first few patches."
+        },
+        {
+          "title": "Check your internet connection",
+          "description": "CookieRun: OvenSmash requires a stable internet connection for all game modes. Switch between Wi-Fi and mobile data to test connectivity."
+        },
+        {
+          "title": "Clear the app cache",
+          "description": "Go to your device settings, find CookieRun: OvenSmash in the app list, and clear the cache. This resolves most loading and display issues."
+        },
+        {
+          "title": "Check device compatibility",
+          "description": "CookieRun: OvenSmash requires iOS 14 or later, or Android 7.0 or later, with at least 3GB RAM for smooth performance."
+        },
+        {
+          "title": "Contact support if issues persist",
+          "description": "Submit a ticket through the official Help Center with your device model, OS version, and a description of the problem."
         }
       ]
     }
   },
   "faq": {
-    "title": "Frequently Asked",
-    "titleHighlight": "Questions",
-    "subtitle": "Everything you need to know about Lucid Blocks",
+    "title": "CookieRun: OvenSmash",
+    "titleHighlight": "FAQ",
+    "subtitle": "Frequently asked questions about CookieRun: OvenSmash",
     "questions": [
       {
-        "question": "Is Lucid Blocks a singleplayer game?",
-        "answer": "Yes. Lucid Blocks is a singleplayer-only game with no multiplayer or co-op planned."
+        "question": "What is CookieRun: OvenSmash?",
+        "answer": "CookieRun: OvenSmash is a real-time PvP arena game developed by Devsisters. Players control Cookies in fast-paced 3v3 battles and free-for-all modes set in Platter City."
       },
       {
-        "question": "What is the Apotheosis system in Lucid Blocks?",
-        "answer": "Apotheosis is Lucid Blocks' freeform fusion crafting system. Instead of following fixed recipes, you combine materials and discover your own crafting paths."
+        "question": "Is CookieRun: OvenSmash free to play?",
+        "answer": "Yes. CookieRun: OvenSmash is free to download and play on iOS, Android, and PC. It includes optional in-app purchases for cosmetic items and progression boosts."
       },
       {
-        "question": "Where can I play Lucid Blocks?",
-        "answer": "Lucid Blocks is currently available on Steam for Windows. Linux and Steam Deck support is available through Proton 9.0."
+        "question": "What platforms support CookieRun: OvenSmash?",
+        "answer": "CookieRun: OvenSmash is available on iOS (App Store), Android (Google Play), and PC. Cross-play is supported across all platforms."
       },
       {
-        "question": "How much does Lucid Blocks cost?",
-        "answer": "Lucid Blocks costs $9.99 on Steam."
+        "question": "How many Cookies are in CookieRun: OvenSmash?",
+        "answer": "CookieRun: OvenSmash launched with 20 playable Cookies, each with unique abilities, roles, and ultimates. More Cookies are expected to be added in future updates."
       },
       {
-        "question": "Does Lucid Blocks support controllers?",
-        "answer": "Yes, but controller play is not recommended because the menus are not designed around it. Keyboard and mouse is the smoother option."
+        "question": "How do I redeem codes in CookieRun: OvenSmash?",
+        "answer": "Visit the official DevPlay coupon page at coupon.devplay.com, enter your DevPlay account and the code, then restart the game to collect rewards from your mailbox."
       },
       {
-        "question": "Will Lucid Blocks receive updates?",
-        "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+        "question": "What are the best Cookies in CookieRun: OvenSmash?",
+        "answer": "The strongest launch-meta picks include Dark Choco Cookie, Red Velvet Cookie, Madeleine Cookie, and Cherry Cookie. Check the tier list section for the full ranking."
+      },
+      {
+        "question": "How many game modes does CookieRun: OvenSmash have?",
+        "answer": "CookieRun: OvenSmash has six game modes: Castle Crasher, Drop the Beat, Jelly Race, Team Battle, Cookie Royale, and Gnome Battle."
+      },
+      {
+        "question": "When did CookieRun: OvenSmash launch?",
+        "answer": "CookieRun: OvenSmash launched globally on March 26, 2026, developed by Devsisters and published in select regions by VNGGames."
       }
     ]
   },
@@ -797,129 +833,169 @@
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 CookieRun: OvenSmash Wiki. Not affiliated with Devsisters.",
+    "copyright": "\u00a9 2026 CookieRun: OvenSmash Wiki. Not affiliated with Devsisters.",
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
-    "guides": {
-      "title": "Lucid Blocks Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced Apotheosis strategies. Master survival and crafting.",
-      "metaTitle": "Lucid Blocks Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Lucid Blocks guides covering beginner tips, Apotheosis system, survival strategies, and expert tactics for mastering the surreal sandbox.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the Apotheosis crafting system. Learn everything from first steps to advanced techniques.",
-      "why": "Why read guides?",
+    "cookies": {
+      "title": "CookieRun: OvenSmash Cookies",
+      "description": "Complete character roster with roles, rarities, abilities, and practical usage tips for every Cookie.",
+      "metaTitle": "CookieRun: OvenSmash Cookies - Full Character List & Roles",
+      "metaDescription": "Complete CookieRun: OvenSmash Cookies list with roles, rarities, abilities, and tier rankings. Find the best Cookie for your playstyle.",
+      "categoryLabel": "COOKIES",
+      "whatIs": "What are Cookies?",
+      "whatIsDescription": "Cookies are the playable characters in CookieRun: OvenSmash. Each Cookie has a defined role, unique abilities, and an ultimate skill.",
+      "why": "Why learn about Cookies?",
       "whySteps": {
-        "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the Apotheosis system and avoid common beginner mistakes",
-        "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to survive and thrive in the surreal world",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for exploration and crafting"
+        "step1Title": "Choose Your Main",
+        "step1Description": "Find the Cookie that matches your preferred playstyle and role",
+        "step2Title": "Understand Abilities",
+        "step2Description": "Learn each Cookie's kit to maximize effectiveness in battle",
+        "step3Title": "Build Smart",
+        "step3Description": "Invest resources into the Cookies with the highest return"
       },
-      "featured": "Featured & Essential",
-      "all": "All Guides"
+      "featured": "Featured Cookies",
+      "all": "All Cookies"
     },
-    "crafting": {
-      "title": "Lucid Blocks Crafting",
-      "description": "Master the Apotheosis fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "Lucid Blocks Crafting - Apotheosis System & Recipes",
-      "metaDescription": "Master Lucid Blocks Apotheosis crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
-      "categoryLabel": "CRAFTING SYSTEM",
-      "whatIs": "What is Crafting?",
-      "whatIsDescription": "The Apotheosis system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
-      "why": "Why master crafting?",
+    "builds": {
+      "title": "CookieRun: OvenSmash Builds",
+      "description": "Optimal skill setups, Power Biscuit choices, and playstyle guides for top-tier Cookies.",
+      "metaTitle": "CookieRun: OvenSmash Builds - Best Skill & Biscuit Setups",
+      "metaDescription": "Best CookieRun: OvenSmash builds with optimal skills, Power Biscuits, and playstyle tips for every role.",
+      "categoryLabel": "BUILDS",
+      "whatIs": "What are Builds?",
+      "whatIsDescription": "Builds are the recommended skill, ultimate, and Power Biscuit combinations for each Cookie to maximize their effectiveness in battle.",
+      "why": "Why follow builds?",
       "whySteps": {
-        "step1Title": "Unlock Powerful Items",
-        "step1Description": "Discover essential tools, weapons, and mobility gear through fusion",
-        "step2Title": "Understand Essences",
-        "step2Description": "Learn how item essences combine to create predictable results",
-        "step3Title": "Optimize Resources",
-        "step3Description": "Use dilution mechanics to maximize output from cheap materials"
+        "step1Title": "Optimize Performance",
+        "step1Description": "Use proven setups to get the most out of your Cookie's kit",
+        "step2Title": "Save Resources",
+        "step2Description": "Avoid wasting Coins on suboptimal upgrades",
+        "step3Title": "Win More Matches",
+        "step3Description": "Properly built Cookies perform significantly better in ranked play"
       },
-      "featured": "Featured & Essential",
-      "all": "All Crafting Guides"
+      "featured": "Featured Builds",
+      "all": "All Builds"
     },
-    "items": {
-      "title": "Lucid Blocks Items",
-      "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "Lucid Blocks Items - Tools, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for Lucid Blocks including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
-      "categoryLabel": "ITEMS & EQUIPMENT",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
-      "why": "Why check item guides?",
+    "tier-list": {
+      "title": "CookieRun: OvenSmash Tier List",
+      "description": "Current meta rankings for all Cookies by role, with strengths and weaknesses.",
+      "metaTitle": "CookieRun: OvenSmash Tier List - Best Cookies Ranked",
+      "metaDescription": "Current CookieRun: OvenSmash tier list ranking the best Cookies by meta strength, role impact, and ease of use.",
+      "categoryLabel": "TIER LIST",
+      "whatIs": "What is the Tier List?",
+      "whatIsDescription": "The tier list ranks every Cookie by their current meta strength, role impact, and ability to convert wins in ranked and casual play.",
+      "why": "Why check the tier list?",
       "whySteps": {
-        "step1Title": "Learn Crafting Recipes",
-        "step1Description": "Discover how to craft essential tools and weapons using Apotheosis",
-        "step2Title": "Optimize Equipment",
-        "step2Description": "Choose the best items for your playstyle and progression stage",
-        "step3Title": "Improve Survival",
-        "step3Description": "Equip mobility gear and weapons to navigate the dangerous world"
+        "step1Title": "Pick Strong Cookies",
+        "step1Description": "Know which Cookies perform best in the current meta",
+        "step2Title": "Plan Your Roster",
+        "step2Description": "Invest resources into Cookies that will stay relevant",
+        "step3Title": "Counter the Meta",
+        "step3Description": "Understand matchups to counter popular picks"
       },
-      "featured": "Featured & Essential",
-      "all": "All Items"
+      "featured": "Current Rankings",
+      "all": "Full Tier List"
     },
-    "biomes": {
-      "title": "Lucid Blocks Biomes",
-      "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "Lucid Blocks Biomes - World Regions & Exploration",
-      "metaDescription": "Explore Lucid Blocks biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
-      "categoryLabel": "WORLD REGIONS",
-      "whatIs": "What are Biomes?",
-      "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
-      "why": "Why explore biomes?",
+    "modes": {
+      "title": "CookieRun: OvenSmash Game Modes",
+      "description": "Rules, objectives, and winning strategies for all six competitive game modes.",
+      "metaTitle": "CookieRun: OvenSmash Modes - Rules & Strategies",
+      "metaDescription": "Complete guide to all CookieRun: OvenSmash game modes including Castle Crasher, Drop the Beat, Jelly Race, and more.",
+      "categoryLabel": "GAME MODES",
+      "whatIs": "What are Game Modes?",
+      "whatIsDescription": "CookieRun: OvenSmash features six competitive modes, each with unique objectives and win conditions.",
+      "why": "Why learn about modes?",
       "whySteps": {
-        "step1Title": "Find Resources",
-        "step1Description": "Locate rare materials and essences specific to each region",
-        "step2Title": "Avoid Dangers",
-        "step2Description": "Understand environmental hazards and hostile creatures",
-        "step3Title": "Plan Exploration",
-        "step3Description": "Prepare the right tools and gear for each biome type"
+        "step1Title": "Understand Objectives",
+        "step1Description": "Know what to do in each mode to win matches",
+        "step2Title": "Choose the Right Cookie",
+        "step2Description": "Some Cookies excel in specific modes",
+        "step3Title": "Develop Strategies",
+        "step3Description": "Master mode-specific tactics to climb ranks"
       },
-      "featured": "Featured & Essential",
-      "all": "All Biomes"
+      "featured": "Mode Guides",
+      "all": "All Modes"
     },
-    "building": {
-      "title": "Lucid Blocks Building",
-      "description": "Master Qualia personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "Lucid Blocks Building - Qualia & Base Construction",
-      "metaDescription": "Master Lucid Blocks building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
-      "categoryLabel": "BUILDING & BASES",
-      "whatIs": "What is Building?",
-      "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
-      "why": "Why build bases?",
+    "codes": {
+      "title": "CookieRun: OvenSmash Codes",
+      "description": "Active coupon codes, expired codes, and step-by-step redemption instructions.",
+      "metaTitle": "CookieRun: OvenSmash Codes - Active Coupons & Rewards",
+      "metaDescription": "Latest CookieRun: OvenSmash codes for free Crystals, Coins, and rewards. Updated list with active and expired codes plus redemption guide.",
+      "categoryLabel": "CODES",
+      "whatIs": "What are Codes?",
+      "whatIsDescription": "Coupon codes provide free rewards including Crystals, Coins, and items. They are redeemed through the official DevPlay coupon page.",
+      "why": "Why check codes?",
       "whySteps": {
-        "step1Title": "Create Safe Spaces",
-        "step1Description": "Establish secure bases for storage and crafting operations",
-        "step2Title": "Manage Resources",
-        "step2Description": "Organize materials efficiently with storage solutions",
-        "step3Title": "Unlock Qualia",
-        "step3Description": "Access personal pocket dimensions for ultimate convenience"
+        "step1Title": "Free Rewards",
+        "step1Description": "Get Crystals and items without spending real money",
+        "step2Title": "Stay Updated",
+        "step2Description": "New codes are released with events and updates",
+        "step3Title": "Quick Progression",
+        "step3Description": "Code rewards accelerate early game progression"
       },
-      "featured": "Featured & Essential",
-      "all": "All Building Guides"
+      "featured": "Active Codes",
+      "all": "All Codes"
     },
-    "support": {
-      "title": "Lucid Blocks Support",
-      "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "Lucid Blocks Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for Lucid Blocks including Steam Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
-      "categoryLabel": "TECHNICAL SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Steam Deck, multiplayer questions, and settings.",
-      "why": "Why check support?",
+    "beginner": {
+      "title": "CookieRun: OvenSmash Beginner Guide",
+      "description": "Complete starter path covering controls, objectives, team roles, and early progression tips.",
+      "metaTitle": "CookieRun: OvenSmash Beginner Guide - Getting Started",
+      "metaDescription": "New to CookieRun: OvenSmash? Start here with beginner tips, match flow, role basics, and early progression strategies.",
+      "categoryLabel": "BEGINNER",
+      "whatIs": "What is the Beginner Guide?",
+      "whatIsDescription": "A structured starting path for new players covering match flow, objectives, Cookie selection, and early upgrade habits.",
+      "why": "Why read the beginner guide?",
       "whySteps": {
-        "step1Title": "Fix Technical Issues",
-        "step1Description": "Resolve crashes, performance problems, and compatibility issues",
-        "step2Title": "Optimize Performance",
-        "step2Description": "Configure settings for best experience on your platform",
-        "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about Steam Deck, controller support, and system requirements"
+        "step1Title": "Learn the Basics",
+        "step1Description": "Understand how matches work and what each mode requires",
+        "step2Title": "Avoid Mistakes",
+        "step2Description": "Skip the common errors that cause early losses",
+        "step3Title": "Progress Efficiently",
+        "step3Description": "Build good habits from your first session"
       },
-      "featured": "Featured & Essential",
-      "all": "All Support Articles"
+      "featured": "Essential Guides",
+      "all": "All Beginner Content"
+    },
+    "updates": {
+      "title": "CookieRun: OvenSmash Updates",
+      "description": "Latest patch notes, balance changes, events, and official announcements.",
+      "metaTitle": "CookieRun: OvenSmash Updates - Patch Notes & Events",
+      "metaDescription": "Stay current with CookieRun: OvenSmash updates including patch notes, balance changes, events, and new content announcements.",
+      "categoryLabel": "UPDATES",
+      "whatIs": "What are Updates?",
+      "whatIsDescription": "Patch notes, balance changes, new Cookie releases, event announcements, and maintenance schedules.",
+      "why": "Why follow updates?",
+      "whySteps": {
+        "step1Title": "Meta Changes",
+        "step1Description": "Balance patches shift which Cookies and builds are strongest",
+        "step2Title": "New Content",
+        "step2Description": "New Cookies, modes, and features arrive with updates",
+        "step3Title": "Event Rewards",
+        "step3Description": "Limited-time events offer valuable free rewards"
+      },
+      "featured": "Latest Updates",
+      "all": "All Updates"
+    },
+    "cards": {
+      "title": "CookieRun: OvenSmash Spell Cards",
+      "description": "Complete spell card guide with effects, best combinations, and tactical usage tips.",
+      "metaTitle": "CookieRun: OvenSmash Spell Cards - Effects & Best Combos",
+      "metaDescription": "Full CookieRun: OvenSmash spell card guide with effects, tactical usage, and best combinations for every role and game mode.",
+      "categoryLabel": "SPELL CARDS",
+      "whatIs": "What are Spell Cards?",
+      "whatIsDescription": "Spell cards are equippable abilities that provide shields, heals, freezes, and burst effects during battle.",
+      "why": "Why learn about spell cards?",
+      "whySteps": {
+        "step1Title": "Swing Fights",
+        "step1Description": "Well-timed spell cards can turn losing fights into wins",
+        "step2Title": "Match Your Role",
+        "step2Description": "Choose cards that complement your Cookie's kit",
+        "step3Title": "Counter Strategies",
+        "step3Description": "Use the right cards to counter enemy tactics"
+      },
+      "featured": "Top Spell Cards",
+      "all": "All Spell Cards"
     }
   }
 }
