@@ -3,21 +3,26 @@
   "api_base_url": "https://api.apifast.tech/v1/chat/completions",
   "model": "gemini-2.5-flash",
   "group": "default",
-
   "temperature": 0.1,
   "max_tokens": 32768,
   "timeout": 1800,
   "retry_attempts": 8,
   "retry_delay": 10,
-
-  "languages": ["ko", "ja", "vi", "th", "id", "es"],
+  "languages": [
+    "ko",
+    "ja",
+    "vi",
+    "th",
+    "id",
+    "es"
+  ],
   "default_language": "en",
   "output_dir": "src/locales/",
-
   "use_value_extraction": false,
-
   "protected_terms": {
-    "game_names": ["CookieRun: OvenSmash"],
+    "game_names": [
+      "CookieRun: OvenSmash"
+    ],
     "character_names": [],
     "technical_terms": [
       "Platter City",
@@ -32,7 +37,6 @@
       "Devsisters"
     ]
   },
-
   "game_names": {
     "en": "CookieRun: OvenSmash",
     "ko": "쿠키런: 오븐스매시",
@@ -42,7 +46,6 @@
     "id": "CookieRun: OvenSmash",
     "es": "CookieRun: OvenSmash"
   },
-
   "lang_names": {
     "ko": "Korean",
     "ja": "Japanese",

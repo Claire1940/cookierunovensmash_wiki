@@ -75,7 +75,7 @@ function matchScore(queryText: string, article: ArticleWithType, extraKeywords?:
 
   let score = 0
 
-  // Exact phrase match in title (stripped of "Lucid Blocks")
+  // Exact phrase match in title (stripped of "Cookie Run OvenSmash")
   const strippedQuery = normalizedQuery.replace(/cookie\s*run\s*ovensmash?\s*/g, '').trim()
   const strippedTitle = normalizedTitle.replace(/cookie\s*run\s*ovensmash?\s*/g, '').trim()
   if (strippedQuery.length > 3 && strippedTitle.includes(strippedQuery)) {

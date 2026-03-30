@@ -1,0 +1,1614 @@
+{
+  "seo": {
+    "home": {
+      "title": "CookieRun: OvenSmash Wiki - Tier List, Kode & Cookies",
+      "description": "Wiki CookieRun: OvenSmash lengkap dengan panduan cookie, tier list, kode, mode pertempuran, build, info rilis, dan tips pemula untuk pemain iOS, Android, dan PC.",
+      "keywords": "CookieRun: OvenSmash, CookieRun OvenSmash wiki, cookies, tier list, kode, build, mode, panduan",
+      "ogTitle": "CookieRun: OvenSmash Wiki - Tier List, Kode & Cookies",
+      "ogDescription": "Wiki CookieRun: OvenSmash lengkap dengan panduan cookie, tier list, kode, mode pertempuran, build, info rilis, dan tips pemula untuk pemain iOS, Android, dan PC.",
+      "twitterTitle": "CookieRun: OvenSmash Wiki - Tier List, Kode & Cookies",
+      "twitterDescription": "Wiki CookieRun: OvenSmash lengkap dengan panduan cookie, tier list, kode, mode pertempuran, build, dan tips pemula untuk pemain iOS, Android, dan PC."
+    }
+  },
+  "nav": {
+    "guide": "Panduan",
+    "codes": "Kode",
+    "ranking": "Peringkat",
+    "cookies": "Cookies",
+    "download": "Unduh",
+    "release": "Rilis",
+    "issues": "Masalah",
+    "media": "Media"
+  },
+  "common": {
+    "home": "Beranda",
+    "more": "Selengkapnya",
+    "playNow": "Main di Google Play",
+    "switchLanguage": "Ganti Bahasa",
+    "switchTheme": "Ganti Tema",
+    "lightMode": "Mode Terang",
+    "darkMode": "Mode Gelap",
+    "notFound": "Halaman Tidak Ditemukan",
+    "notFoundDescription": "Halaman yang kamu cari tidak ada.",
+    "backToHome": "Kembali ke Beranda",
+    "relatedArticles": "Artikel Terkait",
+    "readMore": "Baca Selengkapnya"
+  },
+  "hero": {
+    "badge": "Game PvP Brawler Urban Fantasy",
+    "title": "CookieRun: OvenSmash Wiki",
+    "description": "Kuasai Cookies, build, spell card, mode pertempuran, event, dan tips pemula untuk game PvP aksi cepat dari Devsisters yang berlatar di Platter City.",
+    "getFreeCodesCTA": "Dapatkan Kode Gratis",
+    "playOnGooglePlayCTA": "Main di Google Play",
+    "stats": {
+      "stat1": {
+        "value": "1 Juta+",
+        "label": "Unduhan Google Play"
+      },
+      "stat2": {
+        "value": "4.8/5",
+        "label": "Rating App Store"
+      },
+      "stat3": {
+        "value": "6",
+        "label": "Mode Pertempuran"
+      },
+      "stat4": {
+        "value": "26 Mar 2026",
+        "label": "Peluncuran Global"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Arena PvP CookieRun: OvenSmash",
+    "description": "Terjun ke pertempuran 3v3 real-time, kuasai kemampuan unik tiap Cookie, dan dominasi enam mode kompetitif di Platter City."
+  },
+  "moduleNav": {
+    "title": "Langsung ke Panduan"
+  },
+  "tools": {
+    "title": "CookieRun: OvenSmash",
+    "titleHighlight": "Panduan Wiki",
+    "subtitle": "Semua yang kamu butuhkan untuk menguasai Cookies, build, mode, dan kode di CookieRun: OvenSmash",
+    "cards": [
+      {
+        "icon": "BookOpen",
+        "title": "Panduan Pemula CookieRun: OvenSmash",
+        "description": "Langkah awal, tujuan permainan, dan kebiasaan sejak sesi pertama"
+      },
+      {
+        "icon": "Gift",
+        "title": "Kode CookieRun: OvenSmash",
+        "description": "Kode kupon aktif dan langkah penukaran"
+      },
+      {
+        "icon": "Trophy",
+        "title": "Tier List CookieRun: OvenSmash",
+        "description": "Cookie terbaik diurutkan berdasarkan peran dan kekuatan meta"
+      },
+      {
+        "icon": "Wrench",
+        "title": "Build Terbaik CookieRun: OvenSmash",
+        "description": "Pengaturan skill dan Power Biscuit yang optimal"
+      },
+      {
+        "icon": "Users",
+        "title": "Daftar Cookies CookieRun: OvenSmash",
+        "description": "Seluruh daftar karakter beserta peran dan kemampuan"
+      },
+      {
+        "icon": "Swords",
+        "title": "Mode Permainan CookieRun: OvenSmash",
+        "description": "Aturan dan syarat kemenangan untuk semua enam mode"
+      },
+      {
+        "icon": "Coins",
+        "title": "Panduan Mata Uang CookieRun: OvenSmash",
+        "description": "Crystal, Koin, dan prioritas pengeluaran yang cerdas"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Panduan Peran CookieRun: OvenSmash",
+        "description": "Tank, Damage, Control, dan Support dijelaskan secara lengkap"
+      },
+      {
+        "icon": "Crown",
+        "title": "Oven Crown Road CookieRun: OvenSmash",
+        "description": "Pencapaian ranked dan hadiah perkembangan"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Panduan Summon CookieRun: OvenSmash",
+        "description": "General Summon, Soulchip Remix, dan cara undian"
+      },
+      {
+        "icon": "UserPlus",
+        "title": "Kode Undangan CookieRun: OvenSmash",
+        "description": "Event undang teman dan hadiah sosial"
+      },
+      {
+        "icon": "Handshake",
+        "title": "Teman & Party CookieRun: OvenSmash",
+        "description": "Tambah teman, buat party, dan antri bersama"
+      },
+      {
+        "icon": "BarChart3",
+        "title": "Panduan Probabilitas CookieRun: OvenSmash",
+        "description": "Peluang summon, tingkat undian kostum, dan drop box"
+      },
+      {
+        "icon": "Shirt",
+        "title": "Panduan Kostum CookieRun: OvenSmash",
+        "description": "Undian kostum, skin, dan sistem kustomisasi"
+      },
+      {
+        "icon": "Bell",
+        "title": "Update CookieRun: OvenSmash",
+        "description": "Catatan patch, event, dan pengumuman resmi"
+      },
+      {
+        "icon": "LifeBuoy",
+        "title": "Pemecahan Masalah CookieRun: OvenSmash",
+        "description": "Solusi instalasi, crash, dan dukungan perangkat"
+      }
+    ]
+  },
+  "modules": {
+    "beginnerGuide": {
+      "title": "Panduan Pemula CookieRun: OvenSmash",
+      "displayType": "steps",
+      "intro": "CookieRun: OvenSmash adalah game arena real-time yang cepat di mana pertandingan singkat ditentukan oleh pergerakan, waktu, posisi, dan kontrol objektif. Cara termudah untuk berkembang di awal adalah memahami apa yang diminta setiap mode, memilih satu Cookie untuk dipelajari dengan sungguh-sungguh, dan menggunakan ultimate serta spell card sebagai alat yang terencana, bukan sebagai tombol panik.",
+      "steps": [
+        {
+          "title": "Pahami siklus pertandingan CookieRun: OvenSmash terlebih dahulu",
+          "description": "OvenSmash dibangun di atas pertempuran arena taktis yang singkat. Kamu mengendalikan satu Cookie sekaligus, dan pergerakan yang baik, waktu kemampuan, serta kerja sama tim jauh lebih penting daripada sesi grind yang panjang.",
+          "highlights": [
+            "Pertempuran arena multiplayer real-time",
+            "Pertandingan singkat dan dinamis",
+            "Skill dan ultimate unik tiap Cookie",
+            "Spell card yang bisa mengubah jalannya pertarungan",
+            "Mode berbasis objektif, bukan sekadar mengejar eliminasi"
+          ]
+        },
+        {
+          "title": "Kejar objektif, bukan sekadar pertarungan",
+          "description": "Mode yang berbeda memberikan hadiah untuk jenis tekanan yang berbeda. Kekalahan awal sering terjadi karena pemain baru mengejar eliminasi dan mengabaikan syarat kemenangan sebenarnya.",
+          "highlights": [
+            "Kawal Kura-kura menuju kastil musuh atau hancurkan kastilnya",
+            "Kuasai panggung tengah untuk mencetak poin seiring waktu",
+            "Kumpulkan Jeli dan depositkan ke gawang musuh",
+            "Capai jumlah eliminasi target sebelum tim lawan",
+            "Jadilah pemain terakhir yang bertahan di mode free-for-all",
+            "Kumpulkan gnome, bangun struktur, dan cetak poin"
+          ]
+        },
+        {
+          "title": "Pilih satu Cookie utama sebelum beralih ke yang lain",
+          "description": "Kebiasaan awal yang baik adalah tetap menggunakan satu Cookie cukup lama untuk mempelajari jangkauan serangan, ritme cooldown, dan waktu ultimate. Simpan satu pilihan cadangan, tapi jangan terus-menerus berganti.",
+          "highlights": [
+            "Pelajari satu Cookie utama terlebih dahulu",
+            "Simpan pilihan kedua untuk matchup yang buruk atau kebutuhan tim",
+            "Jangan ganti Cookie setiap beberapa pertandingan",
+            "Kenyamanan mekanik lebih berharga daripada kedalaman roster yang dangkal"
+          ]
+        },
+        {
+          "title": "Kenali peran timmu dalam 3v3 CookieRun: OvenSmash",
+          "description": "Pemula tampil lebih baik saat memahami bagaimana Cookie mereka cocok dalam tim. Susunan yang seimbang biasanya lebih konsisten dibandingkan tim yang semuanya damage.",
+          "highlights": [
+            "Tank dan frontliner menciptakan ruang dan menyerap tekanan",
+            "Damage dealer menyelesaikan pertarungan dan menghukum posisi yang buruk",
+            "Support menjaga rekan tetap hidup atau meningkatkan tekanan tim",
+            "Tetap dekat rekan satu tim dalam 3v3 daripada memaksakan pertarungan solo"
+          ]
+        },
+        {
+          "title": "Gunakan spell card dan ultimate di momen yang tepat",
+          "description": "Banyak pertandingan berubah karena satu perisai, penyembuhan, pembekuan, atau ultimate burst yang tepat waktu. Waktu yang kuat mengalahkan penggunaan tombol secara acak.",
+          "highlights": [
+            "Simpan alat besar untuk pertarungan tim atau dorongan objektif",
+            "Gunakan perisai sebelum dampak terjadi, bukan setelah kamu sudah hancur",
+            "Gunakan penyembuhan saat itu mengubah pertarungan, bukan setelah pertarungan kalah",
+            "Gunakan ultimate saat musuh berkumpul atau berkomitmen pada objektif"
+          ]
+        },
+        {
+          "title": "Bangun kemajuan melalui konsistensi",
+          "description": "Kemajuan datang dari permainan yang stabil dan penggunaan sumber daya yang lebih cerdas, bukan dari mencoba membuka semua hal sekaligus. Misi harian dan variasi mode membantu kamu berkembang lebih cepat.",
+          "highlights": [
+            "Selesaikan misi harian",
+            "Mainkan mode berbeda untuk mempelajari alur peta",
+            "Secara bertahap buka Cookie dan spell card yang lebih kuat",
+            "Hindari kesalahan umum: terlalu agresif, mengabaikan objektif, membuang ultimate, dan terlalu sering mengganti Cookie utama"
+          ]
+        }
+      ],
+      "quickTips": [
+        "Pergerakan dan posisi menentukan lebih banyak pertarungan daripada statistik damage mentah.",
+        "Pertandingan singkat berarti setiap keputusan penting sejak detik pertama.",
+        "Spell card adalah alat yang direncanakan, bukan tombol panik.",
+        "Bermain konsisten dengan satu Cookie membangun skill lebih cepat daripada berpindah-pindah roster."
+      ]
+    },
+    "codes": {
+      "title": "Kode CookieRun: OvenSmash",
+      "displayType": "codeCards",
+      "intro": "Kode kupon adalah salah satu sumber tercepat untuk mendapatkan Crystal gratis di awal permainan CookieRun: OvenSmash. Alur penukaran resmi menggunakan halaman kupon DevPlay, dan hadiahnya tiba melalui kotak masuk dalam game setelah kamu mengklaim kode dan memulai ulang game.",
+      "activeCodes": {
+        "title": "Kode CookieRun: OvenSmash yang Aktif",
+        "entries": [
+          {
+            "code": "WELCOME2OVENSMASH",
+            "reward": "1000 Crystal",
+            "status": "Aktif",
+            "lastVerified": "2026-03-29"
+          }
+        ]
+      },
+      "expiredCodes": {
+        "title": "Kode CookieRun: OvenSmash yang Kedaluwarsa",
+        "emptyState": "Tidak ada kode CookieRun: OvenSmash yang kedaluwarsa tercantum di tracker Maret 2026 saat ini."
+      },
+      "redeemSteps": {
+        "title": "Cara Menukarkan Kode CookieRun: OvenSmash",
+        "entries": [
+          {
+            "step": 1,
+            "instruction": "Buka CookieRun: OvenSmash dan selesaikan tutorial."
+          },
+          {
+            "step": 2,
+            "instruction": "Buka menu, pergi ke Pengaturan, lalu buka tab Akun."
+          },
+          {
+            "step": 3,
+            "instruction": "Periksa informasi akun DevPlay yang digunakan untuk game."
+          },
+          {
+            "step": 4,
+            "instruction": "Buka halaman kupon resmi di coupon.devplay.com."
+          },
+          {
+            "step": 5,
+            "instruction": "Masukkan Akun DevPlay dan kode kupon kamu."
+          },
+          {
+            "step": 6,
+            "instruction": "Tekan Klaim Hadiah, lalu mulai ulang game dan ambil hadiah dari kotak masukmu."
+          }
+        ]
+      },
+      "couponFields": {
+        "title": "Kolom Halaman Kupon CookieRun: OvenSmash",
+        "entries": [
+          {
+            "field": "Akun DevPlay",
+            "purpose": "Akun yang terhubung dengan login game kamu"
+          },
+          {
+            "field": "Kode Kupon",
+            "purpose": "Kode penukaran yang ingin kamu klaim"
+          }
+        ]
+      }
+    },
+    "tierList": {
+      "title": "Tier List CookieRun: OvenSmash",
+      "displayType": "tierGrid",
+      "intro": "Tier list lebih penting di CookieRun: OvenSmash dibandingkan game PvE yang lambat, karena pilihan utama pertamamu membentuk win rate awal, penggunaan sumber daya, dan kenyamananmu dengan rotasi mode. Pilihan pertama yang bagus harus sesuai dengan peran yang kamu sukai, membantu di berbagai jenis game, dan layak untuk investasi upgrade awal.",
+      "tiers": [
+        {
+          "tier": "S",
+          "summary": "Pilihan meta terbaik saat peluncuran dengan nilai menyeluruh yang kuat, dampak peran, atau konversi kemenangan yang mudah.",
+          "cookies": [
+            {
+              "name": "Dark Choco Cookie",
+              "role": "Bruiser"
+            },
+            {
+              "name": "Red Velvet Cookie",
+              "role": "Controller"
+            },
+            {
+              "name": "Madeleine Cookie",
+              "role": "Tank"
+            },
+            {
+              "name": "Rye Cookie",
+              "role": "Marksman"
+            },
+            {
+              "name": "Blue Slushy Cookie",
+              "role": "Marksman"
+            },
+            {
+              "name": "String Cheese Cookie",
+              "role": "Marksman"
+            },
+            {
+              "name": "Latte Cookie",
+              "role": "Mage"
+            },
+            {
+              "name": "Melon Soda Cookie",
+              "role": "Support"
+            },
+            {
+              "name": "Peppermint Cookie",
+              "role": "Support"
+            },
+            {
+              "name": "Peach Cookie",
+              "role": "Assassin"
+            },
+            {
+              "name": "Cherry Cookie",
+              "role": "Bomber"
+            }
+          ],
+          "featuredNotes": [
+            "Dark Choco Cookie menonjol karena bisa tank, memberikan damage, dan sustain dengan baik.",
+            "Red Velvet Cookie dihargai karena displacement dan kontrol pertarungan.",
+            "Cherry Cookie adalah starter gratis yang tetap tampil di level tier teratas."
+          ]
+        },
+        {
+          "tier": "A",
+          "summary": "Pilihan kuat yang memberikan hasil lebih baik dengan posisi yang lebih baik, eksekusi yang lebih bersih, atau frontline yang lebih stabil di sekitar mereka.",
+          "cookies": [
+            {
+              "name": "Bacon Roll Cookie",
+              "role": "Bruiser"
+            },
+            {
+              "name": "Ice Pop Cookie",
+              "role": "Controller"
+            },
+            {
+              "name": "Strawberry Crepe Cookie",
+              "role": "Tank"
+            },
+            {
+              "name": "Jerky Cookie",
+              "role": "Mage"
+            },
+            {
+              "name": "Blueberry Pie Cookie",
+              "role": "Mage"
+            },
+            {
+              "name": "Chili Pepper Cookie",
+              "role": "Assassin"
+            }
+          ],
+          "featuredNotes": [
+            "Ice Pop Cookie membawa crowd control yang sangat baik, tapi membutuhkan jarak tim yang lebih baik.",
+            "Blueberry Pie Cookie adalah mage yang bisa bermain agresif tanpa terasa terlalu rapuh.",
+            "Chili Pepper Cookie bisa membersihkan pertarungan dengan baik jika waktu masukmu bagus."
+          ]
+        },
+        {
+          "tier": "B",
+          "summary": "Pilihan yang bisa dimainkan dengan nilai yang lebih sempit, kit yang lebih sederhana, atau performa yang lebih bergantung pada matchup.",
+          "cookies": [
+            {
+              "name": "GingerBrave",
+              "role": "Bruiser"
+            },
+            {
+              "name": "Fruit Punch Cookie",
+              "role": "Tank"
+            },
+            {
+              "name": "Tiger Lily Cookie",
+              "role": "Marksman"
+            }
+          ],
+          "featuredNotes": [
+            "GingerBrave mudah digunakan dan fleksibel, tapi tidak sekuat tier yang lebih tinggi.",
+            "Fruit Punch Cookie bisa digunakan, tapi ada pilihan frontline yang lebih kuat.",
+            "Tiger Lily Cookie membutuhkan lebih banyak persiapan dan terasa lebih baik di tahap lanjut progressinya."
+          ]
+        }
+      ]
+    },
+    "bestBuilds": {
+      "title": "Build Terbaik CookieRun: OvenSmash",
+      "displayType": "cardList",
+      "intro": "Di CookieRun: OvenSmash, build bukan hanya soal damage mentah. Varian spesial, versi ultimate, dan pilihan Power Biscuit-mu semuanya membentuk cara Cookiemu masuk ke pertarungan, keluar dari pertarungan, dan mendukung objektif tim. Hasil terbaik di awal biasanya datang dari memadukan satu main yang stabil dengan pengeluaran sumber daya yang disiplin.",
+      "builds": [
+        {
+          "cookie": "Chili Pepper Cookie",
+          "role": "Assassin",
+          "rarity": "Umum",
+          "build": {
+            "basic": "Dagger Throw",
+            "special": "Stinging Rush",
+            "ultimate": "Wild Chili Storm",
+            "powerBiscuits": [
+              "Accelerated Special Skill",
+              "Blessing of the Battlefield"
+            ]
+          },
+          "playstyle": [
+            "Poke dengan serangan dasar sebelum berkomitmen masuk.",
+            "Dash masuk, gunakan ultimate, lalu dash keluar.",
+            "Prioritaskan target backline dan musuh dengan HP rendah.",
+            "Berpasangan baik dengan frontliner yang mengalihkan perhatian seperti Dark Choco Cookie."
+          ]
+        },
+        {
+          "cookie": "Ice Pop Cookie",
+          "role": "Controller",
+          "rarity": "Epik",
+          "build": {
+            "basic": "Cool Swing",
+            "special": "Icy Guard",
+            "ultimate": "Freezing Strike",
+            "powerBiscuits": [
+              "HP Boost",
+              "Blessing of the Battlefield",
+              "Accelerated Special Skill"
+            ]
+          },
+          "playstyle": [
+            "Masuk bersama rekan tim, terapkan crowd control, lalu mundur sebelum musuh bebas dari pembekuan.",
+            "Jangan maju sendirian seperti tank atau bruiser.",
+            "Bermain di samping rekan tim yang lebih kokoh dalam team fight.",
+            "Untuk gaya bermain yang lebih berorientasi support, Freezing Bat Flip adalah alternatif ultimate yang kuat."
+          ]
+        },
+        {
+          "cookie": "Aturan Progression Build",
+          "role": "Seluruh Akun",
+          "rarity": "Panduan",
+          "build": {
+            "coreRules": [
+              "Investasikan ke satu Cookie utama terlebih dahulu karena Koin dibutuhkan dalam jumlah besar.",
+              "Kumpulkan Crystal melalui quest, event, dan kode penukaran.",
+              "Kumpulkan Koin melalui Cookie Mastery, event, dan kotak hadiah."
+            ]
+          },
+          "playstyle": [
+            "Gunakan satu main yang stabil untuk mempelajari jangkauan, cooldown, dan waktu objektif sebelum menyebar upgrade.",
+            "Bangun kedalaman pada main yang sudah terbukti terlebih dahulu, lalu tambahkan pilihan cadangan."
+          ]
+        }
+      ]
+    },
+    "cookiesList": {
+      "title": "Daftar Cookies CookieRun: OvenSmash",
+      "displayType": "table",
+      "subtitle": "Jelajahi roster yang saat ini dapat dimainkan berdasarkan kelangkaan, peran tempur, dan pekerjaan di medan perang. Modul ini dibuat untuk pencarian cepat setelah undian, buka karakter, atau kekalahan ranked.",
+      "intro": "CookieRun: OvenSmash memadukan Tank, Bruiser, Controller, Support, Marksman, Mage, Assassin, dan Bomber dalam roster peluncuran yang terdiri dari Cookie lama dan baru. Cara tercepat menggunakan daftar ini adalah mencocokkan peran Cookie dengan pekerjaan yang kurang di timmu: engage, sustained damage, control, atau penyembuhan.",
+      "cookies": [
+        {
+          "name": "Madeleine Cookie",
+          "rarity": "Epik",
+          "role": "Tank",
+          "signature": "Engage andalan dengan area knock-up",
+          "bestUse": "Memimpin team fight, memulai kontes objektif, dan melindungi carry jarak jauh"
+        },
+        {
+          "name": "Red Velvet Cookie",
+          "rarity": "Epik",
+          "role": "Controller",
+          "signature": "Tarik musuh dan tekanan displacement",
+          "bestUse": "Membuat pick, menarik musuh keluar dari posisi, dan menghukum tim yang bergerombol"
+        },
+        {
+          "name": "String Cheese Cookie",
+          "rarity": "Epik",
+          "role": "Marksman",
+          "signature": "Poke jarak jauh yang aman dengan dukungan turret",
+          "bestUse": "Menguasai sudut backline, menekan lajur, dan mengikis musuh sebelum serangan penuh"
+        },
+        {
+          "name": "Ice Pop Cookie",
+          "rarity": "Epik",
+          "role": "Controller",
+          "signature": "Crowd control berbasis pembekuan",
+          "bestUse": "Mengunci target untuk damage lanjutan dan menghentikan pertarungan di choke point yang ketat"
+        },
+        {
+          "name": "Jerky Cookie",
+          "rarity": "Epik",
+          "role": "Mage",
+          "signature": "Ledakan talisman yang eksplosif",
+          "bestUse": "Menghukum musuh yang bergerombol dan menambahkan tekanan area yang tertunda di pertarungan jarak menengah"
+        },
+        {
+          "name": "Bacon Roll Cookie",
+          "rarity": "Epik",
+          "role": "Bruiser",
+          "signature": "Tekanan melee yang lengket",
+          "bestUse": "Terjun ke pertarungan, mengejar target yang lemah, dan brawl di sekitar objektif"
+        },
+        {
+          "name": "Fruit Punch Cookie",
+          "rarity": "Umum",
+          "role": "Tank",
+          "signature": "Engage sederhana dengan utilitas perisai",
+          "bestUse": "Menjadi frontline untuk tim pemula dan menyerap tekanan dalam pertarungan bergerombol"
+        },
+        {
+          "name": "Melon Soda Cookie",
+          "rarity": "Langka",
+          "role": "Support",
+          "signature": "Support utilitas backline",
+          "bestUse": "Menstabilkan team fight, membantu carry tetap aktif, dan melengkapi komposisi yang seimbang"
+        },
+        {
+          "name": "Dark Choco Cookie",
+          "rarity": "Langka",
+          "role": "Bruiser",
+          "signature": "Tekanan melee yang tahan lama dengan sustain",
+          "bestUse": "Berduel secara agresif, bertahan dalam pertarungan panjang, dan menekan mirror frontline"
+        },
+        {
+          "name": "Strawberry Crepe Cookie",
+          "rarity": "Langka",
+          "role": "Tank",
+          "signature": "Gangguan dan perlindungan berbasis summon",
+          "bestUse": "Memblokir ruang, menyiapkan peluang untuk rekan tim, dan memperlambat masuknya musuh ke objektif"
+        },
+        {
+          "name": "Peach Cookie",
+          "rarity": "Langka",
+          "role": "Assassin",
+          "signature": "Dive mobilitas tinggi dan pembersihan",
+          "bestUse": "Menghukum backliner yang terisolasi dan snowball setelah musuh menghabiskan cooldown"
+        },
+        {
+          "name": "Tiger Lily Cookie",
+          "rarity": "Langka",
+          "role": "Marksman",
+          "signature": "Poke jarak jauh dengan jump-in sebagai follow-up",
+          "bestUse": "Melecehkan dari jarak aman, lalu menyerang saat target lemah terekspos"
+        },
+        {
+          "name": "Blueberry Pie Cookie",
+          "rarity": "Langka",
+          "role": "Mage",
+          "signature": "Sudut burst berbasis teleport",
+          "bestUse": "Memposisikan ulang di sekitar medan dan mengancam burst jarak menengah dari arah yang tidak terduga"
+        },
+        {
+          "name": "Latte Cookie",
+          "rarity": "Langka",
+          "role": "Mage",
+          "signature": "Tekanan midline berbasis mantra",
+          "bestUse": "Mengontrol ruang dengan damage sihir dan mendukung team fight yang lebih lambat dan terstruktur"
+        },
+        {
+          "name": "Peppermint Cookie",
+          "rarity": "Umum",
+          "role": "Support",
+          "signature": "Sustain penyembuhan dan knock-up",
+          "bestUse": "Menjaga frontline tetap hidup, memperpanjang pertarungan, dan menjadi jangkar komposisi 3v3 yang seimbang"
+        },
+        {
+          "name": "Rye Cookie",
+          "rarity": "Umum",
+          "role": "Marksman",
+          "signature": "Tembakan lurus yang terus-menerus",
+          "bestUse": "Memberikan damage backline yang stabil dan menghukum musuh yang berjalan di jalur yang mudah diprediksi"
+        },
+        {
+          "name": "Blue Slushy Cookie",
+          "rarity": "Umum",
+          "role": "Marksman",
+          "signature": "Poke panah klon dan tekanan lajur",
+          "bestUse": "Bermain di peta terbuka, menembak melalui barisan, dan mengikis tim sebelum all-in"
+        },
+        {
+          "name": "Cherry Cookie",
+          "rarity": "Umum",
+          "role": "Bomber",
+          "signature": "Kontrol zona eksplosif",
+          "bestUse": "Melempar tekanan melewati tembok, mempertahankan objektif, dan mengganggu jalur pergerakan musuh"
+        },
+        {
+          "name": "Chili Pepper Cookie",
+          "rarity": "Umum",
+          "role": "Assassin",
+          "signature": "Masuk dan keluar burst cepat",
+          "bestUse": "Mengapit target yang terekspos, menyelesaikan musuh dengan HP rendah, dan menghukum backline yang lemah"
+        },
+        {
+          "name": "GingerBrave",
+          "rarity": "Umum",
+          "role": "Bruiser",
+          "signature": "Kit bruiser starter yang sederhana dan fleksibel",
+          "bestUse": "Mempelajari waktu engage, bertahan dalam pertarungan jarak dekat, dan mengisi celah dalam lineup kasual"
+        }
+      ]
+    },
+    "gameModes": {
+      "title": "Panduan Mode Permainan CookieRun: OvenSmash",
+      "displayType": "accordion",
+      "subtitle": "Pelajari apa yang diminta setiap mode saat ini dan kebiasaan tim seperti apa yang mengubah lebih banyak pertandingan menjadi kemenangan. Tujuan di sini bukan hanya mengetahui aturannya, tapi mengetahui pola kemenangannya.",
+      "intro": "OvenSmash bukan game dengan satu rencana. Beberapa mode memberikan hadiah untuk engage keras dan kontrol area, sementara yang lain memberikan hadiah untuk rotasi aman, tekanan pick, atau bertahan mandiri. Perlakukan setiap antrian seperti teka-teki objektif yang berbeda dan hasilmu akan meningkat jauh lebih cepat.",
+      "modes": [
+        {
+          "name": "Castle Crasher",
+          "teamSize": "Escort 3v3",
+          "objective": "Tangkap kura-kura dan kawal menuju kastil pasir musuh.",
+          "howToWin": "Kontrol ruang di sekitar kura-kura, singkirkan pertahanan sebelum terlalu maju, dan selesaikan dorongan dengan keunggulan jumlah.",
+          "bestFor": "Tim dengan satu frontliner yang kokoh dan minimal satu damage dealer jarak jauh sebagai follow-up"
+        },
+        {
+          "name": "Drop the Beat",
+          "teamSize": "Kontrol Panggung 3v3",
+          "objective": "Kuasai panggung tengah untuk mendapatkan poin seiring waktu hingga timmu mencapai skor target.",
+          "howToWin": "Ambil kontrol pertama dengan alat engage, lalu bergantian masuk dan keluar dari titik daripada menumpuk di satu tempat.",
+          "bestFor": "Komposisi yang bisa merebut tengah berulang kali dan menghukum over-commit musuh"
+        },
+        {
+          "name": "Battle Royale / Wild Royale",
+          "teamSize": "Solo FFA",
+          "objective": "Bertahan lebih lama dari setiap Cookie lain sambil mengumpulkan sumber daya kekuatan dan menghindari bahaya peta.",
+          "howToWin": "Farming dengan aman di awal, pantau ruang aman yang menyusut, dan hanya ambil pertarungan yang meningkatkan peluang posisi akhirmu.",
+          "bestFor": "Duelist yang mandiri dan pemain yang nyaman berotasi sendirian"
+        },
+        {
+          "name": "Gnome Battle",
+          "teamSize": "Koleksi 3v3",
+          "objective": "Kumpulkan Sugar Gnome untuk membangun patung timmu sebelum musuh menyelesaikan milik mereka.",
+          "howToWin": "Kawal pembawa, curi gnome musuh jika memungkinkan, dan reset dengan cepat setelah kehilangan kontrol rute tengah.",
+          "bestFor": "Tim mobile yang bisa berotasi cepat dan mempertahankan penyetoran di bawah tekanan"
+        },
+        {
+          "name": "Jelly Deposit",
+          "teamSize": "Balapan Skor 3v3",
+          "objective": "Kumpulkan Jeli di seluruh peta dan depositkan ke gawang musuh untuk mendapatkan poin.",
+          "howToWin": "Buka jalur pencetak skor terlebih dahulu, lalu pindahkan pembawa secara bergelombang daripada menetes sumber daya satu per satu.",
+          "bestFor": "Tim dengan kecepatan, peel, dan re-entry yang kuat setelah pertarungan singkat"
+        },
+        {
+          "name": "Smash Arena",
+          "teamSize": "Knockout 3v3",
+          "objective": "Kalahkan musuh hingga timmu mencapai jumlah eliminasi yang dibutuhkan terlebih dahulu.",
+          "howToWin": "Ambil perdagangan bersih 3v2 atau 3v1, mundur dari pertarungan yang buruk lebih awal, dan jangan pernah memberikan kematian gratis saat berkumpul kembali.",
+          "bestFor": "Tim tempur langsung dengan engage yang andal, burst, atau alat pick yang kuat"
+        }
+      ]
+    },
+    "currencyGuide": {
+      "title": "Panduan Mata Uang CookieRun: OvenSmash",
+      "displayType": "table",
+      "subtitle": "Gunakan modul ini untuk memahami mata uang mana yang paling penting, bagaimana masuk ke akunmu, dan apa yang harus dibelanjakan pertama kali. Kebiasaan sumber daya yang baik mempercepat pertumbuhan roster maupun performa pertandingan.",
+      "intro": "Jebakan terbesar di awal OvenSmash adalah menyebarkan sumber daya ke terlalu banyak Cookie terlalu cepat. Nilai terbaik awalmu biasanya datang dari memperkuat roster inti yang kecil, menggunakan sumber daya premium untuk progress nyata, dan memperlakukan kosmetik dan pengeluaran roster luas sebagai tujuan yang belakangan.",
+      "currencies": [
+        {
+          "name": "Koin",
+          "type": "Mata uang upgrade inti",
+          "howToGet": "Pertandingan, tugas, hadiah Progress Level, Coin Box, Battle Pass, Oven Crown Road, misi login, dan event",
+          "bestFirstUse": "Naikkan level satu atau dua Cookie utama daripada seluruh roster",
+          "mainUses": "Leveling Cookie, upgrade, Power Biscuit, dan beberapa Common Soulchip"
+        },
+        {
+          "name": "Crystal",
+          "type": "Mata uang progression premium yang fleksibel",
+          "howToGet": "Pertandingan, misi, tugas event, Battle Pass, hadiah Progress Level, dan paket toko",
+          "bestFirstUse": "Targetkan progress roster yang berarti seperti Epic Soulchip atau item toko bernilai tinggi",
+          "mainUses": "Pembelian toko, Epic Soulchip, dan Universal Soulchip"
+        },
+        {
+          "name": "Soulchip",
+          "type": "Sumber daya buka dan pertumbuhan roster",
+          "howToGet": "Misi pertandingan, Oven Crown Road, Battle Pass, dan pembelian toko",
+          "bestFirstUse": "Selesaikan buka atau upgrade untuk Cookie yang benar-benar kamu antrekan",
+          "mainUses": "Membuka Cookie baru dan memperkuat Cookie yang dimiliki"
+        },
+        {
+          "name": "Tiket General Summon",
+          "type": "Sumber daya undian ekspansi roster",
+          "howToGet": "Hadiah Oven Crown Road, event, dan hadiah giveaway bergaya kode",
+          "bestFirstUse": "Perluas opsi inti sebelum mengejar duplikat untuk pilihan niche",
+          "mainUses": "Undian Summon Shop untuk Cookie dan hadiah terkait"
+        },
+        {
+          "name": "Rainbow Credit",
+          "type": "Mata uang kosmetik premium",
+          "howToGet": "Sebagian besar dari pembelian toko, dengan jumlah kecil tersedia melalui Battle Pass",
+          "bestFirstUse": "Simpan untuk tampilan yang benar-benar sering kamu gunakan",
+          "mainUses": "Costume Summon Shop untuk pakaian dan set fashion"
+        },
+        {
+          "name": "Oven Crown",
+          "type": "Sumber daya tangga progression",
+          "howToGet": "Memenangkan pertempuran di berbagai mode game",
+          "bestFirstUse": "Dorong pencapaian hadiah secara konsisten daripada berhenti setelah beberapa kemenangan",
+          "mainUses": "Memajukan Oven Crown Road untuk paket Soulchip, tiket, kotak, dan hadiah progression lainnya"
+        }
+      ],
+      "spendingTips": [
+        "Investasikan Koin ke satu atau dua Cookie utama sebelum menyebar ke seluruh roster.",
+        "Simpan Crystal untuk progression yang berarti seperti Epic Soulchip, bukan pembelian toko impulsif.",
+        "Gunakan kode kupon segera untuk memaksimalkan pendapatan Crystal awal.",
+        "Dorong pencapaian Oven Crown Road secara konsisten untuk aliran hadiah free-to-play terbaik.",
+        "Perlakukan pengeluaran kosmetik sebagai tujuan belakangan setelah roster inti-mu diupgrade."
+      ]
+    },
+    "rolesGuide": {
+      "title": "Panduan Peran CookieRun: OvenSmash",
+      "displayType": "cardList",
+      "subtitle": "Pahami apa yang harus dilakukan setiap pekerjaan tim secara umum dalam pertandingan dan Cookie mana yang biasanya mengisi pekerjaan itu. Modul ini dimaksudkan untuk membantu pemain memilih identitas peran sebelum menghabiskan upgrade.",
+      "intro": "Cara terbersih untuk membangun tim yang lebih baik di OvenSmash adalah berpikir dalam pekerjaan, bukan hanya karakter favorit. Komposisi yang kuat biasanya membutuhkan seseorang untuk memulai pertarungan, seseorang untuk menyelesaikan damage, seseorang untuk mengganggu atau mengunci target, dan seseorang untuk menjaga tim tetap stabil melalui pertarungan berulang.",
+      "roles": [
+        {
+          "name": "Frontline",
+          "summary": "Pilihan frontline adalah Tank dan Bruiser kamu. Mereka mengambil kontak pertama, merebut ruang, dan membuat tim lainnya lebih aman untuk berfungsi.",
+          "responsibilities": [
+            "Mulai pertarungan saat tim-mu dalam jangkauan follow-up",
+            "Serap tekanan dan blokir akses langsung ke backline-mu",
+            "Berdiri di objektif bernilai tinggi terlebih dahulu dan paksa musuh melewatimu"
+          ],
+          "examples": [
+            "Madeleine Cookie",
+            "Dark Choco Cookie",
+            "Bacon Roll Cookie",
+            "Fruit Punch Cookie",
+            "Strawberry Crepe Cookie",
+            "GingerBrave"
+          ],
+          "playTip": "Jangan engage sendirian hanya karena kamu bisa bertahan beberapa detik. Engage saat damage dealer-mu siap mengambil untung."
+        },
+        {
+          "name": "Damage",
+          "summary": "Pilihan damage mengubah peluang menjadi kill, pembersihan objektif, dan perubahan skor. Kelompok ini mencakup Marksman, Mage, Assassin, dan Bomber.",
+          "responsibilities": [
+            "Tekan musuh setelah kontak frontline dimulai",
+            "Hukum target yang terekspos dan posisi buruk dengan cepat",
+            "Pertahankan output yang stabil selama team fight panjang dan kontes objektif"
+          ],
+          "examples": [
+            "String Cheese Cookie",
+            "Rye Cookie",
+            "Blue Slushy Cookie",
+            "Blueberry Pie Cookie",
+            "Latte Cookie",
+            "Cherry Cookie",
+            "Peach Cookie",
+            "Chili Pepper Cookie",
+            "Tiger Lily Cookie"
+          ],
+          "playTip": "Kebanyakan kekalahan damage datang dari melangkah terlalu jauh ke depan terlalu awal. Biarkan frontline atau controller-mu membuat peluang terlebih dahulu."
+        },
+        {
+          "name": "Control",
+          "summary": "Pilihan control memenangkan pertarungan dengan membekukan, menarik, knock up, memperlambat, atau memecah waktu musuh. Mereka mengubah pertarungan seimbang menjadi tidak seimbang.",
+          "responsibilities": [
+            "Interupsi engage musuh atau hukum pergerakan yang bergerombol",
+            "Buat pick sebelum team fight penuh dimulai",
+            "Kunci target penting cukup lama agar tim-mu bisa menyelesaikannya"
+          ],
+          "examples": [
+            "Red Velvet Cookie",
+            "Ice Pop Cookie",
+            "Peppermint Cookie",
+            "Jerky Cookie"
+          ],
+          "playTip": "Nilai terbaikmu biasanya datang dari mengendalikan carry musuh atau diver yang mencapai backline-mu, bukan dari menghabiskan crowd control secara acak pada tank."
+        },
+        {
+          "name": "Support",
+          "summary": "Pilihan support menjaga tim-mu stabil melalui penyembuhan, buff, utilitas, dan reset pertarungan yang lebih aman. Mereka adalah perekat dalam game objektif yang lebih panjang.",
+          "responsibilities": [
+            "Sembuhkan atau stabilkan sekutu sebelum dan setelah perdagangan",
+            "Tingkatkan uptime tim agar carry bisa terus menembak",
+            "Bantu pertarungan yang menang tetap menang dengan mencegah keruntuhan mendadak"
+          ],
+          "examples": [
+            "Peppermint Cookie",
+            "Melon Soda Cookie",
+            "Fruit Punch Cookie"
+          ],
+          "playTip": "Berdiri cukup dekat untuk mempengaruhi pertarungan, tapi cukup jauh agar musuh tidak bisa menghapus penyembuhan atau utilitasmu terlebih dahulu."
+        }
+      ]
+    },
+    "ovenCrownRoad": {
+      "title": "Panduan Oven Crown Road CookieRun: OvenSmash",
+      "displayType": "steps",
+      "intro": "Oven Crown Road adalah jalur hadiah jangka panjang dalam game. Memenangkan lebih banyak pertandingan mendorong total Oven Crown-mu lebih tinggi dan membuka soulchip, tiket summon, kotak, dan lainnya. Jalur hadiah yang diterbitkan saat ini berjalan hingga 56.800 Crown dengan band peringkat dari Bronze hingga Challenger.",
+      "steps": [
+        {
+          "title": "Pahami apa yang dihitung menuju Road",
+          "description": "Progress Oven Crown Road berasal dari total Oven Crown yang kamu dapatkan dengan memenangkan pertempuran. Semakin banyak kemenangan yang kamu tumpuk, semakin cepat kamu membuka hadiah Road.",
+          "details": [
+            "Crown diperoleh melalui kemenangan pertempuran.",
+            "Progress didasarkan pada total Oven Crown yang diperoleh.",
+            "Jalur hadiah bersifat bersama di seluruh progression-mu, bukan terikat pada satu Cookie tertentu."
+          ]
+        },
+        {
+          "title": "Kenali tangga peringkat sebelum mendorong",
+          "description": "Road dibagi menjadi Bronze, Silver, Gold, Platinum, Diamond, Master, dan Challenger, masing-masing dengan sub-peringkat. Peringkat awal terutama memberikan material soulchip, sementara peringkat akhir beralih ke pencapaian tiket yang bisa diulang.",
+          "details": [
+            "Bronze I-V",
+            "Silver I-V",
+            "Gold I-V",
+            "Platinum I-V",
+            "Diamond I-V",
+            "Master I-V",
+            "Challenger I-V"
+          ]
+        },
+        {
+          "title": "Selesaikan pencapaian Bronze dan Silver awal",
+          "description": "Bagian pertama Road penuh dengan material soulchip yang membantu roster-mu berkembang dengan cepat.",
+          "details": [
+            "0 Crown: Bronze I — 80 Soulchip Cherry Cookie",
+            "100 Crown: Bronze II — 160 Kotak Pilihan Common Soulchip",
+            "250 Crown: Bronze III — 80 Paket Pilihan Rare Soulchip",
+            "500 Crown: Bronze IV — 40 Paket Pilihan Epic Soulchip",
+            "750 Crown: Bronze V — 240 Kotak Pilihan Common Soulchip",
+            "1.000 Crown: Silver I — 120 Kotak Pilihan Rare Soulchip",
+            "1.250 Crown: Silver II — 60 Kotak Pilihan Epic Soulchip",
+            "1.500 Crown: Silver III — 320 Paket Pilihan Common Soulchip",
+            "1.750 Crown: Silver IV — 160 Paket Pilihan Rare Soulchip",
+            "2.000 Crown: Silver V — 80 Paket Pilihan Rare Soulchip"
+          ]
+        },
+        {
+          "title": "Gunakan Gold dan Platinum untuk menimbun sumber daya summon",
+          "description": "Mulai dari Gold, Road bergantian antara Soulchip Remix Ticket dan General Summon Ticket, menjadikan ini rentang sumber daya undian utama pertama.",
+          "details": [
+            "2.300 Crown: Gold I — 1 Soulchip Remix Ticket",
+            "3.000 Crown: Gold II — 5 General Summon Ticket",
+            "4.000 Crown: Gold III — 1 Soulchip Remix Ticket",
+            "5.000 Crown: Gold IV — 5 General Summon Ticket",
+            "6.000 Crown: Gold V — 1 Soulchip Remix Ticket",
+            "7.000 Crown: Platinum I — 5 General Summon Ticket",
+            "8.000 Crown: Platinum II — 1 Soulchip Remix Ticket",
+            "9.000 Crown: Platinum III — 5 General Summon Ticket",
+            "10.000 Crown: Platinum IV — 1 Soulchip Remix Ticket",
+            "11.000 Crown: Platinum V — 5 General Summon Ticket"
+          ]
+        },
+        {
+          "title": "Rencanakan pendakian panjang melalui Diamond, Master, dan Challenger",
+          "description": "Rincian akhir game yang diterbitkan mengompresi setiap band ke dalam rentang pencapaian, dan setiap pencapaian sub-peringkat yang terdaftar dalam band ini memberikan Soulchip Remix Ticket.",
+          "details": [
+            "12.000 hingga 24.000 Crown: Diamond I hingga Diamond V — 1 Soulchip Remix Ticket pada pencapaian yang terdaftar",
+            "27.000 hingga 39.000 Crown: Master I hingga Master V — 1 Soulchip Remix Ticket pada pencapaian yang terdaftar",
+            "42.000 hingga 54.000 Crown: Challenger I hingga Challenger V — 1 Soulchip Remix Ticket pada pencapaian yang terdaftar",
+            "Titik akhir Road yang diterbitkan saat ini adalah 56.800 Oven Crown."
+          ]
+        },
+        {
+          "title": "Dorong lebih cerdas, bukan sekadar lebih lama",
+          "description": "Menang secara konsisten, tetap pada roster inti yang kecil, dan hindari tilt. Itu lebih penting daripada terus-menerus mengganti karakter saat kamu masih mempelajari alur pertandingan.",
+          "details": [
+            "Fokus pada kemenangan, karena kemenangan yang menggerakkan Road ke depan.",
+            "Kuasai beberapa Cookie yang kuat terlebih dahulu daripada menyebarkan sumber daya terlalu tipis.",
+            "Bangun di sekitar sinergi tim agar pertandinganmu lebih mudah diselesaikan.",
+            "Istirahat setelah kekalahan beruntun untuk melindungi momentum-mu."
+          ]
+        }
+      ]
+    },
+    "summonGuide": {
+      "title": "Panduan Summon CookieRun: OvenSmash",
+      "displayType": "accordion",
+      "subtitle": "OvenSmash menyebarkan pertumbuhan roster di berbagai sistem daripada satu gacha tunggal. Panduan ini mengelompokkan tabel probabilitas resmi ke dalam bagian yang paling penting untuk pertumbuhan akun.",
+      "intro": "Kekuatan roster-mu terutama berasal dari soulchip, koin, dan tiket undian. Halaman probabilitas resmi mencakup Soulchip Remix, General Summon, Costume Draw, Battle Box, dan Coin Box, sementara ekosistem halaman kupon langsung juga bisa menambahkan Crystal ekstra untuk lebih banyak undian.",
+      "summons": [
+        {
+          "name": "General Summon",
+          "summary": "Undian soulchip dasar. Tingkat resmi membagi hasil menjadi Common 40%, Rare 40%, dan Epic 20%.",
+          "details": [
+            "Tingkat total Common: 40.0000%; jumlah yang mungkin termasuk 40-59, 60-79, 80-119, 120-159, dan 160.",
+            "Tingkat total Rare: 40.0000%; jumlah yang mungkin termasuk 20-29, 30-39, 40-59, 60-79, dan 80.",
+            "Tingkat total Epic: 20.0000%; jumlah yang mungkin termasuk 5, 6-8, 9-12, 20, dan 40.",
+            "Gunakan ini saat kamu menginginkan pertumbuhan roster luas di berbagai grade daripada target high-roll tunggal."
+          ]
+        },
+        {
+          "name": "Soulchip Remix",
+          "summary": "Undian progression berbasis tiket yang selalu membayar Common, Rare, Epic soulchip, dan Koin bersama, dengan lima tahap resmi.",
+          "details": [
+            "Tahap 1: 45.0000% — Common 120-139, Rare 60-69, Epic 20-29, Koin 4.510-5.610.",
+            "Tahap 2: 25.0000% — Common 140-159, Rare 70-79, Epic 30-39, Koin 5.720-6.820.",
+            "Tahap 3: 15.0000% — Common 160-199, Rare 80-99, Epic 40-59, Koin 6.920-9.230.",
+            "Tahap 4: 10.0000% — Common 200-259, Rare 100-129, Epic 60-89, Koin 9.340-12.860.",
+            "Tahap 5: 5.0000% — Common 260-319, Rare 130-159, Epic 90-119, Koin 12.960-16.480.",
+            "Ini adalah sistem terbersih untuk mengonversi satu tiket menjadi progress soulchip sekaligus pendapatan koin."
+          ]
+        },
+        {
+          "name": "Costume Draw",
+          "summary": "Sistem kosmetik menggunakan empat kelompok tahap resmi, termasuk hasil Epic standar dan bertema.",
+          "details": [
+            "Tahap 1 Grade Common: 49.8421%",
+            "Tahap 2 Grade Rare: 33.7587%",
+            "Tahap 3 Grade Epic, termasuk Bertema dan Standar: 10.9077%",
+            "Tahap 4 Grade Epic, bertema saja dan termasuk kemungkinan Full Set: 5.4916%",
+            "Pada Tahap 1-2, Rainbow Mileage juga bisa muncul dan diklasifikasikan sebagai grade Common."
+          ]
+        },
+        {
+          "name": "Battle Box",
+          "summary": "Battle Box adalah sumber progression utama lainnya karena memutar tier upgrade sekaligus hadiah spesifik tier.",
+          "details": [
+            "Peluang upgrade Battle Box I: Lv1 80.0000%, Lv2 12.5000%, Lv3 6.0000%, Lv4 1.4000%, Lv5 0.1000%, Lv6 0.0020%.",
+            "Battle Box III dimulai dari Lv3 80.0000% dan bisa mencapai Lv6 1.5000%.",
+            "Battle Box V memberikan Lv5 80.0000% dan Lv6 20.0000%.",
+            "Battle Box VI upgrade ke Lv6 100.0000%.",
+            "Hadiah Lv1 termasuk Common Random Soulchip x20 di 50.0000%, Rare Random Soulchip x10 di 20.0000%, atau Koin x1.000 di 30.0000%.",
+            "Hadiah Lv6 termasuk Epic Random Soulchip x40 di 30.0000%, Koin x10.000 di 30.0000%, Rare Universal Soulchip x40 di 10.0000%, atau Epic Universal Soulchip x20 di 30.0000%."
+          ]
+        },
+        {
+          "name": "Coin Box",
+          "summary": "Coin Box adalah sumber mata uang murni yang paling bersih dalam tabel probabilitas resmi.",
+          "details": [
+            "Coin Box Kecil: Tahap 1 51.2000% untuk 4.600-5.600; Tahap 2 31.7760% untuk 5.601-7.600; Tahap 3 17.0240% untuk 7.601-10.600.",
+            "Coin Box Menengah: Tahap 1 51.2000% untuk 14.000-17.000; Tahap 2 31.7760% untuk 17.001-23.000; Tahap 3 17.0240% untuk 23.001-32.000.",
+            "Coin Box Besar: Tahap 1 51.2000% untuk 28.000-34.000; Tahap 2 31.7760% untuk 34.001-46.000; Tahap 3 17.0240% untuk 46.001-64.000."
+          ]
+        },
+        {
+          "name": "Sumber Daya Undian Ekstra",
+          "summary": "Kode periode peluncuran bisa menambahkan Crystal ekstra yang mengalir kembali ke ekonomi undian lebih luasmu.",
+          "details": [
+            "Kode aktif yang dicek pada 29 Maret 2026: WELCOME2OVENSMASH — 1.000 Crystal.",
+            "Penukaran kupon ditangani melalui halaman kupon DevPlay resmi.",
+            "Hadiah yang ditukarkan dikirim ke kotak masuk dalam game-mu."
+          ]
+        }
+      ]
+    },
+    "inviteCodes": {
+      "title": "Kode Undangan CookieRun: OvenSmash",
+      "displayType": "codeCards",
+      "subtitle": "Event peluncuran ini dibangun di sekitar Friendship Point. ID Pemainmu berfungsi sebagai kode undangan, dan hadiah pencapaian maupun quest harian semuanya mengisi track poin yang sama.",
+      "intro": "Kode Undangan di CookieRun: OvenSmash bukanlah kupon universal yang tetap. Mereka adalah entri undangan spesifik pemain yang terikat pada event Undang Teman, dan cara tercepat untuk menyelesaikan jalur hadiah adalah dengan menggabungkan undangan yang berhasil dengan quest Friendship Point harian.",
+      "items": [
+        {
+          "title": "Kode undanganmu",
+          "code": "ID Pemainmu",
+          "reward": "Digunakan oleh pemain lain untuk masuk ke event Undang Teman",
+          "notes": [
+            "Kode undangan yang dibagikan adalah ID Pemainmu.",
+            "Saat pemain lain memasukkan kodemu, pemain tersebut menerima 200 Friendship Point."
+          ]
+        },
+        {
+          "title": "Bonus undangan berhasil",
+          "code": "Satu teman memasukkan ID Pemainmu",
+          "reward": "500 Friendship Point",
+          "notes": [
+            "Kamu menerima 500 Friendship Point per undangan yang berhasil.",
+            "Ini bisa dilakukan hingga 5 kali."
+          ]
+        },
+        {
+          "title": "Jalur quest harian",
+          "code": "Tugas event yang bisa diulang",
+          "reward": "Hingga 200 Friendship Point per hari",
+          "notes": [
+            "Main 1 kali saat berada di party bersama teman: 40 Friendship Point",
+            "Bagikan kode undanganmu 1 kali: 40 Friendship Point",
+            "Main Mode Standar 3 kali: 20 Friendship Point",
+            "Gunakan Ultimate 5 kali: 20 Friendship Point",
+            "Selesaikan semua quest: 80 Friendship Point"
+          ]
+        },
+        {
+          "title": "Pencapaian: 200 Friendship Point",
+          "code": "200 FP",
+          "reward": "100 Crystal",
+          "notes": [
+            "Ini adalah hadiah pertama di jalur poin.",
+            "Satu kode undangan yang dimasukkan sudah cukup untuk melewati ambang batas ini bagi pemain yang diundang."
+          ]
+        },
+        {
+          "title": "Pencapaian: 600 Friendship Point",
+          "code": "600 FP",
+          "reward": "1 Coin Box Acak",
+          "notes": [
+            "Ini adalah titik breakpoint hadiah kedua di jalur event."
+          ]
+        },
+        {
+          "title": "Pencapaian: 1.000 Friendship Point",
+          "code": "1.000 FP",
+          "reward": "1 kostum Black Cat Tail",
+          "notes": [
+            "Ini adalah hadiah kosmetik pertama di jalur Undang Teman."
+          ]
+        },
+        {
+          "title": "Pencapaian: 1.500 Friendship Point",
+          "code": "1.500 FP",
+          "reward": "5 Epic Universal Soulchip",
+          "notes": [
+            "Breakpoint ini menambahkan nilai upgrade langsung di atas pencapaian kosmetik sebelumnya."
+          ]
+        },
+        {
+          "title": "Pencapaian: 2.500 Friendship Point",
+          "code": "2.500 FP",
+          "reward": "1 Black Cat Ears",
+          "notes": [
+            "Ini adalah pencapaian event teratas yang terdaftar dalam rincian hadiah yang diterbitkan."
+          ]
+        }
+      ]
+    },
+    "friendsParty": {
+      "title": "Panduan Teman & Party CookieRun: OvenSmash",
+      "displayType": "steps",
+      "subtitle": "Daftar teman dan lobby party adalah alur UI yang terpisah di CookieRun: OvenSmash. Setelah kamu tahu di mana setiap menu berada, berkumpul menjadi cepat dan mudah diulang.",
+      "intro": "CookieRun: OvenSmash tidak meletakkan penambahan teman dan pembuatan party di tempat yang sama, itulah mengapa banyak pemain pertama kali melewatkan salah satu dari dua sistem tersebut. Gunakan menu Teman untuk koneksi akun dan tab Party untuk mengantri bersama hingga tiga pemain.",
+      "steps": [
+        {
+          "title": "Pergi ke Plaza terlebih dahulu",
+          "description": "Alur teman dimulai dari Plaza, yang merupakan area antarmuka utama. Ikon Teman berada di samping chat, bukan di dalam menu Party."
+        },
+        {
+          "title": "Buka menu Teman",
+          "description": "Ketuk ikon Teman di samping chat saat kamu berada di Plaza. Inilah tempat yang tepat untuk mengelola teman dan mengirim permintaan."
+        },
+        {
+          "title": "Tambah berdasarkan nama panggilan atau ID Pemain",
+          "description": "Kamu bisa menambahkan seseorang dengan memasukkan nama panggilan atau ID Pemain mereka di bilah pencarian di bagian atas layar Teman."
+        },
+        {
+          "title": "Gunakan tab Tambah Teman untuk pemain terbaru",
+          "description": "Jika kamu sudah bermain bersama atau melawan seseorang, tab Tambah Teman bisa menampilkan pemain terbaru itu sehingga kamu tidak perlu mengetik informasi mereka secara manual."
+        },
+        {
+          "title": "Buat party dari tab Party",
+          "description": "Menu Party untuk mengantri berkelompok, bukan untuk menambahkan teman. Tekan Buat Party untuk membuka lobby-mu sendiri."
+        },
+        {
+          "title": "Ukuran party dibatasi tiga pemain",
+          "description": "Sebuah party dapat menampung hingga tiga pemain. Pemimpin party menangani antrian setelah grup terbentuk."
+        },
+        {
+          "title": "Bergabung dengan grup lain menggunakan Kode Party",
+          "description": "Jika seorang teman sudah membuat lobby, tekan Bergabung dan ketik Kode Party mereka untuk masuk ke party tersebut."
+        },
+        {
+          "title": "Salin atau bagikan kode dari layar party",
+          "description": "Setiap party memiliki kode unik. Setelah party dibuat, kamu bisa menyalin kode dari bagian bawah layar dan mengirimkannya ke rekan satu tim."
+        },
+        {
+          "title": "Gunakan party untuk progress event sosial juga",
+          "description": "Event Undang Teman mencakup quest harian untuk bermain satu kali saat berada di party bersama teman, jadi berkumpul juga membantu progress Friendship Point."
+        }
+      ]
+    },
+    "ratesGuide": {
+      "title": "Panduan Probabilitas CookieRun: OvenSmash",
+      "displayType": "table",
+      "subtitle": "Baca probabilitas summon resmi, undian kostum, dan kotak dalam format yang lebih bersih. Bandingkan nilai sebelum menghabiskan Crystal, tiket, atau kotak.",
+      "intro": "CookieRun: OvenSmash menerbitkan tabel probabilitas terpisah untuk General Summon, Soulchip Remix, Costume Draw, Battle Box, dan Coin Box. General Summon membagi 40% Common, 40% Rare, dan 20% Epic berdasarkan tingkat grade total, sementara Costume Draw lebih berat ke tampilan Common dan Rare dengan irisan Epic yang lebih kecil.",
+      "tables": [
+        {
+          "name": "Tingkat Grade Total General Summon CookieRun: OvenSmash",
+          "rows": [
+            {
+              "item": "Common Soulchip",
+              "rate": "40.0000%",
+              "detail": "1x: 18% (40-59), 2x: 10% (60-79), 3x: 6% (80-119), 4x: 4% (120-159), 5x: 2% (160)"
+            },
+            {
+              "item": "Rare Soulchip",
+              "rate": "40.0000%",
+              "detail": "1x: 18% (20-29), 2x: 10% (30-39), 3x: 6% (40-59), 4x: 4% (60-79), 5x: 2% (80)"
+            },
+            {
+              "item": "Epic Soulchip",
+              "rate": "20.0000%",
+              "detail": "1x: 9% (5), 2x: 5% (6-8), 3x: 3% (9-12), 4x: 2% (20), 5x: 1% (40)"
+            }
+          ]
+        },
+        {
+          "name": "Tingkat Costume Draw CookieRun: OvenSmash",
+          "rows": [
+            {
+              "item": "Tahap 1 — Grade Common",
+              "rate": "49.8421%"
+            },
+            {
+              "item": "Tahap 2 — Grade Rare",
+              "rate": "33.7587%"
+            },
+            {
+              "item": "Tahap 3 — Grade Epic (Bertema + Standar)",
+              "rate": "10.9077%"
+            },
+            {
+              "item": "Tahap 4 — Grade Epic (Bertema saja, kemungkinan Full Set)",
+              "rate": "5.4916%"
+            }
+          ]
+        },
+        {
+          "name": "Probabilitas Tahap Soulchip Remix CookieRun: OvenSmash",
+          "rows": [
+            {
+              "item": "Tahap 1",
+              "rate": "45.0000%",
+              "detail": "Common 120-139, Rare 60-69, Epic 20-29, Koin 4.510-5.610"
+            },
+            {
+              "item": "Tahap 2",
+              "rate": "25.0000%",
+              "detail": "Common 140-159, Rare 70-79, Epic 30-39, Koin 5.720-6.820"
+            },
+            {
+              "item": "Tahap 3",
+              "rate": "15.0000%",
+              "detail": "Common 160-199, Rare 80-99, Epic 40-59, Koin 6.920-9.230"
+            },
+            {
+              "item": "Tahap 4",
+              "rate": "10.0000%",
+              "detail": "Common 200-259, Rare 100-129, Epic 60-89, Koin 9.340-12.860"
+            },
+            {
+              "item": "Tahap 5",
+              "rate": "5.0000%",
+              "detail": "Common 260-319, Rare 130-159, Epic 90-119, Koin 12.960-16.480"
+            }
+          ]
+        },
+        {
+          "name": "Distribusi Upgrade Battle Box CookieRun: OvenSmash",
+          "rows": [
+            {
+              "item": "Battle Box I",
+              "rate": "Upgrade 1 di 80%",
+              "detail": "2: 12.5%, 3: 6%, 4: 1.4%, 5: 0.1%, 6: 0.002%"
+            },
+            {
+              "item": "Battle Box II",
+              "rate": "Upgrade 2 di 80%",
+              "detail": "3: 12.5%, 4: 6%, 5: 1.4%, 6: 0.1%"
+            },
+            {
+              "item": "Battle Box III",
+              "rate": "Upgrade 3 di 80%",
+              "detail": "4: 12.5%, 5: 6%, 6: 1.5%"
+            },
+            {
+              "item": "Battle Box IV",
+              "rate": "Upgrade 4 di 80%",
+              "detail": "5: 12.5%, 6: 7.5%"
+            },
+            {
+              "item": "Battle Box V",
+              "rate": "Upgrade 5 di 80%",
+              "detail": "6: 20%"
+            },
+            {
+              "item": "Battle Box VI",
+              "rate": "Upgrade 6 di 100%",
+              "detail": "Upgrade maksimum terjamin"
+            }
+          ]
+        },
+        {
+          "name": "Tingkat Drop Coin Box CookieRun: OvenSmash",
+          "rows": [
+            {
+              "item": "Coin Box Kecil",
+              "rate": "4.600–10.600",
+              "detail": "Tahap 1: 51.2% (4.600-5.600), Tahap 2: 31.8% (5.601-7.600), Tahap 3: 17% (7.601-10.600)"
+            },
+            {
+              "item": "Coin Box Menengah",
+              "rate": "14.000–32.000",
+              "detail": "Tahap 1: 51.2% (14.000-17.000), Tahap 2: 31.8% (17.001-23.000), Tahap 3: 17% (23.001-32.000)"
+            },
+            {
+              "item": "Coin Box Besar",
+              "rate": "28.000–64.000",
+              "detail": "Tahap 1: 51.2% (28.000-34.000), Tahap 2: 31.8% (34.001-46.000), Tahap 3: 17% (46.001-64.000)"
+            }
+          ]
+        }
+      ]
+    },
+    "costumes": {
+      "title": "Panduan Kostum CookieRun: OvenSmash",
+      "displayType": "gallery",
+      "subtitle": "Lihat bagaimana OvenSmash menangani gaya, drop kostum bertema, dan koleksi visual. Mencakup apa yang bersifat kosmetik, bagaimana pool kostum terstruktur, dan apa yang bisa dikejar pemain.",
+      "intro": "Kustomisasi adalah bagian inti dari identitas OvenSmash. Pemain bisa membangun Cookie dengan puluhan tampilan dan item, sementara saluran kostum resmi menampilkan tema musiman bernama seperti Summer Time Breeze dan Cosmic Odyssey.",
+      "items": [
+        {
+          "name": "Tampilan Kustom CookieRun: OvenSmash",
+          "tag": "Kustomisasi Dasar",
+          "description": "Deskripsi App Store menyajikan kustomisasi sebagai fitur utama, menyatakan bahwa pemain dapat membuat gaya Cookie mereka sendiri dengan puluhan tampilan dan item.",
+          "howToGet": "Gunakan sistem penampilan dan kostum dalam game untuk mengubah gaya visual Cookiemu.",
+          "playerTakeaway": "Lapisan gaya terluas di OvenSmash, ditujukan untuk ekspresi diri daripada kekuatan tempur mentah."
+        },
+        {
+          "name": "Pool Kostum Standar CookieRun: OvenSmash",
+          "tag": "Pool Undian",
+          "description": "Tabel Costume Draw resmi mengkonfirmasi pool campuran yang mencakup hasil kostum Common, Rare, dan Epic, dengan Tahap 3 mencantumkan hasil Epic yang mencakup kostum bertema dan standar.",
+          "howToGet": "Undian melalui Costume Draw.",
+          "playerTakeaway": "Sebagian besar hasil kostum berada di kisaran Common dan Rare, sementara hasil Epic merupakan bagian yang lebih kecil dari pool."
+        },
+        {
+          "name": "Pool Epic Bertema CookieRun: OvenSmash",
+          "tag": "Gaya Premium",
+          "description": "Tahap 4 Costume Draw dikhususkan untuk hasil bertema saja Grade Epic dan juga mencakup kemungkinan set lengkap.",
+          "howToGet": "Undian melalui tahap Epic bertema teratas di Costume Draw.",
+          "playerTakeaway": "Jalur pengejar terbersih bagi pemain yang menginginkan set kostum bergaya event daripada variasi kosmetik umum."
+        },
+        {
+          "name": "Summer Time Breeze CookieRun: OvenSmash",
+          "tag": "Tema Musiman",
+          "description": "Lini kostum musim panas yang dibangun di sekitar pakaian ringan, kacamata stylish, dan tampilan liburan untuk para Cookie.",
+          "howToGet": "Pantau siklus promosi resmi dan rilis kostum yang sesuai.",
+          "playerTakeaway": "Bersandar pada fashion musiman yang cerah dan cocok sebagai set pameran bagi pemain yang mengutamakan gaya."
+        },
+        {
+          "name": "Cosmic Odyssey CookieRun: OvenSmash",
+          "tag": "Tema Musiman",
+          "description": "Lini kostum bertema luar angkasa yang dijelaskan dengan frasa seperti peretas luar angkasa dan pengembara galaktik.",
+          "howToGet": "Pantau siklus promosi resmi dan rilis kostum yang sesuai.",
+          "playerTakeaway": "Memberikan OvenSmash tampilan fiksi ilmiah urban fantasy yang lebih kuat dan merupakan salah satu set identitas bertema yang paling jelas diumumkan sejauh ini."
+        }
+      ]
+    },
+    "updates": {
+      "title": "Update CookieRun: OvenSmash",
+      "displayType": "card-list",
+      "subtitle": "Pantau saluran yang penting untuk berita patch, drop event, dan pengungkapan kostum baru.",
+      "intro": "Help Center tidak menerbitkan kalender patch yang tetap dan malah mengarahkan pemain ke Discord resmi untuk waktu update. Daftar pantau yang paling berguna adalah Discord untuk obrolan update berikutnya, YouTube dan X untuk postingan pengungkapan, dan daftar app store untuk riwayat versi.",
+      "channels": [
+        {
+          "name": "Discord Resmi CookieRun: OvenSmash",
+          "role": "Tempat utama untuk memeriksa waktu update berikutnya",
+          "details": "Artikel Help Center resmi tentang waktu update secara khusus meminta pemain untuk memeriksa Discord CookieRun: OvenSmash secara rutin untuk berita terbaru, taktik, dan update komunitas.",
+          "bestFor": "Pemberitahuan update berikutnya, pengumuman langsung, percakapan komunitas",
+          "url": "https://discord.com/invite/crovensmash"
+        },
+        {
+          "name": "YouTube Resmi CookieRun: OvenSmash",
+          "role": "Sumber terbaik untuk pengungkapan visual",
+          "details": "Saluran YouTube resmi menerbitkan konten pengungkapan kostum, termasuk video Cosmic Odyssey dan Summer Time Breeze.",
+          "bestFor": "Trailer, pratinjau kostum, video promosi",
+          "url": "https://www.youtube.com/@cookierunovensmash"
+        },
+        {
+          "name": "X Resmi CookieRun: OvenSmash",
+          "role": "Feed pengumuman yang bergerak cepat",
+          "details": "Feed X resmi digunakan untuk promosi kostum, kampanye berbagi, dan postingan pengungkapan musiman, termasuk pengumuman kostum bertema musim panas dan kosmik.",
+          "bestFor": "Pengumuman singkat, pengingat event, drop promosi",
+          "url": "https://x.com/CROvenSmash"
+        },
+        {
+          "name": "Riwayat Versi App Store CookieRun: OvenSmash",
+          "role": "Titik periksa catatan patch cepat",
+          "details": "Riwayat versi saat ini menunjukkan Versi 1.0.01 dengan catatan: Memperbaiki bug dan mendaftarkan produk dalam aplikasi baru untuk ditinjau.",
+          "bestFor": "Konfirmasi perbaikan bug dan pelacakan versi dari sisi toko",
+          "url": "https://apps.apple.com/us/app/cookierun-ovensmash/id6550902247"
+        },
+        {
+          "name": "Halaman Update Help Center CookieRun: OvenSmash",
+          "role": "Panduan update dari sisi support resmi",
+          "details": "Artikel support tentang waktu update adalah tempat resmi yang mengarahkan pengguna ke saluran berita langsung utama.",
+          "bestFor": "Konfirmasi resmi tentang kemana berita update diarahkan",
+          "url": "https://cs-cookierunovensmash.devsisters.com/hc/en-us/articles/56159773706009-When-is-the-next-update"
+        }
+      ]
+    },
+    "troubleshooting": {
+      "title": "Pemecahan Masalah CookieRun: OvenSmash",
+      "displayType": "accordion",
+      "subtitle": "Perbaiki masalah instalasi, update, koneksi, stuttering, crash, dan notifikasi dengan langkah perangkat resmi.",
+      "intro": "Sebagian besar langkah support CookieRun: OvenSmash mengulang pemeriksaan inti yang sama: gunakan build toko resmi, perbarui OS perangkat, bebaskan ruang dan memori, dan pastikan perangkat memenuhi persyaratan minimum. Untuk iPhone dan iPad, iOS 15 atau lebih baru diperlukan; untuk Android, versi 9.0 atau lebih baru dengan RAM 3 GB atau lebih.",
+      "items": [
+        {
+          "question": "Saya tidak bisa menginstal CookieRun: OvenSmash",
+          "answer": "Unduh game hanya dari App Store atau Google Play Store. Kemudian periksa penyimpanan, bebaskan memori dengan menghapus aplikasi atau media yang tidak digunakan, perbarui OS perangkat, dan konfirmasi persyaratan minimum: iOS 15 atau lebih baru, atau Android 9.0 atau lebih baru dengan RAM 3 GB atau lebih.",
+          "steps": [
+            "Gunakan hanya versi toko resmi",
+            "Periksa kapasitas penyimpanan perangkat",
+            "Bebaskan memori dengan menghapus aplikasi, video, atau foto yang tidak digunakan",
+            "Perbarui OS perangkat ke versi terbaru",
+            "Konfirmasi persyaratan sistem sebelum mencoba lagi"
+          ]
+        },
+        {
+          "question": "Mengapa saya tidak bisa memperbarui CookieRun: OvenSmash?",
+          "answer": "Memperbarui mungkin membutuhkan lebih banyak ruang dari ukuran instalasi minimum. Bebaskan penyimpanan, pertahankan setidaknya 3 GB ruang tersedia, perbarui OS perangkat, dan konfirmasi persyaratan minimum yang sama yang digunakan untuk instalasi.",
+          "steps": [
+            "Bebaskan memori perangkat dengan menghapus aplikasi atau file yang tidak digunakan",
+            "Pertahankan setidaknya 3 GB ruang kosong tersedia",
+            "Perbarui OS perangkat ke versi terbaru",
+            "Konfirmasi iOS 15+ atau Android 9.0+ dengan RAM 3 GB atau lebih"
+          ]
+        },
+        {
+          "question": "Saya tidak bisa terhubung ke CookieRun: OvenSmash. Apa yang harus dilakukan?",
+          "answer": "Mulai dengan kualitas jaringan. Jaringan yang tidak stabil bisa membuat CookieRun: OvenSmash tidak stabil, jadi beralih ke koneksi yang andal, konfirmasi kamu menginstal versi toko resmi, perbarui OS, bebaskan beberapa memori perangkat, dan periksa persyaratan perangkat minimum.",
+          "steps": [
+            "Pindah ke koneksi jaringan yang stabil",
+            "Pastikan game diunduh dari App Store atau Google Play",
+            "Perbarui OS perangkat",
+            "Bebaskan memori dengan menghapus aplikasi atau media yang tidak digunakan",
+            "Konfirmasi iOS 15+ atau Android 9.0+ dengan RAM 3 GB atau lebih"
+          ]
+        },
+        {
+          "question": "CookieRun: OvenSmash terus stuttering saat dimainkan",
+          "answer": "Help Center pertama-tama mengarah ke stabilitas jaringan, terutama karena sinyal penuh tidak selalu berarti koneksi yang kuat. Perjalanan di kereta bawah tanah dan tempat yang ramai masih bisa menyebabkan permainan yang tidak stabil. Jika jaringan baik-baik saja, tutup aplikasi latar belakang untuk membebaskan memori perangkat.",
+          "steps": [
+            "Gunakan jaringan yang kuat atau koneksi 3G atau 4G yang stabil",
+            "Hindari lingkungan yang tidak stabil seperti lokasi yang ramai atau perjalanan dengan kereta bawah tanah jika memungkinkan",
+            "Tutup aplikasi lain yang berjalan di latar belakang",
+            "Coba lagi setelah membebaskan memori"
+          ]
+        },
+        {
+          "question": "CookieRun: OvenSmash crash di Android",
+          "answer": "Perbarui Android terlebih dahulu, kemudian periksa kualitas koneksi, bebaskan setidaknya 3 GB ruang, tutup aplikasi latar belakang, dan mulai ulang perangkat. Keragaman perangkat Android berarti beberapa perangkat mungkin masih tidak memenuhi performa yang direkomendasikan.",
+          "steps": [
+            "Perbarui Android di Pengaturan > Tentang Perangkat",
+            "Gunakan koneksi jaringan yang solid",
+            "Bebaskan setidaknya 3 GB ruang",
+            "Tutup semua aplikasi yang berjalan",
+            "Mulai ulang perangkat"
+          ]
+        },
+        {
+          "question": "CookieRun: OvenSmash crash di iOS",
+          "answer": "Perbarui iOS, periksa penyimpanan yang tersedia, pertahankan setidaknya 3 GB ruang kosong, hapus aplikasi atau media yang tidak digunakan, kemudian tutup aplikasi dan mulai ulang perangkat. Perangkat yang di-jailbreak tidak dijamin bisa menjalankan CookieRun: OvenSmash dengan benar.",
+          "steps": [
+            "Perbarui iOS di Pengaturan > Umum > Pembaruan Perangkat Lunak",
+            "Periksa penyimpanan di Pengaturan > Umum > Tentang",
+            "Pertahankan setidaknya 3 GB ruang kosong tersedia",
+            "Hapus aplikasi, video, atau foto yang tidak digunakan jika diperlukan",
+            "Tutup aplikasi yang berjalan dan mulai ulang perangkat"
+          ]
+        },
+        {
+          "question": "Bagaimana cara menonaktifkan notifikasi push CookieRun: OvenSmash?",
+          "answer": "Ada tiga cara. Di pengaturan game, buka Pengaturan > Notifikasi dan aktifkan atau nonaktifkan peringatan yang diperlukan. Di iOS, buka Pengaturan > Notifikasi dan pilih CookieRun: OvenSmash. Di Android, buka Pengaturan > Suara dan notifikasi > Notifikasi aplikasi, kemudian blokir atau buka blokir notifikasi untuk game.",
+          "steps": [
+            "Di pengaturan game atau umum, buka Notifikasi dan aktifkan atau nonaktifkan peringatan yang diperlukan",
+            "Di iOS, buka Pengaturan > Notifikasi dan pilih CookieRun: OvenSmash",
+            "Di Android, buka Pengaturan > Suara dan notifikasi > Notifikasi aplikasi, kemudian blokir atau buka blokir notifikasi game"
+          ]
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "CookieRun: OvenSmash",
+    "titleHighlight": "FAQ",
+    "subtitle": "Pertanyaan yang sering ditanyakan tentang CookieRun: OvenSmash",
+    "questions": [
+      {
+        "question": "Apa itu CookieRun: OvenSmash?",
+        "answer": "CookieRun: OvenSmash adalah game arena PvP real-time yang dikembangkan oleh Devsisters. Pemain mengendalikan Cookie dalam pertempuran 3v3 yang cepat dan mode free-for-all yang berlatar di Platter City."
+      },
+      {
+        "question": "Apakah CookieRun: OvenSmash gratis dimainkan?",
+        "answer": "Ya. CookieRun: OvenSmash gratis diunduh dan dimainkan di iOS, Android, dan PC. Game ini mencakup pembelian dalam aplikasi opsional untuk item kosmetik dan peningkat progression."
+      },
+      {
+        "question": "Platform apa saja yang mendukung CookieRun: OvenSmash?",
+        "answer": "CookieRun: OvenSmash tersedia di iOS (App Store), Android (Google Play), dan PC. Cross-play didukung di semua platform."
+      },
+      {
+        "question": "Berapa banyak Cookie dalam CookieRun: OvenSmash?",
+        "answer": "CookieRun: OvenSmash diluncurkan dengan 20 Cookie yang bisa dimainkan, masing-masing dengan kemampuan, peran, dan ultimate yang unik. Cookie lebih banyak diharapkan akan ditambahkan dalam update mendatang."
+      },
+      {
+        "question": "Bagaimana cara menukarkan kode di CookieRun: OvenSmash?",
+        "answer": "Kunjungi halaman kupon DevPlay resmi di coupon.devplay.com, masukkan akun DevPlay dan kode, kemudian mulai ulang game untuk mengumpulkan hadiah dari kotak masukmu."
+      },
+      {
+        "question": "Apa Cookie terbaik di CookieRun: OvenSmash?",
+        "answer": "Pilihan meta peluncuran terkuat termasuk Dark Choco Cookie, Red Velvet Cookie, Madeleine Cookie, dan Cherry Cookie. Lihat bagian tier list untuk peringkat lengkap."
+      },
+      {
+        "question": "Berapa banyak mode permainan yang dimiliki CookieRun: OvenSmash?",
+        "answer": "CookieRun: OvenSmash memiliki enam mode permainan: Castle Crasher, Drop the Beat, Jelly Race, Team Battle, Cookie Royale, dan Gnome Battle."
+      },
+      {
+        "question": "Kapan CookieRun: OvenSmash diluncurkan?",
+        "answer": "CookieRun: OvenSmash diluncurkan secara global pada 26 Maret 2026, dikembangkan oleh Devsisters dan diterbitkan di wilayah tertentu oleh VNGGames."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Siap Main CookieRun: OvenSmash?",
+    "description": "Bergabunglah dengan komunitas CookieRun: OvenSmash di Discord untuk panduan, update, dan diskusi!",
+    "joinCommunity": "Bergabung di Discord",
+    "joinGame": "Main di Google Play"
+  },
+  "footer": {
+    "title": "CookieRun: OvenSmash Wiki",
+    "description": "Pusat sumber daya lengkapmu untuk cookie, build, tier list, kode, mode pertempuran, dan panduan pemula CookieRun: OvenSmash.",
+    "resources": "Sumber Daya",
+    "community": "Komunitas",
+    "legal": "Hukum",
+    "discord": "Discord",
+    "twitter": "X / Twitter",
+    "reddit": "Reddit",
+    "youtube": "YouTube",
+    "officialSite": "Situs Resmi",
+    "about": "Tentang",
+    "privacy": "Kebijakan Privasi",
+    "terms": "Ketentuan Layanan",
+    "copyrightNotice": "Hak Cipta",
+    "copyright": "© 2026 CookieRun: OvenSmash Wiki. Tidak berafiliasi dengan Devsisters.",
+    "disclaimer": "Situs web penggemar tidak resmi."
+  },
+  "pages": {
+    "guide": {
+      "title": "Panduan Cookie Run: OvenSmash",
+      "description": "Panduan lengkap yang mencakup tips pemula, misi kerajaan, kostum eksklusif, dan strategi lanjutan untuk Cookie Run: OvenSmash.",
+      "metaTitle": "Panduan Cookie Run: OvenSmash - Tips Pemula & Strategi",
+      "metaDescription": "Kuasai Cookie Run: OvenSmash dengan panduan pemula, walkthrough misi kerajaan, panduan kostum, dan strategi gameplay lanjutan.",
+      "categoryLabel": "PANDUAN",
+      "whatIs": "Apa itu Panduan Cookie Run: OvenSmash?",
+      "whatIsDescription": "Panduan komprehensif yang mencakup segalanya mulai dari dasar sesi pertama hingga taktik PvP lanjutan, misi kerajaan, dan buka kostum eksklusif di Cookie Run: OvenSmash.",
+      "why": "Mengapa membaca panduan Cookie Run: OvenSmash?",
+      "whySteps": {
+        "step1Title": "Kuasai Dasar-dasarnya",
+        "step1Description": "Pelajari kontrol, alur pertandingan, dan peran Cookie dari sesi pertamamu",
+        "step2Title": "Selesaikan Misi",
+        "step2Description": "Ikuti walkthrough langkah demi langkah untuk misi kerajaan dan quest event",
+        "step3Title": "Buka Kostum",
+        "step3Description": "Temukan cara mendapatkan kostum eksklusif dan kustomisasi Cookiemu"
+      },
+      "featured": "Panduan Penting",
+      "all": "Semua Panduan"
+    },
+    "codes": {
+      "title": "Kode Cookie Run: OvenSmash",
+      "description": "Kode kupon aktif terbaru untuk Crystal, Koin, dan hadiah gratis. Diperbarui setiap rilis baru.",
+      "metaTitle": "Kode Cookie Run: OvenSmash - Crystal & Hadiah Gratis",
+      "metaDescription": "Dapatkan Crystal, Koin, dan item gratis dengan kode Cookie Run: OvenSmash yang aktif. Daftar terbaru dengan kode yang berfungsi dan panduan penukaran langkah demi langkah.",
+      "categoryLabel": "KODE",
+      "whatIs": "Apa itu Kode Cookie Run: OvenSmash?",
+      "whatIsDescription": "Kode kupon adalah kunci promosi khusus yang dirilis oleh Devsisters yang memberikan Crystal, Koin, dan item dalam game secara gratis. Tukarkan melalui halaman kupon DevPlay resmi.",
+      "why": "Mengapa menggunakan kode Cookie Run: OvenSmash?",
+      "whySteps": {
+        "step1Title": "Sumber Daya Gratis",
+        "step1Description": "Terima Crystal, Koin, dan item secara instan tanpa mengeluarkan uang sungguhan",
+        "step2Title": "Percepat Kemajuan",
+        "step2Description": "Gunakan hadiah gratis untuk memanggil Cookie dan meningkatkan tim lebih cepat",
+        "step3Title": "Hadiah Terbatas Waktu",
+        "step3Description": "Kode cepat kedaluwarsa — tukarkan sebelum tidak aktif"
+      },
+      "featured": "Kode Aktif",
+      "all": "Semua Kode"
+    },
+    "ranking": {
+      "title": "Peringkat Cookie Run: OvenSmash",
+      "description": "Tier list meta saat ini yang merangking semua Cookie berdasarkan kekuatan, dampak peran, dan kelayakan kompetitif.",
+      "metaTitle": "Tier List & Peringkat Cookie Run: OvenSmash - Cookie Terbaik",
+      "metaDescription": "Tier list Cookie Run: OvenSmash yang merangking setiap Cookie berdasarkan kekuatan meta, efektivitas peran, dan performa ranked. Temukan karakter terbaik untuk dimainkan.",
+      "categoryLabel": "PERINGKAT",
+      "whatIs": "Apa itu Peringkat Cookie Run: OvenSmash?",
+      "whatIsDescription": "Tier list merangking setiap Cookie berdasarkan kekuatan meta saat ini, dampak peran, dan kemampuan mengubah kemenangan di semua mode permainan kompetitif di Cookie Run: OvenSmash.",
+      "why": "Mengapa memeriksa peringkat Cookie Run: OvenSmash?",
+      "whySteps": {
+        "step1Title": "Pilih Cookie yang Kuat",
+        "step1Description": "Ketahui Cookie mana yang mendominasi meta kompetitif saat ini",
+        "step2Title": "Rencanakan Roster-mu",
+        "step2Description": "Investasikan sumber daya ke Cookie yang tetap relevan di berbagai patch",
+        "step3Title": "Counter Meta",
+        "step3Description": "Pahami matchup untuk mengcounter pilihan tier tinggi yang populer"
+      },
+      "featured": "Peringkat Saat Ini",
+      "all": "Tier List Lengkap"
+    },
+    "cookies": {
+      "title": "Cookie Cookie Run: OvenSmash",
+      "description": "Roster karakter lengkap dengan peran, kelangkaan, kemampuan, dan tips penggunaan praktis untuk setiap Cookie.",
+      "metaTitle": "Cookie Cookie Run: OvenSmash - Daftar Karakter & Peran Lengkap",
+      "metaDescription": "Daftar karakter Cookie Run: OvenSmash lengkap dengan peran, kelangkaan, kemampuan, dan peringkat tier. Temukan Cookie terbaik untuk gaya bermainmu.",
+      "categoryLabel": "COOKIES",
+      "whatIs": "Apa itu Cookie Cookie Run: OvenSmash?",
+      "whatIsDescription": "Cookie adalah karakter yang bisa dimainkan di Cookie Run: OvenSmash. Setiap Cookie memiliki peran yang ditentukan (Tank, Damage, Control, atau Support), kemampuan unik, dan skill ultimate.",
+      "why": "Mengapa mempelajari Cookie Cookie Run: OvenSmash?",
+      "whySteps": {
+        "step1Title": "Pilih Cookie Utamamu",
+        "step1Description": "Temukan Cookie yang sesuai dengan gaya bermain dan peran yang kamu sukai",
+        "step2Title": "Pahami Kemampuan",
+        "step2Description": "Pelajari kit setiap Cookie untuk memaksimalkan efektivitas dalam pertempuran",
+        "step3Title": "Build dengan Cerdas",
+        "step3Description": "Investasikan sumber daya ke Cookie dengan return tertinggi"
+      },
+      "featured": "Cookie Unggulan",
+      "all": "Semua Cookie"
+    },
+    "download": {
+      "title": "Unduhan Cookie Run: OvenSmash",
+      "description": "Unduh Cookie Run: OvenSmash di iOS, Android, PC via Google Play Games, BlueStacks, atau Steam.",
+      "metaTitle": "Unduhan Cookie Run: OvenSmash - PC, iOS, Android & APK",
+      "metaDescription": "Unduh Cookie Run: OvenSmash di PC, iOS, Android, BlueStacks, dan Steam. Panduan instalasi lengkap dengan unduhan APK dan petunjuk pengaturan emulator.",
+      "categoryLabel": "UNDUH",
+      "whatIs": "Cara Mengunduh Cookie Run: OvenSmash?",
+      "whatIsDescription": "Cookie Run: OvenSmash tersedia di iOS dan Android. Pemain PC dapat menggunakan Google Play Games, emulator BlueStacks, atau menunggu rilis Steam.",
+      "why": "Mengapa mengunduh Cookie Run: OvenSmash?",
+      "whySteps": {
+        "step1Title": "Bermain Lintas Platform",
+        "step1Description": "Main di ponsel atau PC dengan akun dan progres yang sama",
+        "step2Title": "Keunggulan PC",
+        "step2Description": "Nikmati kontrol yang lebih baik dan layar lebih besar untuk pertandingan kompetitif",
+        "step3Title": "Pengaturan Mudah",
+        "step3Description": "Ikuti panduan langkah demi langkah untuk platform yang kamu sukai"
+      },
+      "featured": "Unduhan Populer",
+      "all": "Semua Panduan Unduhan"
+    },
+    "release": {
+      "title": "Info Rilis Cookie Run: OvenSmash",
+      "description": "Tanggal peluncuran, detail pra-registrasi, pengumuman resmi, dan informasi penerbit regional.",
+      "metaTitle": "Tanggal Rilis & Info Peluncuran Cookie Run: OvenSmash",
+      "metaDescription": "Tanggal rilis Cookie Run: OvenSmash, info pra-registrasi, detail peluncuran regional VNG, dan pengumuman resmi dari Devsisters.",
+      "categoryLabel": "RILIS",
+      "whatIs": "Apa itu Info Rilis Cookie Run: OvenSmash?",
+      "whatIsDescription": "Timeline peluncuran resmi, pencapaian pra-registrasi, jadwal rilis global dan regional, serta detail kemitraan penerbit untuk Cookie Run: OvenSmash.",
+      "why": "Mengapa mengikuti info rilis Cookie Run: OvenSmash?",
+      "whySteps": {
+        "step1Title": "Hadiah Pra-Registrasi",
+        "step1Description": "Klaim hadiah peluncuran eksklusif dengan melakukan pra-registrasi sebelum rilis",
+        "step2Title": "Ketersediaan Regional",
+        "step2Description": "Periksa kapan Cookie Run: OvenSmash diluncurkan di wilayahmu",
+        "step3Title": "Update Resmi",
+        "step3Description": "Tetap terinformasi dengan pengumuman langsung dari Devsisters dan VNG"
+      },
+      "featured": "Berita Rilis Terbaru",
+      "all": "Semua Info Rilis"
+    },
+    "issues": {
+      "title": "Masalah & Solusi Cookie Run: OvenSmash",
+      "description": "Solusi untuk error umum, crash, lag, layar hitam, dan masalah koneksi server.",
+      "metaTitle": "Masalah Cookie Run: OvenSmash - Perbaikan Error & Troubleshooting",
+      "metaDescription": "Perbaiki masalah Cookie Run: OvenSmash termasuk kode error, lag, layar hitam, crash, dan kegagalan koneksi server. Panduan troubleshooting langkah demi langkah.",
+      "categoryLabel": "MASALAH",
+      "whatIs": "Apa itu Masalah Cookie Run: OvenSmash?",
+      "whatIsDescription": "Masalah teknis umum yang dihadapi pemain termasuk kode error, kegagalan koneksi, lonjakan lag, layar hitam, dan crash aplikasi di berbagai perangkat.",
+      "why": "Mengapa memeriksa troubleshooting Cookie Run: OvenSmash?",
+      "whySteps": {
+        "step1Title": "Perbaikan Cepat",
+        "step1Description": "Selesaikan error umum dan kembali ke dalam game dengan cepat",
+        "step2Title": "Solusi Spesifik Perangkat",
+        "step2Description": "Temukan perbaikan yang disesuaikan dengan perangkat dan versi OS spesifikmu",
+        "step3Title": "Cegah Masalah di Masa Depan",
+        "step3Description": "Pelajari pengaturan dan kebiasaan yang meminimalkan crash dan lag"
+      },
+      "featured": "Masalah Umum",
+      "all": "Semua Masalah & Solusi"
+    },
+    "media": {
+      "title": "Media & Komunitas Cookie Run: OvenSmash",
+      "description": "Saluran sosial resmi, pusat komunitas, pembuat konten, dan sumber media.",
+      "metaTitle": "Media Cookie Run: OvenSmash - Discord, Reddit, YouTube & Lainnya",
+      "metaDescription": "Bergabunglah dengan komunitas Cookie Run: OvenSmash di Discord, Reddit, YouTube, Twitter, dan Facebook. Temukan saluran resmi dan sumber daya komunitas.",
+      "categoryLabel": "MEDIA",
+      "whatIs": "Apa itu Media Cookie Run: OvenSmash?",
+      "whatIsDescription": "Saluran resmi dan komunitas tempat pemain berbagi strategi, mendiskusikan update, melaporkan bug, dan terhubung dengan penggemar Cookie Run: OvenSmash lainnya.",
+      "why": "Mengapa bergabung dengan komunitas Cookie Run: OvenSmash?",
+      "whySteps": {
+        "step1Title": "Dapatkan Update Pertama",
+        "step1Description": "Saluran resmi berbagi kode, event, dan catatan patch sebelum siapa pun",
+        "step2Title": "Temukan Tim",
+        "step2Description": "Terhubung dengan pemain untuk party, pertandingan ranked, dan undangan teman",
+        "step3Title": "Pelajari Strategi",
+        "step3Description": "Tonton pembuat konten dan diskusikan meta dengan pemain berpengalaman"
+      },
+      "featured": "Saluran Resmi",
+      "all": "Semua Media & Komunitas"
+    }
+  }
+}

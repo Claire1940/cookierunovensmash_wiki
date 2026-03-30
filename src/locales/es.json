@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "description": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros, finales y consejos de supervivencia para la aventura surrealista de sandbox de vóxeles en Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, fabricación, biomas, logros, supervivencia, Steam",
-      "ogTitle": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "ogDescription": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros, finales y consejos de supervivencia para la aventura surrealista de sandbox de vóxeles en Steam.",
-      "twitterTitle": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "twitterDescription": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros y consejos de supervivencia para el sandbox surrealista de vóxeles en Steam."
+      "title": "CookieRun: OvenSmash Wiki - Tier List, Códigos y Cookies",
+      "description": "Wiki de CookieRun: OvenSmash con guías de cookies, tier list, códigos, modos de batalla, builds, info de lanzamiento y consejos para principiantes en iOS, Android y PC.",
+      "keywords": "CookieRun: OvenSmash, CookieRun OvenSmash wiki, cookies, tier list, códigos, builds, modos, guía",
+      "ogTitle": "CookieRun: OvenSmash Wiki - Tier List, Códigos y Cookies",
+      "ogDescription": "Wiki de CookieRun: OvenSmash con guías de cookies, tier list, códigos, modos de batalla, builds, info de lanzamiento y consejos para principiantes en iOS, Android y PC.",
+      "twitterTitle": "CookieRun: OvenSmash Wiki - Tier List, Códigos y Cookies",
+      "twitterDescription": "Wiki de CookieRun: OvenSmash con guías de cookies, tier list, códigos, modos de batalla, builds y consejos para principiantes en iOS, Android y PC."
     }
   },
   "nav": {
@@ -18,12 +18,12 @@
     "download": "Descargar",
     "release": "Lanzamiento",
     "issues": "Problemas",
-    "media": "Medios"
+    "media": "Media"
   },
   "common": {
     "home": "Inicio",
     "more": "Más",
-    "playNow": "Juega en Steam",
+    "playNow": "Jugar en Google Play",
     "switchLanguage": "Cambiar idioma",
     "switchTheme": "Cambiar tema",
     "lightMode": "Modo claro",
@@ -35,899 +35,1580 @@
     "readMore": "Leer más"
   },
   "hero": {
-    "badge": "__PROTECTED_c0b0161c__ Sandbox de supervivencia de vóxeles",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explora biomas oníricos, fusiona objetos con Apotheosis, construye libremente y sobrevive a criaturas extrañas en este sandbox surrealista de mundo abierto en Steam.",
-    "getFreeCodesCTA": "Explorar guía de fabricación",
-    "playOnSteamCTA": "Jugar en Steam",
+    "badge": "Brawler PvP de Fantasía Urbana",
+    "title": "CookieRun: OvenSmash Wiki",
+    "description": "Domina las Cookies, builds, cartas de hechizo, modos de batalla, eventos y consejos para principiantes en el frenético juego de acción PvP de Devsisters ambientado en Platter City.",
+    "getFreeCodesCTA": "Obtener Códigos Gratis",
+    "playOnGooglePlayCTA": "Jugar en Google Play",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Jugadores en línea"
+        "value": "1M+",
+        "label": "Descargas en Google Play"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Pico de CCU"
+        "value": "4.8/5",
+        "label": "Calificación en App Store"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Reseñas positivas"
+        "value": "6",
+        "label": "Modos de Batalla"
       },
       "stat4": {
-        "value": "12 de mar. de 2026",
-        "label": "Fecha de lanzamiento"
+        "value": "26 mar 2026",
+        "label": "Lanzamiento Global"
       }
     }
   },
   "gameFeature": {
-    "title": "Jugabilidad de Lucid Blocks",
-    "description": "Explora biomas surrealistas, fusiona objetos con Apotheosis y sobrevive a criaturas extrañas en este sandbox de vóxeles onírico en Steam."
+    "title": "Arena PvP de CookieRun: OvenSmash",
+    "description": "Sumérgete en batallas 3v3 en tiempo real, domina las habilidades únicas de cada Cookie y arrasa en seis modos competitivos en Platter City."
+  },
+  "moduleNav": {
+    "title": "Ir a la Guía"
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Recursos",
-    "subtitle": "Todo lo que necesitas para explorar, fabricar y sobrevivir en Lucid Blocks",
+    "title": "CookieRun: OvenSmash",
+    "titleHighlight": "Guías Wiki",
+    "subtitle": "Todo lo que necesitas para dominar las Cookies, builds, modos y códigos en CookieRun: OvenSmash",
     "cards": [
       {
         "icon": "BookOpen",
-        "title": "Guía para principiantes",
-        "description": "Primeros pasos, exploración y progresión inicial"
+        "title": "Guía para Principiantes de CookieRun: OvenSmash",
+        "description": "Ruta inicial, objetivos y hábitos desde la primera sesión"
+      },
+      {
+        "icon": "Gift",
+        "title": "Códigos de CookieRun: OvenSmash",
+        "description": "Códigos de cupón activos y pasos para canjearlos"
+      },
+      {
+        "icon": "Trophy",
+        "title": "Tier List de CookieRun: OvenSmash",
+        "description": "Las mejores Cookies clasificadas por rol y fuerza en el meta"
+      },
+      {
+        "icon": "Wrench",
+        "title": "Mejores Builds de CookieRun: OvenSmash",
+        "description": "Configuraciones óptimas de habilidades y Power Biscuits"
+      },
+      {
+        "icon": "Users",
+        "title": "Lista de Cookies de CookieRun: OvenSmash",
+        "description": "Roster completo de personajes con roles y habilidades"
+      },
+      {
+        "icon": "Swords",
+        "title": "Modos de Juego de CookieRun: OvenSmash",
+        "description": "Reglas y condiciones de victoria para los seis modos"
+      },
+      {
+        "icon": "Coins",
+        "title": "Guía de Monedas de CookieRun: OvenSmash",
+        "description": "Cristales, Monedas y prioridades de gasto inteligente"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Guía de Roles de CookieRun: OvenSmash",
+        "description": "Tanque, Daño, Control y Soporte explicados"
+      },
+      {
+        "icon": "Crown",
+        "title": "Camino a la Corona del Horno de CookieRun: OvenSmash",
+        "description": "Hitos de rango y recompensas de progresión"
       },
       {
         "icon": "Sparkles",
-        "title": "Fabricación de Apotheosis",
-        "description": "Sistema de fusión libre y recetas iniciales"
+        "title": "Guía de Invocaciones de CookieRun: OvenSmash",
+        "description": "Invocación General, Soulchip Remix y tiradas"
       },
       {
-        "icon": "Hammer",
-        "title": "Herramientas y armas",
-        "description": "Pico de escarcha, Azrael, __PROTECTED_6a765cb2__ y más"
+        "icon": "UserPlus",
+        "title": "Códigos de Invitación de CookieRun: OvenSmash",
+        "description": "Evento de invitación de amigos y recompensas sociales"
       },
       {
-        "icon": "Package",
-        "title": "Almacenamiento e inventario",
-        "description": "Cubos de suministros, gabinetes y almacenamiento de Qualia"
+        "icon": "Handshake",
+        "title": "Amigos y Grupo en CookieRun: OvenSmash",
+        "description": "Agrega amigos, crea grupos y juega en equipo"
       },
       {
-        "icon": "Home",
-        "title": "Qualia y construcción de bases",
-        "description": "Qualia personal y configuración de la base"
+        "icon": "BarChart3",
+        "title": "Guía de Probabilidades de CookieRun: OvenSmash",
+        "description": "Probabilidades de invocación, trajes y cajas"
       },
       {
-        "icon": "Eye",
-        "title": "Regiones del mundo",
-        "description": "Fog Meadow, Ciénaga de la Esencia y más"
+        "icon": "Shirt",
+        "title": "Guía de Trajes de CookieRun: OvenSmash",
+        "description": "Tiradas de trajes, skins y sistema de personalización"
       },
       {
-        "icon": "AlertTriangle",
-        "title": "Criaturas y enemigos",
-        "description": "Maniquíes, arañas y cómo sobrevivir"
+        "icon": "Bell",
+        "title": "Actualizaciones de CookieRun: OvenSmash",
+        "description": "Notas de parche, eventos y anuncios oficiales"
       },
       {
-        "icon": "ArrowRight",
-        "title": "Equipo de movilidad",
-        "description": "__PROTECTED_6a765cb2__, Guante planeador, __PROTECTED_163b9bec__"
-      },
-      {
-        "icon": "TrendingUp",
-        "title": "Cultivo y crecimiento",
-        "description": "Progresión de semillas y recolección de materiales"
-      },
-      {
-        "icon": "Star",
-        "title": "Mejores desbloqueos iniciales",
-        "description": "Mejoras prioritarias para la primera hora"
-      },
-      {
-        "icon": "ClipboardCheck",
-        "title": "Seguimiento de logros",
-        "description": "Los 19 logros y condiciones de Steam"
-      },
-      {
-        "icon": "MessageCircle",
-        "title": "Preguntas frecuentes del modo un jugador",
-        "description": "Preguntas sobre plataformas, precio, cooperativo e idiomas"
-      },
-      {
-        "icon": "Gamepad2",
-        "title": "Steam Deck y controles",
-        "description": "Configuración de Proton 9.0.4 y consejos para el control"
-      },
-      {
-        "icon": "Settings",
-        "title": "Ajustes y accesibilidad",
-        "description": "Ocultar manos, __PROTECTED_38625270__ y opciones de pantalla"
-      },
-      {
-        "icon": "Clock",
-        "title": "Actualizaciones y notas del parche",
-        "description": "Correcciones recientes y notas de la hoja de ruta"
-      },
-      {
-        "icon": "Shield",
-        "title": "Solución de cierres inesperados",
-        "description": "Verificación de __PROTECTED_38625270__, ruta de registros y reporte de errores"
+        "icon": "LifeBuoy",
+        "title": "Solución de Problemas de CookieRun: OvenSmash",
+        "description": "Arreglos de instalación, soluciones a cuelgues y soporte de dispositivos"
       }
     ]
   },
   "modules": {
-    "lucidBlocksBeginnerGuide": {
-      "title": "Guía para principiantes de Lucid Blocks",
+    "beginnerGuide": {
+      "title": "Guía para Principiantes de CookieRun: OvenSmash",
       "displayType": "steps",
-      "intro": "Comienza aprendiendo cómo se conectan la exploración, la fusión y la progresión. Lucid Blocks premia la experimentación, por lo que el progreso temprano proviene de recolectar materiales inusuales, probar combinaciones y desbloquear tu Qualia personal.",
+      "intro": "CookieRun: OvenSmash es un juego de arena en tiempo real donde las partidas cortas se deciden por el movimiento, el timing, el posicionamiento y el control de objetivos. La manera más fácil de mejorar al inicio es entender qué pide cada modo, elegir una Cookie para aprender bien y usar las definitivas y cartas de hechizo como herramientas planificadas en lugar de botones de pánico.",
       "steps": [
         {
-          "title": "Explora antes de comprometerte",
-          "description": "Camina hacia el exterior, mina bloques comunes y conserva cualquier botín extraño que encuentres. El progreso inicial se trata menos de misiones fijas y más de descubrir en qué se pueden convertir los materiales."
+          "title": "Entiende primero el ciclo de partida de CookieRun: OvenSmash",
+          "description": "OvenSmash está construido alrededor de batallas de arena cortas y tácticas. Controlas una Cookie a la vez, y el buen movimiento, el timing de habilidades y el trabajo en equipo importan más que largas sesiones de farmeo.",
+          "highlights": [
+            "Combate de arena multijugador en tiempo real",
+            "Partidas cortas y dinámicas",
+            "Habilidades únicas y definitivas por Cookie",
+            "Cartas de hechizo que pueden cambiar el rumbo de una batalla",
+            "Modos basados en objetivos en lugar de solo cazar eliminaciones"
+          ]
         },
         {
-          "title": "Desbloquea tu Qualia personal pronto",
-          "description": "Tu Qualia personal es uno de los hitos iniciales más importantes. Te brinda un lugar confiable para reagruparte y construir a su alrededor."
+          "title": "Juega el objetivo, no solo el combate",
+          "description": "Los distintos modos recompensan diferentes tipos de presión. Las pérdidas tempranas suelen ocurrir porque los jugadores nuevos persiguen eliminaciones e ignoran la condición real de victoria.",
+          "highlights": [
+            "Escolta la Tortuga al castillo enemigo o destrúyelo",
+            "Captura el escenario central para puntuar con el tiempo",
+            "Recoge Gelatinas y deposítalas en la meta enemiga",
+            "Alcanza el conteo de eliminaciones objetivo antes que el equipo rival",
+            "Sé el último jugador en pie en el modo libre para todos",
+            "Recolecta gnomos, construye estructuras y consigue puntos"
+          ]
         },
         {
-          "title": "Usa Osmio para progresar rápido al inicio",
-          "description": "El Osmio es uno de los materiales iniciales más útiles. Una ruta inicial popular es combinar Osmio con palos para fabricar un Pico de Escarcha para minar rápido."
+          "title": "Elige una Cookie principal antes de diversificarte",
+          "description": "Un buen hábito inicial es quedarte con una Cookie el tiempo suficiente para aprender el rango de ataque, el ritmo de enfriamiento y el timing de la definitiva. Mantén una segunda opción de respaldo, pero no cambies constantemente.",
+          "highlights": [
+            "Aprende primero una principal",
+            "Ten una opción secundaria para malos emparejamientos o necesidades del equipo",
+            "No cambies de Cookie cada pocas partidas",
+            "La comodidad mecánica vale más que una cobertura superficial del roster"
+          ]
         },
         {
-          "title": "Registra las buenas fusiones",
-          "description": "Lleva un registro de las combinaciones exitosas en tu diario. Lucid Blocks tiene muchas rutas de fusión posibles, por lo que anotar los resultados útiles ahorra mucho tiempo."
+          "title": "Conoce tu rol en el equipo 3v3 de CookieRun: OvenSmash",
+          "description": "Los principiantes rinden mejor cuando entienden cómo encaja su Cookie en el equipo. Las alineaciones equilibradas suelen ser más consistentes que los equipos con todo daño.",
+          "highlights": [
+            "Los tanques y la línea frontal crean espacio y absorben la presión",
+            "Los dealers de daño cierran peleas y castigan el mal posicionamiento",
+            "Los soportes mantienen vivos a los compañeros o aumentan la presión del equipo",
+            "Mantente cerca de tus compañeros en el 3v3 en lugar de forzar peleas en solitario"
+          ]
+        },
+        {
+          "title": "Usa cartas de hechizo y definitivas en el momento correcto",
+          "description": "Muchas partidas se deciden por un escudo, curación, congelamiento o definitiva bien cronometrados. Un buen timing supera al uso aleatorio de botones.",
+          "highlights": [
+            "Guarda las herramientas grandes para peleas de equipo o avances de objetivos",
+            "Usa escudos antes del impacto, no después de que ya estés colapsando",
+            "Usa la curación cuando cambie una pelea, no después de que ya se perdió",
+            "Lanza definitivas cuando los enemigos se agrupan o se comprometen con un objetivo"
+          ]
+        },
+        {
+          "title": "Construye progreso a través de la consistencia",
+          "description": "El progreso viene del juego constante y del uso más inteligente de recursos, no de intentar desbloquear todo de inmediato. Las misiones diarias y la variedad de modos te ayudan a crecer más rápido.",
+          "highlights": [
+            "Completa las misiones diarias",
+            "Juega distintos modos para aprender el flujo del mapa",
+            "Desbloquea gradualmente Cookies y cartas de hechizo más fuertes",
+            "Evita errores comunes: exceso de agresión, ignorar objetivos, desperdiciar definitivas y cambiar de principal con demasiada frecuencia"
+          ]
         }
       ],
       "quickTips": [
-        "Apotheosis no requiere una lista de recetas fija.",
-        "La generación de mundo infinito significa que moverte hacia arriba o hacia lo profundo puede revelar materiales completamente diferentes.",
-        "Las herramientas de movimiento y el equipo de utilidad se convierten en una gran mejora de calidad de vida una vez que comienzas a desbloquearlos.",
-        "Perderse al principio es normal, pero las herramientas útiles, el almacenamiento y las opciones de movimiento crecen como bola de nieve rápidamente una vez que tus primeras buenas fusiones empiezan a funcionar."
+        "El movimiento y el posicionamiento deciden más peleas que las estadísticas brutas de daño.",
+        "Las partidas cortas significan que cada decisión cuenta desde los primeros segundos.",
+        "Las cartas de hechizo son herramientas planificadas, no botones de pánico.",
+        "Jugar consistentemente con una Cookie desarrolla habilidad más rápido que saltar entre todo el roster."
       ]
     },
-    "lucidBlocksApotheosisCrafting": {
-      "title": "Artesanía de Apotheosis en Lucid Blocks",
-      "displayType": "cards",
-      "intro": "Apotheosis es el sistema de fusión sin restricciones del juego. En lugar de memorizar un libro de recetas tradicional, combinas materiales, observas el resultado y construyes tu propio conocimiento de artesanía con el tiempo.",
-      "cards": [
-        {
-          "name": "Fusión de forma libre",
-          "description": "Apotheosis te permite fusionar diferentes objetos sin necesidad de seguir una lista de recetas fija."
-        },
-        {
-          "name": "Múltiples resultados útiles",
-          "description": "Diferentes materiales suelen orientarse hacia ciertos resultados. Los descubrimientos de la comunidad muestran que insumos similares pueden derivar en herramientas prácticas, almacenamiento o mejoras de combate."
-        },
-        {
-          "name": "Artesanía basada en el diario",
-          "description": "La mejor manera de aprender Apotheosis es registrar tus combinaciones exitosas. Tu diario se convertirá rápidamente en tu propia referencia de artesanía."
-        },
-        {
-          "name": "Fusiones iniciales probadas por la comunidad",
-          "description": "Ejemplos iniciales populares incluyen Osmio más Palo para un Pico de Escarcha, Palo más Apéndice de Tungsteno para Azrael, y Azrael más Magnetita para el Estoque de Zarcillo."
-        }
-      ],
-      "milestones": [
-        "Fusionar un objeto",
-        "Fusionar una alimaña",
-        "Fusionar un artefacto divino"
-      ]
+    "codes": {
+      "title": "Códigos de CookieRun: OvenSmash",
+      "displayType": "codeCards",
+      "intro": "Los códigos de cupón son una de las fuentes más rápidas de Cristales gratis al inicio en CookieRun: OvenSmash. El proceso oficial de canje usa la página de cupones de DevPlay, y la recompensa llega a tu buzón del juego después de reclamar el código y reiniciar el juego.",
+      "activeCodes": {
+        "title": "Códigos Activos de CookieRun: OvenSmash",
+        "entries": [
+          {
+            "code": "WELCOME2OVENSMASH",
+            "reward": "1000 Cristales",
+            "status": "Activo",
+            "lastVerified": "2026-03-29"
+          }
+        ]
+      },
+      "expiredCodes": {
+        "title": "Códigos Expirados de CookieRun: OvenSmash",
+        "emptyState": "No hay códigos expirados de CookieRun: OvenSmash registrados en los rastreadores actuales de marzo de 2026."
+      },
+      "redeemSteps": {
+        "title": "Cómo Canjear Códigos de CookieRun: OvenSmash",
+        "entries": [
+          {
+            "step": 1,
+            "instruction": "Abre CookieRun: OvenSmash y completa el tutorial."
+          },
+          {
+            "step": 2,
+            "instruction": "Abre el menú, ve a Configuración y luego abre la pestaña de Cuenta."
+          },
+          {
+            "step": 3,
+            "instruction": "Verifica la información de cuenta DevPlay asociada al juego."
+          },
+          {
+            "step": 4,
+            "instruction": "Abre la página oficial de cupones en coupon.devplay.com."
+          },
+          {
+            "step": 5,
+            "instruction": "Ingresa tu cuenta DevPlay y el código de cupón."
+          },
+          {
+            "step": 6,
+            "instruction": "Presiona Reclamar Recompensas, luego reinicia el juego y recoge la recompensa desde tu buzón."
+          }
+        ]
+      },
+      "couponFields": {
+        "title": "Campos de la Página de Cupones de CookieRun: OvenSmash",
+        "entries": [
+          {
+            "field": "Cuenta DevPlay",
+            "purpose": "La cuenta vinculada a tu inicio de sesión del juego"
+          },
+          {
+            "field": "Código de Cupón",
+            "purpose": "El código que deseas canjear"
+          }
+        ]
+      }
     },
-    "lucidBlocksToolsAndWeapons": {
-      "title": "Herramientas y armas de Lucid Blocks",
-      "displayType": "itemCards",
-      "intro": "Lucid Blocks mezcla equipo de utilidad oficial con armas iniciales descubiertas por la comunidad. La mejor configuración suele ser una mezcla de minería rápida, travesía segura y una opción de combate confiable.",
-      "items": [
+    "tierList": {
+      "title": "Tier List de CookieRun: OvenSmash",
+      "displayType": "tierGrid",
+      "intro": "Las tier lists importan más en CookieRun: OvenSmash que en un juego PvE lento porque tu primera Cookie principal influye en tu tasa de victorias temprana, el uso de recursos y la comodidad con la rotación de modos. Una buena primera elección debe coincidir con tu rol preferido, ser útil en varios tipos de juego y valer la inversión de mejoras tempranas.",
+      "tiers": [
         {
-          "name": "Pico de Escarcha",
-          "type": "Herramienta de minería",
-          "description": "Un pico inicial rápido y económico hecho de Osmio y Palo. Los jugadores lo usan para acelerar la recolección inicial de materiales."
-        },
-        {
-          "name": "Azrael",
-          "type": "Arma inicial",
-          "description": "Una ruta práctica para un arma inicial fabricada con un Palo y un Apéndice de Tungsteno."
-        },
-        {
-          "name": "Estoque de Zarcillo",
-          "type": "Arma mejorada",
-          "description": "Una continuación más fuerte creada al combinar Azrael con Magnetita. Es una de las rutas de combate inicial-media más útiles compartidas por los jugadores."
-        },
-        {
-          "name": "__PROTECTED_6a765cb2__",
-          "type": "Herramienta de movilidad",
-          "description": "Un objeto de travesía oficial que mejora enormemente el movimiento y la exploración vertical."
-        },
-        {
-          "name": "__PROTECTED_163b9bec__",
-          "type": "Herramienta de movilidad",
-          "description": "Un objeto de movimiento oficial que ayuda a cubrir terreno de forma más segura y eficiente."
-        },
-        {
-          "name": "Varita de Bola",
-          "type": "Arma de utilidad",
-          "description": "Un objeto de utilidad a distancia oficial que expande tus opciones de combate y acertijos."
-        },
-        {
-          "name": "Equipo de buceo",
-          "type": "Equipo de travesía",
-          "description": "Un objeto de utilidad oficial para llegar a áreas que de otro modo ralentizarían la exploración."
-        },
-        {
-          "name": "Explosivos",
-          "type": "Daño de utilidad",
-          "description": "Destacados oficialmente como parte del conjunto de herramientas principal y útiles para atravesar amenazas u obstáculos."
-        }
-      ]
-    },
-    "lucidBlocksStorageAndInventory": {
-      "title": "Almacenamiento e inventario de Lucid Blocks",
-      "displayType": "solutionCards",
-      "intro": "La presión del inventario comienza temprano en Lucid Blocks, por lo que construir almacenamiento debería ser uno de tus primeros objetivos. Ya destacan varias soluciones probadas por jugadores reales.",
-      "solutions": [
-        {
-          "name": "Cubo de Almacenamiento",
-          "role": "Almacenamiento tipo cofre",
-          "description": "Los Cubos de Almacenamiento son una de las soluciones prácticas más tempranas y los jugadores los tratan como el contenedor principal tipo cofre del juego."
-        },
-        {
-          "name": "Gabinete",
-          "role": "Almacenamiento de base simple",
-          "description": "Los gabinetes son otra opción de almacenamiento confirmada. Una receta inicial compartida usa 1 de Madera cortada y 1 de Cuerda."
-        },
-        {
-          "name": "Qualia personal",
-          "role": "Centro de almacenamiento a largo plazo",
-          "description": "Una vez desbloqueada, tu Qualia personal se convierte en un lugar natural para organizar materiales, fabricar en paz y expandir la configuración de tu base."
-        },
-        {
-          "name": "Seguimiento en el diario",
-          "role": "Eficiencia de inventario",
-          "description": "Registrar combinaciones útiles en tu diario reduce el desperdicio de materiales y facilita mucho la gestión del inventario."
-        }
-      ],
-      "managementTips": [
-        "Prioriza una opción de almacenamiento confiable antes de acumular botines raros.",
-        "Construye alrededor de tu Qualia personal una vez que esté disponible.",
-        "Mantén separados los materiales de artesanía, las herramientas de combate y el equipo de movimiento para que las mejoras sean más fáciles de planificar.",
-        "Usa tu diario como parte de la gestión del inventario, no solo para descubrir recetas."
-      ]
-    },
-    "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Qualia y construcción de bases en Lucid Blocks",
-      "displayType": "cards",
-      "intro": "La Qualia es uno de los hitos de progresión más importantes en Lucid Blocks. Te brinda un espacio personal para reagruparte, almacenar materiales y convertir gradualmente el progreso de exploración en una verdadera base de operaciones.",
-      "cards": [
-        {
-          "name": "Qualia personal",
-          "description": "Desbloquear una Qualia es un hito inicial que te da un lugar más confiable al cual regresar mientras exploras el mundo exterior."
-        },
-        {
-          "name": "Construcción centrada en el almacenamiento",
-          "description": "Muchos jugadores comienzan usando su Qualia como un centro de almacenamiento antes de convertirla en una base más grande con espacios organizados para artesanía y construcción."
-        },
-        {
-          "name": "Construcción creativa de hogares",
-          "description": "Lucid Blocks admite la construcción creativa, y los jugadores ya están usando los espacios de Qualia para crear casas y diseños personalizados."
-        },
-        {
-          "name": "Centro de progresión",
-          "description": "Una base sólida te ayuda a separar el botín de exploración, los materiales de artesanía, las semillas, las herramientas y el equipo de movilidad para planificar mejor tus próximas mejoras."
-        }
-      ],
-      "highlights": [
-        "Entrar en una qualia",
-        "Almacenar materiales de forma segura",
-        "Expandir de la utilidad a la decoración",
-        "Usar el espacio de la base para apoyar la artesanía y el cultivo"
-      ]
-    },
-    "lucidBlocksWorldRegions": {
-      "title": "Regiones del mundo de Lucid Blocks",
-      "displayType": "regionCards",
-      "intro": "Lucid Blocks utiliza generación de mundo infinito, por lo que los jugadores siguen descubriendo nuevos entornos y estructuras. Algunos lugares con nombre ya aparecen en los logros y en las discusiones de la comunidad.",
-      "regions": [
-        {
-          "name": "Fog Meadow",
-          "type": "Área destacada por la comunidad",
-          "description": "Fog Meadow ya es conocida entre los jugadores como un área tensa asociada con amenazas ocultas y encuentros peligrosos."
-        },
-        {
-          "name": "Línea ley de Tiamana",
-          "type": "Punto de referencia de descubrimiento",
-          "description": "La línea ley de tiamana es lo suficientemente importante como para tener su propio hito de logro, lo que la convierte en uno de los descubrimientos mundiales con nombre más claros hasta ahora."
-        },
-        {
-          "name": "Clonaqualia",
-          "type": "Espacio de construcción",
-          "description": "Los jugadores ya están usando Clonaqualia como un lugar para construir casas, almacenar materiales y experimentar con diseños más permanentes."
-        },
-        {
-          "name": "Ciénaga de Esencia",
-          "type": "Área de recolección",
-          "description": "La Ciénaga de Esencia está siendo compartida por los jugadores como una ubicación útil para recolectar recursos, especialmente para luchar contra slimes y ganar experiencia."
-        }
-      ]
-    },
-    "lucidBlocksCreaturesAndEnemies": {
-      "title": "Criaturas y enemigos de Lucid Blocks",
-      "displayType": "creatureCards",
-      "intro": "Lucid Blocks mezcla criaturas surreales con peligros reales. Las descripciones oficiales y las publicaciones de la comunidad apuntan a un mundo lleno de vida extraña, amenazas hostiles y algunos encuentros destacados que los jugadores recuerdan rápidamente.",
-      "creatures": [
-        {
-          "name": "Maniquíes",
-          "role": "Enemigo hostil",
-          "description": "Los maniquíes son uno de los enemigos nombrados oficialmente en el mundo y parte del catálogo de amenazas surreales del juego."
-        },
-        {
-          "name": "Geles blandos",
-          "role": "Enemigo hostil",
-          "description": "Los geles blandos son otro tipo de enemigo nombrado oficialmente y ayudan a definir el extraño estilo biológico del juego."
-        },
-        {
-          "name": "Seres de dimensiones superiores",
-          "role": "Enemigo hostil",
-          "description": "Estos seres se presentan como parte del catálogo de enemigos más abstractos e inquietantes del mundo."
-        },
-        {
-          "name": "Arañas colosales",
-          "role": "Amenaza mayor",
-          "description": "Las arañas son uno de los enemigos más temidos de inmediato en las discusiones de la comunidad y son claramente un peligro memorable."
-        },
-        {
-          "name": "__PROTECTED_26ee183b__",
-          "role": "Criatura con nombre",
-          "description": "__PROTECTED_26ee183b__ es lo suficientemente notable como para tener su propio logro, lo que lo convierte en uno de los encuentros con criaturas nombradas más claros del juego."
-        },
-        {
-          "name": "Alimañas adorables",
-          "role": "Criatura interactuable",
-          "description": "Las alimañas no solo son parte de la progresión de fusión, también se les puede cambiar el nombre, dándoles un papel más personal que a los enemigos estándar."
-        },
-        {
-          "name": "Criatura blasfema",
-          "role": "Amenaza de élite",
-          "description": "La criatura blasfema está vinculada a un logro de combate dedicado, lo que la marca como un encuentro enemigo significativo."
-        }
-      ]
-    },
-    "lucidBlocksMobilityGear": {
-      "title": "Equipo de movilidad de Lucid Blocks",
-      "displayType": "itemCards",
-      "intro": "Las mejoras de movimiento son uno de los mayores saltos en la calidad de vida en Lucid Blocks. Una vez que desbloqueas tus primeras herramientas de travesía, la exploración se vuelve más rápida, segura y mucho más gratificante.",
-      "items": [
-        {
-          "name": "__PROTECTED_6a765cb2__",
-          "type": "Herramienta de travesía",
-          "description": "El gancho es uno de los hitos de movimiento más claros del juego y tiene su propio logro dedicado."
-        },
-        {
-          "name": "Guante planeador",
-          "type": "Movilidad aérea",
-          "description": "El guante planeador permite un viaje mucho más fluido y es otro hito importante de progresión con su propio logro."
-        },
-        {
-          "name": "__PROTECTED_163b9bec__",
-          "type": "Herramienta de travesía",
-          "description": "Los planeadores abeja se destacan oficialmente como parte del conjunto de herramientas de movimiento del juego para cubrir terreno de manera más eficiente."
-        },
-        {
-          "name": "Varita de Bola",
-          "type": "Equipo de utilidad",
-          "description": "Las varitas de bola son una de las herramientas especiales destacadas oficialmente y expanden la forma en que te mueves o interactúas con el mundo."
-        },
-        {
-          "name": "Equipo de buceo",
-          "type": "Equipo de exploración",
-          "description": "El equipo de buceo figura oficialmente como parte del conjunto de utilidad principal para llegar a áreas que de otro modo serían más difíciles de explorar."
-        },
-        {
-          "name": "Explosivos",
-          "type": "Daño de utilidad",
-          "description": "Los explosivos están destacados oficialmente y vinculados a un hito de logro, lo que los hace parte de la progresión de utilidad principal del juego."
-        }
-      ],
-      "unlockMilestones": [
-        "Dominar un gancho",
-        "Volar con el guante planeador",
-        "Empuñar una varita de proyectiles",
-        "Empuñar un explosivo"
-      ]
-    },
-    "lucidBlocksFarmingAndGrowth": {
-      "title": "Cultivo y crecimiento en Lucid Blocks",
-      "displayType": "mixedCards",
-      "intro": "El crecimiento es parte de la progresión real en Lucid Blocks. El cultivo no se trata solo de plantar y cosechar, sino también de establecer rutas de materiales repetibles que mantengan el flujo de tus herramientas, armas y opciones de artesanía.",
-      "sections": [
-        {
-          "name": "Progresión de semillas",
-          "description": "Plantar y fertilizar semillas es un hito real en el juego, y cosechar una nuez completamente crecida es parte de la misma ruta de crecimiento."
-        },
-        {
-          "name": "Recolección de materiales",
-          "description": "Un ciclo práctico de recolección inicial es crear Cápsulas de Mercurio, que generan pequeños slimes que sueltan zarcillos y viscosidad para materiales de artesanía repetibles."
-        },
-        {
-          "name": "Sustento de herramientas",
-          "description": "La recolección de recursos se vuelve mucho más fuerte una vez que puedes reunir consistentemente Osmio, fragmentos de vidrio, plantas y materiales de slime para artesanías posteriores."
-        },
-        {
-          "name": "Rutina de base",
-          "description": "La mejor configuración de cultivo apoya más que solo la comida. Debería abastecer tu almacenamiento, herramientas de movimiento, mejoras de armas y futuros experimentos de fusión."
-        }
-      ],
-      "growthMilestones": [
-        "Fertilizar una semilla",
-        "Cosechar una nuez completamente crecida",
-        "Crear ciclos de materiales repetibles",
-        "Convertir el cultivo en progresión a largo plazo"
-      ]
-    },
-    "lucidBlocksBestEarlyUnlocks": {
-      "title": "Mejores desbloqueos iniciales de Lucid Blocks",
-      "displayType": "priorityCards",
-      "intro": "Los desbloqueos iniciales más fuertes son aquellos que mejoran la seguridad, el almacenamiento y el movimiento. En Lucid Blocks, unas pocas mejoras prácticas pueden hacer que el resto del juego sea mucho más fluido.",
-      "priorities": [
-        {
-          "name": "Qualia personal",
-          "priority": "Esencial",
-          "description": "Tan pronto como obtengas acceso a tu Qualia personal, tu partida se volverá mucho más estable. Actúa como un centro confiable para el almacenamiento, la construcción y el reagrupamiento."
-        },
-        {
-          "name": "Pico de Escarcha",
-          "priority": "Muy alta",
-          "description": "Una herramienta de minería inicial rápida y barata hecha de Osmio y Palo. Es una de las mejoras más útiles para acelerar la recolección inicial de recursos."
-        },
-        {
-          "name": "Cubo de Almacenamiento",
-          "priority": "Muy alta",
-          "description": "La presión del inventario comienza pronto, por lo que obtener tu primer contenedor confiable tipo cofre es una mejora importante de calidad de vida."
-        },
-        {
-          "name": "__PROTECTED_6a765cb2__",
-          "priority": "Alta",
-          "description": "El gancho es uno de los hitos de movimiento más claros del juego y rápidamente hace que la exploración sea más rápida y segura."
-        },
-        {
-          "name": "Guante planeador",
-          "priority": "Alta",
-          "description": "El guante planeador añade otro gran impulso a la movilidad y hace que el movimiento a larga distancia sea mucho más eficiente."
-        },
-        {
-          "name": "Varita de proyectiles o bombas",
-          "priority": "Alta",
-          "description": "Una herramienta a distancia o una opción explosiva te brinda una respuesta más segura ante enemigos peligrosos y encuentros tipo desafío."
-        }
-      ]
-    },
-    "lucidBlocksAchievementTracker": {
-      "title": "Seguimiento de logros de Lucid Blocks",
-      "displayType": "achievementGrid",
-      "intro": "Lucid Blocks tiene actualmente 19 logros de Steam, y se dividen naturalmente en progresión de exploración, artesanía, movilidad, combate y crecimiento.",
-      "groups": [
-        {
-          "name": "Exploración",
-          "achievements": [
+          "tier": "S",
+          "summary": "Las mejores elecciones del meta de lanzamiento con gran valor general, impacto de rol o conversión fácil en victorias.",
+          "cookies": [
             {
-              "title": "__PROTECTED_c973d4a3__ α",
-              "description": "Entrar en una qualia."
+              "name": "Dark Choco Cookie",
+              "role": "Bruiser"
             },
             {
-              "title": "__PROTECTED_c973d4a3__ γ",
-              "description": "Descubrir una línea ley de tiamana."
+              "name": "Red Velvet Cookie",
+              "role": "Controlador"
             },
             {
-              "title": "__PROTECTED_c973d4a3__ δ",
-              "description": "Superar un desafío de tiamana."
+              "name": "Madeleine Cookie",
+              "role": "Tanque"
             },
             {
-              "title": "__PROTECTED_c973d4a3__ ε",
-              "description": "Logro oculto."
+              "name": "Rye Cookie",
+              "role": "Tirador"
+            },
+            {
+              "name": "Blue Slushy Cookie",
+              "role": "Tirador"
+            },
+            {
+              "name": "String Cheese Cookie",
+              "role": "Tirador"
+            },
+            {
+              "name": "Latte Cookie",
+              "role": "Mago"
+            },
+            {
+              "name": "Melon Soda Cookie",
+              "role": "Soporte"
+            },
+            {
+              "name": "Peppermint Cookie",
+              "role": "Soporte"
+            },
+            {
+              "name": "Peach Cookie",
+              "role": "Asesino"
+            },
+            {
+              "name": "Cherry Cookie",
+              "role": "Bombardero"
             }
+          ],
+          "featuredNotes": [
+            "Dark Choco Cookie destaca porque puede tankear, hacer daño y mantener su resistencia.",
+            "Red Velvet Cookie es valorado por su desplazamiento y control de peleas.",
+            "Cherry Cookie es una starter gratuita que aún rinde al más alto nivel."
           ]
         },
         {
-          "name": "Artesanía e invocación",
-          "achievements": [
+          "tier": "A",
+          "summary": "Buenas elecciones que recompensan mejor posicionamiento, ejecución más limpia o una línea frontal más estable a su alrededor.",
+          "cookies": [
             {
-              "title": "Apotheosis α",
-              "description": "Fusionar un objeto."
+              "name": "Bacon Roll Cookie",
+              "role": "Bruiser"
             },
             {
-              "title": "Apotheosis β",
-              "description": "Fusionar una alimaña."
+              "name": "Ice Pop Cookie",
+              "role": "Controlador"
             },
             {
-              "title": "Apotheosis γ",
-              "description": "Fusionar un artefacto divino."
+              "name": "Strawberry Crepe Cookie",
+              "role": "Tanque"
             },
             {
-              "title": "Arcángel β",
-              "description": "Invoca tu fe."
+              "name": "Jerky Cookie",
+              "role": "Mago"
+            },
+            {
+              "name": "Blueberry Pie Cookie",
+              "role": "Mago"
+            },
+            {
+              "name": "Chili Pepper Cookie",
+              "role": "Asesino"
             }
+          ],
+          "featuredNotes": [
+            "Ice Pop Cookie aporta excelente control de multitudes pero requiere mejor espaciado del equipo.",
+            "Blueberry Pie Cookie es un mago que puede jugar de forma agresiva sin sentirse demasiado frágil.",
+            "Chili Pepper Cookie puede limpiar peleas bien si tu timing de entrada es bueno."
           ]
         },
         {
-          "name": "Movilidad y utilidad",
-          "achievements": [
+          "tier": "B",
+          "summary": "Opciones jugables con valor más limitado, kits más simples o rendimiento más dependiente de los emparejamientos.",
+          "cookies": [
             {
-              "title": "Virtud α",
-              "description": "Volar con el guante planeador."
+              "name": "GingerBrave",
+              "role": "Bruiser"
             },
             {
-              "title": "Virtud β",
-              "description": "Dominar un gancho."
+              "name": "Fruit Punch Cookie",
+              "role": "Tanque"
             },
             {
-              "title": "Arcángel α",
-              "description": "Empuñar una varita de proyectiles."
-            },
-            {
-              "title": "Arcángel γ",
-              "description": "Empuñar un explosivo."
+              "name": "Tiger Lily Cookie",
+              "role": "Tirador"
             }
-          ]
-        },
-        {
-          "name": "Combate y criaturas",
-          "achievements": [
-            {
-              "title": "Masacre de __PROTECTED_26ee183b__",
-              "description": "Derrotar osos burbuja inocentes."
-            },
-            {
-              "title": "Arcángel δ",
-              "description": "Eliminar una criatura blasfema."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ β",
-              "description": "Morir."
-            },
-            {
-              "title": "Dominio γ",
-              "description": "Cambiar el nombre a una alimaña adorable."
-            }
-          ]
-        },
-        {
-          "name": "Crecimiento y cultivo",
-          "achievements": [
-            {
-              "title": "Dominio α",
-              "description": "Fertilizar una semilla."
-            },
-            {
-              "title": "Dominio β",
-              "description": "Cosechar una nuez completamente crecida."
-            },
-            {
-              "title": "Dominio δ",
-              "description": "Logro oculto."
-            }
+          ],
+          "featuredNotes": [
+            "GingerBrave es directo y flexible, pero no tan impactante como los niveles superiores.",
+            "Fruit Punch Cookie funciona, pero hay opciones de línea frontal más fuertes disponibles.",
+            "Tiger Lily Cookie necesita más preparación y se siente mejor más adelante en su progresión."
           ]
         }
       ]
     },
-    "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Preguntas frecuentes sobre un solo jugador y plataformas de Lucid Blocks",
+    "bestBuilds": {
+      "title": "Mejores Builds de CookieRun: OvenSmash",
+      "displayType": "cardList",
+      "intro": "En CookieRun: OvenSmash, un build no es solo sobre daño bruto. Tu variante especial, versión de definitiva y elecciones de Power Biscuit determinan cómo tu Cookie entra en peleas, sale de ellas y apoya el objetivo del equipo. Los mejores resultados tempranos suelen venir de emparejar un main estable con un gasto disciplinado de recursos.",
+      "builds": [
+        {
+          "cookie": "Chili Pepper Cookie",
+          "role": "Asesino",
+          "rarity": "Común",
+          "build": {
+            "basic": "Lanzamiento de Daga",
+            "special": "Embestida Ardiente",
+            "ultimate": "Tormenta de Chili Salvaje",
+            "powerBiscuits": [
+              "Habilidad Especial Acelerada",
+              "Bendición del Campo de Batalla"
+            ]
+          },
+          "playstyle": [
+            "Hostiga con tu ataque básico antes de comprometerte.",
+            "Entra en dash, usa tu definitiva, luego sal en dash.",
+            "Prioriza objetivos en la retaguardia y enemigos con poca vida.",
+            "Combínate bien con un frontliner que distraiga como Dark Choco Cookie."
+          ]
+        },
+        {
+          "cookie": "Ice Pop Cookie",
+          "role": "Controlador",
+          "rarity": "Épica",
+          "build": {
+            "basic": "Golpe Frío",
+            "special": "Guardia Helada",
+            "ultimate": "Golpe Congelante",
+            "powerBiscuits": [
+              "Aumento de HP",
+              "Bendición del Campo de Batalla",
+              "Habilidad Especial Acelerada"
+            ]
+          },
+          "playstyle": [
+            "Entra con tus compañeros, aplica control de multitudes y retírate antes de que los enemigos se descongelen.",
+            "No hagas de frontliner solo como un tanque o bruiser.",
+            "Juega junto a un compañero más resistente en las peleas de equipo.",
+            "Para un estilo más orientado al soporte, Freezing Bat Flip es una buena alternativa de definitiva."
+          ]
+        },
+        {
+          "cookie": "Reglas de Progresión de Build",
+          "role": "Para toda la cuenta",
+          "rarity": "Guía",
+          "build": {
+            "coreRules": [
+              "Invierte primero en un main porque las Monedas se necesitan en grandes cantidades.",
+              "Farmea Cristales mediante misiones, eventos y códigos de canje.",
+              "Farmea Monedas mediante Cookie Mastery, eventos y cajas de recompensa."
+            ]
+          },
+          "playstyle": [
+            "Usa un main estable para aprender rangos, enfriamientos y timing de objetivos antes de distribuir mejoras.",
+            "Primero construye profundidad en un main probado, luego agrega una segunda opción de respaldo."
+          ]
+        }
+      ]
+    },
+    "cookiesList": {
+      "title": "Lista de Cookies de CookieRun: OvenSmash",
+      "displayType": "table",
+      "subtitle": "Explora el roster actual de personajes jugables por rareza, rol de combate y función práctica en el campo de batalla. Este módulo está pensado para búsqueda rápida tras tiradas, desbloqueos o derrotas en ranked.",
+      "intro": "CookieRun: OvenSmash mezcla Tanques, Bruisers, Controladores, Soportes, Tiradores, Magos, Asesinos y Bombarderos en un roster de lanzamiento de Cookies conocidas y nuevas. La forma más rápida de usar esta lista es emparejar el rol de una Cookie con el trabajo que le falta a tu equipo: iniciar, daño sostenido, control o curación.",
+      "cookies": [
+        {
+          "name": "Madeleine Cookie",
+          "rarity": "Épica",
+          "role": "Tanque",
+          "signature": "Inicio de pelea confiable con golpe de área",
+          "bestUse": "Iniciar peleas de equipo, disputar objetivos y proteger a los carries de largo alcance"
+        },
+        {
+          "name": "Red Velvet Cookie",
+          "rarity": "Épica",
+          "role": "Controlador",
+          "signature": "Atracción y presión de desplazamiento de enemigos",
+          "bestUse": "Crear picks, sacar enemigos de posición y castigar equipos agrupados"
+        },
+        {
+          "name": "String Cheese Cookie",
+          "rarity": "Épica",
+          "role": "Tirador",
+          "signature": "Hostigamiento seguro a distancia con soporte de torreta",
+          "bestUse": "Cubrir ángulos traseros, presionar carriles y desgastar enemigos antes de comprometerse"
+        },
+        {
+          "name": "Ice Pop Cookie",
+          "rarity": "Épica",
+          "role": "Controlador",
+          "signature": "Control de multitudes basado en congelamiento",
+          "bestUse": "Bloquear objetivos para daño de seguimiento y detener peleas ajustadas en choke points"
+        },
+        {
+          "name": "Jerky Cookie",
+          "rarity": "Épica",
+          "role": "Mago",
+          "signature": "Explosiones de talismán explosivo",
+          "bestUse": "Castigar enemigos agrupados y añadir presión de área retrasada en peleas de mediano alcance"
+        },
+        {
+          "name": "Bacon Roll Cookie",
+          "rarity": "Épica",
+          "role": "Bruiser",
+          "signature": "Presión cuerpo a cuerpo persistente",
+          "bestUse": "Lanzarse a escaramuzas, perseguir objetivos debilitados y pelear en objetivos"
+        },
+        {
+          "name": "Fruit Punch Cookie",
+          "rarity": "Común",
+          "role": "Tanque",
+          "signature": "Inicio simple con utilidad de escudo",
+          "bestUse": "Hacer de frontliner para equipos principiantes y absorber presión en peleas agrupadas"
+        },
+        {
+          "name": "Melon Soda Cookie",
+          "rarity": "Rara",
+          "role": "Soporte",
+          "signature": "Soporte de utilidad en retaguardia",
+          "bestUse": "Estabilizar peleas de equipo, mantener activos a los carries y completar composiciones equilibradas"
+        },
+        {
+          "name": "Dark Choco Cookie",
+          "rarity": "Rara",
+          "role": "Bruiser",
+          "signature": "Presión cuerpo a cuerpo duradera con sustain",
+          "bestUse": "Intercambiar agresivamente, sobrevivir peleas extendidas y presionar líneas frontales espejo"
+        },
+        {
+          "name": "Strawberry Crepe Cookie",
+          "rarity": "Rara",
+          "role": "Tanque",
+          "signature": "Interrupción y protección basada en invocaciones",
+          "bestUse": "Bloquear espacio, preparar para compañeros y ralentizar la entrada enemiga a objetivos"
+        },
+        {
+          "name": "Peach Cookie",
+          "rarity": "Rara",
+          "role": "Asesino",
+          "signature": "Inmersión de alta movilidad y limpieza",
+          "bestUse": "Castigar retaguardias aisladas y hacer snowball tras gastar enfriamientos enemigos"
+        },
+        {
+          "name": "Tiger Lily Cookie",
+          "rarity": "Rara",
+          "role": "Tirador",
+          "signature": "Hostigamiento a largo alcance con seguimiento de salto",
+          "bestUse": "Hostigar con seguridad, luego colapsar cuando un objetivo debilitado queda expuesto"
+        },
+        {
+          "name": "Blueberry Pie Cookie",
+          "rarity": "Rara",
+          "role": "Mago",
+          "signature": "Ángulos de burst basados en teletransporte",
+          "bestUse": "Reposicionarse alrededor del terreno y amenazar burst de mediano alcance desde líneas inusuales"
+        },
+        {
+          "name": "Latte Cookie",
+          "rarity": "Rara",
+          "role": "Mago",
+          "signature": "Presión de línea media cargada de hechizos",
+          "bestUse": "Controlar espacio con daño mágico y apoyar peleas de equipo más lentas y estructuradas"
+        },
+        {
+          "name": "Peppermint Cookie",
+          "rarity": "Común",
+          "role": "Soporte",
+          "signature": "Sustain de curación y golpe de impulso",
+          "bestUse": "Mantener viva la línea frontal, extender peleas y anclar composiciones 3v3 equilibradas"
+        },
+        {
+          "name": "Rye Cookie",
+          "rarity": "Común",
+          "role": "Tirador",
+          "signature": "Disparos continuos en línea recta",
+          "bestUse": "Hacer daño estable en retaguardia y castigar enemigos que toman rutas predecibles"
+        },
+        {
+          "name": "Blue Slushy Cookie",
+          "rarity": "Común",
+          "role": "Tirador",
+          "signature": "Hostigamiento con flechas clon y presión de carril",
+          "bestUse": "Jugar en mapas abiertos, disparar a través de líneas y desgastar equipos antes de all-ins"
+        },
+        {
+          "name": "Cherry Cookie",
+          "rarity": "Común",
+          "role": "Bombardero",
+          "signature": "Control de zona explosivo",
+          "bestUse": "Lanzar presión por encima de muros, defender objetivos y alterar el movimiento enemigo"
+        },
+        {
+          "name": "Chili Pepper Cookie",
+          "rarity": "Común",
+          "role": "Asesino",
+          "signature": "Entrada y salida de burst rápido",
+          "bestUse": "Flanquear objetivos expuestos, rematar enemigos débiles y castigar retaguardias vulnerables"
+        },
+        {
+          "name": "GingerBrave",
+          "rarity": "Común",
+          "role": "Bruiser",
+          "signature": "Kit de bruiser starter simple y flexible",
+          "bestUse": "Aprender el timing de inicio, sobrevivir el combate cercano y cubrir huecos en alineaciones casuales"
+        }
+      ]
+    },
+    "gameModes": {
+      "title": "Guía de Modos de Juego de CookieRun: OvenSmash",
       "displayType": "accordion",
-      "intro": "Estas son las preguntas principales sobre plataformas y acceso que los jugadores suelen hacer antes de comprar Lucid Blocks.",
-      "faqs": [
+      "subtitle": "Aprende qué pide cada modo actual y qué hábitos de equipo convierten más partidas en victorias. El objetivo aquí no es solo conocer la regla, sino conocer el patrón de victoria.",
+      "intro": "OvenSmash no es un juego de un solo plan. Algunos modos recompensan el inicio intenso y el control de área, mientras que otros recompensan las rotaciones seguras, la presión de picks o la supervivencia independiente. Trata cada cola como un puzzle de objetivos diferente y tus resultados mejorarán mucho más rápido.",
+      "modes": [
         {
-          "question": "¿Es Lucid Blocks para un solo jugador?",
-          "answer": "Sí. Lucid Blocks es un juego para un solo jugador."
+          "name": "Castle Crasher",
+          "teamSize": "Escolta 3v3",
+          "objective": "Captura la tortuga y escóltala hacia el castillo de arena enemigo.",
+          "howToWin": "Controla el espacio alrededor de la tortuga, elimina defensores antes de sobresalir y completa los avances con ventaja numérica.",
+          "bestFor": "Equipos con un frontliner resistente y al menos un dealer de daño de seguimiento a distancia"
         },
         {
-          "question": "¿Está planeado el multijugador o cooperativo?",
-          "answer": "No. No se planea multijugador para el lanzamiento ni para futuras actualizaciones."
+          "name": "Drop the Beat",
+          "teamSize": "Control de Escenario 3v3",
+          "objective": "Mantén el escenario central para ganar puntos con el tiempo hasta que tu equipo alcance la puntuación objetivo.",
+          "howToWin": "Toma el primer control con herramientas de inicio, luego rota hacia adentro y afuera del punto en lugar de acumularte en un solo lugar.",
+          "bestFor": "Composiciones que pueden disputar el mid repetidamente y castigar el over-commit enemigo"
         },
         {
-          "question": "¿Dónde puedo jugar Lucid Blocks?",
-          "answer": "Actualmente está disponible en Steam para Windows."
+          "name": "Battle Royale / Wild Royale",
+          "teamSize": "FFA en solitario",
+          "objective": "Sobrevive a todas las demás Cookies mientras recolectas recursos de poder y evitas peligros del mapa.",
+          "howToWin": "Farmea de forma segura al inicio, mantén control sobre el espacio seguro que se reduce y solo toma peleas que mejoren tus probabilidades de posición final.",
+          "bestFor": "Duelistas autosuficientes y jugadores cómodos rotando solos"
         },
         {
-          "question": "¿Cuánto cuesta Lucid Blocks?",
-          "answer": "$9.99 en Steam."
+          "name": "Gnome Battle",
+          "teamSize": "Recolección 3v3",
+          "objective": "Reúne Sugar Gnomes para construir la escultura de tu equipo antes de que el enemigo complete la suya.",
+          "howToWin": "Escolta a los portadores, roba gnomos enemigos cuando sea posible y reponte rápido tras perder el control de la ruta central.",
+          "bestFor": "Equipos móviles que pueden rotar rápido y defender entregas bajo presión"
         },
         {
-          "question": "¿Lucid Blocks es compatible con controles?",
-          "answer": "Sí, pero no se recomienda jugar con control porque los menús no están diseñados para ello."
+          "name": "Jelly Deposit",
+          "teamSize": "Carrera de Puntos 3v3",
+          "objective": "Recoge Gelatinas por el mapa y depósitalas en la meta enemiga para ganar puntos.",
+          "howToWin": "Abre primero un camino para puntuar, luego mueve a los portadores en oleadas en lugar de filtrar recursos uno por uno.",
+          "bestFor": "Equipos con velocidad, protección y fuerte re-entrada tras escaramuzas cortas"
         },
         {
-          "question": "¿Lucid Blocks funciona en Steam Deck?",
-          "answer": "Sí. Proton 9.0 o 9.0.4 es la configuración recomendada habitualmente para Steam Deck."
-        },
-        {
-          "question": "¿Lucid Blocks funciona en Linux?",
-          "answer": "Sí. Se informa que Proton 9.0 funciona bien para Linux y Steam Deck."
-        },
-        {
-          "question": "¿Habrá soporte para Mac o Android?",
-          "answer": "Es posible que sean compatibles en el futuro, pero no son plataformas de lanzamiento actuales."
-        },
-        {
-          "question": "¿Lucid Blocks tiene traducciones?",
-          "answer": "No. Actualmente no hay traducciones planeadas."
-        },
-        {
-          "question": "¿Lucid Blocks seguirá recibiendo actualizaciones?",
-          "answer": "Sí. Se planean algunas actualizaciones de contenido después del lanzamiento, pero no pretenden continuar con un calendario regular indefinido."
+          "name": "Smash Arena",
+          "teamSize": "Eliminación 3v3",
+          "objective": "Derrota enemigos hasta que tu equipo alcance primero el conteo de eliminaciones requerido.",
+          "howToWin": "Toma intercambios limpios de 3v2 o 3v1, retírate de malas peleas pronto y nunca regales muertes gratuitas mientras te reagrupas.",
+          "bestFor": "Equipos de combate directo con inicio confiable, burst o buenas herramientas de pick"
         }
       ]
     },
-    "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks en Steam Deck y controles",
-      "displayType": "accordion",
-      "intro": "Lucid Blocks puede ejecutarse en Steam Deck, pero la configuración predeterminada puede necesitar ajustes. El teclado y el mouse siguen siendo la opción más fluida para los menús y el juego en general.",
-      "faqs": [
+    "currencyGuide": {
+      "title": "Guía de Monedas de CookieRun: OvenSmash",
+      "displayType": "table",
+      "subtitle": "Usa este módulo para entender qué monedas importan más, cómo llegan a tu cuenta y en qué gastarlas primero. Los buenos hábitos de recursos aceleran tanto el crecimiento del roster como el rendimiento en partidas.",
+      "intro": "La mayor trampa inicial en OvenSmash es distribuir recursos en demasiadas Cookies muy rápido. Tu mejor valor inicial suele venir de fortalecer un pequeño roster central, usar recursos premium para progresión real y tratar los cosméticos y el gasto amplio en roster como objetivos posteriores.",
+      "currencies": [
         {
-          "question": "¿Lucid Blocks funciona en Steam Deck?",
-          "answer": "Sí. Proton 9.0 funciona bien, y Proton 9.0.4 es una solución compartida habitualmente para problemas en Steam Deck."
+          "name": "Monedas",
+          "type": "Moneda principal de mejora",
+          "howToGet": "Partidas, tareas, recompensas de Nivel de Progreso, Cajas de Monedas, Battle Pass, Camino a la Corona del Horno, misiones de inicio de sesión y eventos",
+          "bestFirstUse": "Sube de nivel una o dos Cookies principales en lugar de todo tu roster",
+          "mainUses": "Subir de nivel Cookies, mejoras, Power Biscuits y algunos Soulchips Comunes"
         },
         {
-          "question": "¿Qué debo hacer si los controles de Steam Deck no funcionan?",
-          "answer": "Fuerza la compatibilidad y cambia el juego a Proton 9.0.4. Es posible que la configuración predeterminada no acepte correctamente la entrada del control."
+          "name": "Cristales",
+          "type": "Moneda premium flexible de progresión",
+          "howToGet": "Partidas, misiones, tareas de eventos, Battle Pass, recompensas de Nivel de Progreso y packs de la tienda",
+          "bestFirstUse": "Apunta a progresión significativa del roster como Soulchips Épicos o artículos de alto valor de la tienda",
+          "mainUses": "Compras en la tienda, Soulchips Épicos y Soulchips Universales"
         },
         {
-          "question": "¿Lucid Blocks es compatible con controles?",
-          "answer": "Sí, pero no se recomienda jugar con control porque los menús del juego no están diseñados para ello."
+          "name": "Soulchips",
+          "type": "Recurso de desbloqueo y crecimiento del roster",
+          "howToGet": "Misiones de partida, Camino a la Corona del Horno, Battle Pass y compras en la tienda",
+          "bestFirstUse": "Completa desbloqueos o mejoras para las Cookies con las que realmente juegas",
+          "mainUses": "Desbloquear nuevas Cookies y fortalecer las Cookies que ya tienes"
         },
         {
-          "question": "¿Es posible el soporte para Linux?",
-          "answer": "Sí. Se informa que Proton 9.0 funciona bien para Linux y Steam Deck."
+          "name": "Tickets de Invocación General",
+          "type": "Recurso de tiradas para expandir el roster",
+          "howToGet": "Recompensas del Camino a la Corona del Horno, eventos y recompensas de giveaways",
+          "bestFirstUse": "Amplía tus opciones principales antes de perseguir duplicados para picks de nicho",
+          "mainUses": "Tiradas en la Tienda de Invocaciones para Cookies y recompensas relacionadas"
         },
         {
-          "question": "¿Cuál es la mejor configuración de entrada?",
-          "answer": "El teclado y el mouse son la opción más fluida para la navegación por los menús y el juego general momento a momento."
+          "name": "Créditos Arcoíris",
+          "type": "Moneda cosmética premium",
+          "howToGet": "Principalmente compras en la tienda, con cantidades menores disponibles a través del Battle Pass",
+          "bestFirstUse": "Guarda para los looks que realmente planeas usar con frecuencia",
+          "mainUses": "Tienda de Invocaciones de Trajes para ropa y sets de moda"
+        },
+        {
+          "name": "Coronas del Horno",
+          "type": "Recurso de escalera de progresión",
+          "howToGet": "Ganar batallas en los diferentes modos del juego",
+          "bestFirstUse": "Empuja consistentemente los hitos de recompensa en lugar de detenerte tras pocas victorias",
+          "mainUses": "Avanzar en el Camino a la Corona del Horno para packs de Soulchips, tickets, cajas y otras recompensas de progresión"
+        }
+      ],
+      "spendingTips": [
+        "Invierte Monedas en una o dos Cookies principales antes de distribuirlas por todo el roster.",
+        "Guarda los Cristales para progresión significativa como Soulchips Épicos, no para compras impulsivas en la tienda.",
+        "Usa los códigos de cupón de inmediato para maximizar los ingresos tempranos de Cristales.",
+        "Empuja consistentemente los hitos del Camino a la Corona del Horno para el mejor flujo de recompensas free-to-play.",
+        "Trata el gasto cosmético como un objetivo posterior una vez que tu roster principal esté mejorado."
+      ]
+    },
+    "rolesGuide": {
+      "title": "Guía de Roles de CookieRun: OvenSmash",
+      "displayType": "cardList",
+      "subtitle": "Entiende qué debe hacer cada función amplia del equipo en una partida y qué Cookies suelen cubrir ese rol. Este módulo está pensado para ayudar a los jugadores a elegir una identidad de rol antes de gastar mejoras.",
+      "intro": "La forma más clara de construir mejores equipos en OvenSmash es pensar en funciones, no solo en personajes favoritos. Una composición sólida generalmente necesita a alguien que inicie peleas, alguien que complete el daño, alguien que interrumpa o bloquee objetivos, y alguien que mantenga al equipo estable durante las escaramuzas repetidas.",
+      "roles": [
+        {
+          "name": "Línea Frontal",
+          "summary": "Los picks de línea frontal son tus Tanques y Bruisers. Toman el primer contacto, reclaman espacio y hacen que sea más seguro para el resto del equipo funcionar.",
+          "responsibilities": [
+            "Inicia peleas cuando tu equipo esté en rango de seguimiento",
+            "Absorbe la presión y bloquea el acceso directo a tu retaguardia",
+            "Plántate primero en objetivos de alto valor y obliga a los enemigos a pasar por ti"
+          ],
+          "examples": [
+            "Madeleine Cookie",
+            "Dark Choco Cookie",
+            "Bacon Roll Cookie",
+            "Fruit Punch Cookie",
+            "Strawberry Crepe Cookie",
+            "GingerBrave"
+          ],
+          "playTip": "No inicies solo porque puedas sobrevivir unos segundos. Inicia cuando tus dealers de daño estén listos para aprovechar la apertura."
+        },
+        {
+          "name": "Daño",
+          "summary": "Los picks de daño convierten aperturas en eliminaciones, objetivos despejados y cambios de puntuación. Este grupo incluye Tiradores, Magos, Asesinos y Bombarderos.",
+          "responsibilities": [
+            "Presiona a los enemigos después de que comience el contacto de la línea frontal",
+            "Castiga objetivos expuestos y el mal posicionamiento rápidamente",
+            "Mantén salida constante durante las peleas de equipo extendidas y las disputas de objetivos"
+          ],
+          "examples": [
+            "String Cheese Cookie",
+            "Rye Cookie",
+            "Blue Slushy Cookie",
+            "Blueberry Pie Cookie",
+            "Latte Cookie",
+            "Cherry Cookie",
+            "Peach Cookie",
+            "Chili Pepper Cookie",
+            "Tiger Lily Cookie"
+          ],
+          "playTip": "La mayoría de las pérdidas de daño vienen de avanzar demasiado pronto. Deja que tu línea frontal o controlador cree la apertura primero."
+        },
+        {
+          "name": "Control",
+          "summary": "Los picks de control ganan peleas congelando, atrayendo, lanzando al aire, ralentizando o alterando el timing enemigo. Convierten peleas equilibradas en desiguales.",
+          "responsibilities": [
+            "Interrumpe inicios enemigos o castiga movimientos agrupados",
+            "Crea picks antes de que comiencen las peleas de equipo completas",
+            "Bloquea objetivos importantes el tiempo suficiente para que tu equipo los elimine"
+          ],
+          "examples": [
+            "Red Velvet Cookie",
+            "Ice Pop Cookie",
+            "Peppermint Cookie",
+            "Jerky Cookie"
+          ],
+          "playTip": "Tu mejor valor suele venir de controlar al carry enemigo o al diver que alcanza tu retaguardia, no de gastar control de multitudes aleatoriamente en tanques."
+        },
+        {
+          "name": "Soporte",
+          "summary": "Los picks de soporte mantienen al equipo estable a través de curación, buffs, utilidad y reinicios de pelea más seguros. Son el pegamento en juegos de objetivos más largos.",
+          "responsibilities": [
+            "Cura o estabiliza a los aliados antes y después de los intercambios",
+            "Aumenta el uptime del equipo para que los carries sigan disparando",
+            "Ayuda a que las peleas ganadas permanezcan ganadas evitando un colapso repentino"
+          ],
+          "examples": [
+            "Peppermint Cookie",
+            "Melon Soda Cookie",
+            "Fruit Punch Cookie"
+          ],
+          "playTip": "Mantente lo suficientemente cerca para influir en la pelea, pero lo suficientemente lejos para que el enemigo no pueda eliminar primero tu curación o utilidad."
         }
       ]
     },
-    "lucidBlocksSettingsAndAccessibility": {
-      "title": "Ajustes y accesibilidad de Lucid Blocks",
-      "displayType": "settingCards",
-      "intro": "Lucid Blocks ya cuenta con algunos ajustes prácticos y notas de compatibilidad que son importantes de inmediato cuando los jugadores inician el juego por primera vez.",
-      "settings": [
-        {
-          "name": "Ajustes de pantalla",
-          "type": "Opción de comodidad",
-          "description": "Los ajustes de pantalla incluyen una opción que permite a los jugadores ocultar las manos en pantalla."
-        },
-        {
-          "name": "Compatibilidad de gráficos",
-          "type": "Requisito del sistema",
-          "description": "Se requiere soporte de __PROTECTED_38625270__ para que los gráficos se rendericen correctamente. Los sistemas sin __PROTECTED_38625270__ pueden sufrir cierres inesperados y errores gráficos graves."
-        },
-        {
-          "name": "Preferencia de entrada",
-          "type": "Configuración de control",
-          "description": "Existe soporte para controles, pero el teclado y el mouse brindan una experiencia más fluida porque los menús no están diseñados para el uso de controles."
-        },
-        {
-          "name": "Soporte de idiomas",
-          "type": "Localización",
-          "description": "La configuración actual es solo en inglés y no hay traducciones planeadas en este momento."
-        }
-      ]
-    },
-    "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Actualizaciones y notas del parche de Lucid Blocks",
-      "displayType": "timeline",
-      "intro": "Lucid Blocks ya está recibiendo correcciones rápidas post-lanzamiento y pequeñas actualizaciones de usabilidad.",
-      "entries": [
-        {
-          "title": "Actualización 2.8.2",
-          "type": "Actualización de IU",
-          "description": "Se cambió el nombre de \"awaken\" (despertar) a \"exit\" (salir) en el menú principal."
-        },
-        {
-          "title": "Pequeño parche para cierres al iniciar",
-          "type": "Hotfix",
-          "description": "Se lanzó un parche dedicado para los jugadores cuyo juego se cerraba inesperadamente al iniciar."
-        },
-        {
-          "title": "Soporte de contenido post-lanzamiento",
-          "type": "Nota de hoja de ruta",
-          "description": "Se planean algunas actualizaciones de contenido después del lanzamiento, pero no pretenden continuar con un calendario regular indefinido."
-        }
-      ]
-    },
-    "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Solución de cierres inesperados y solución de problemas de Lucid Blocks",
+    "ovenCrownRoad": {
+      "title": "Guía del Camino a la Corona del Horno de CookieRun: OvenSmash",
       "displayType": "steps",
-      "intro": "La mayoría de los problemas inmediatos de inicio y cierres deben revisarse en un orden sencillo: nivel de parche, soporte de gráficos, compatibilidad de plataforma y registros.",
+      "intro": "El Camino a la Corona del Horno es el track de recompensas a largo plazo del juego. Ganar más partidas aumenta tu total de Coronas del Horno y desbloquea soulchips, tickets de invocación, cajas y más. El track de recompensas publicado actualmente llega hasta 56,800 Coronas con rangos desde Bronce hasta Challenger.",
       "steps": [
         {
-          "title": "Instala el último hotfix para cierres inesperados",
-          "description": "Si el juego se cierra al iniciar, actualiza primero y prueba de nuevo con el parche más reciente para cierres al inicio."
+          "title": "Entiende qué cuenta para el Camino",
+          "description": "El progreso del Camino a la Corona del Horno viene del total de Coronas del Horno que ganas al ganar batallas. Cuantas más victorias acumules, más rápido desbloqueas recompensas del Camino.",
+          "details": [
+            "Las Coronas se ganan mediante victorias en batalla.",
+            "El progreso se basa en el total de Coronas del Horno ganadas.",
+            "El track de recompensas es compartido en tu progresión general en lugar de estar vinculado a una sola Cookie."
+          ]
         },
         {
-          "title": "Verifica el soporte de __PROTECTED_38625270__",
-          "description": "Lucid Blocks requiere soporte de __PROTECTED_38625270__. Los sistemas sin __PROTECTED_38625270__ pueden sufrir cierres inesperados o problemas graves de renderizado."
+          "title": "Conoce la escalera de rangos antes de avanzar",
+          "description": "El Camino está dividido en Bronce, Plata, Oro, Platino, Diamante, Maestro y Challenger, cada uno con sub-rangos. Los rangos tempranos principalmente dan materiales de soulchip, mientras que los rangos posteriores se convierten en hitos de tickets repetibles.",
+          "details": [
+            "Bronce I-V",
+            "Plata I-V",
+            "Oro I-V",
+            "Platino I-V",
+            "Diamante I-V",
+            "Maestro I-V",
+            "Challenger I-V"
+          ]
         },
         {
-          "title": "Usa Proton 9.0.4 en Steam Deck",
-          "description": "Si la entrada o el comportamiento de inicio en Steam Deck fallan, fuerza la compatibilidad y cambia a Proton 9.0.4."
+          "title": "Completa los primeros hitos de Bronce y Plata",
+          "description": "La primera parte del Camino está llena de materiales de soulchip que ayudan a tu roster a entrar en línea rápidamente.",
+          "details": [
+            "0 Coronas: Bronce I — 80 Soulchips de Cherry Cookie",
+            "100 Coronas: Bronce II — 160 Cajas de Soulchip Común a Elección",
+            "250 Coronas: Bronce III — 80 Packs de Soulchip Raro a Elección",
+            "500 Coronas: Bronce IV — 40 Packs de Soulchip Épico a Elección",
+            "750 Coronas: Bronce V — 240 Cajas de Soulchip Común a Elección",
+            "1,000 Coronas: Plata I — 120 Cajas de Soulchip Raro a Elección",
+            "1,250 Coronas: Plata II — 60 Cajas de Soulchip Épico a Elección",
+            "1,500 Coronas: Plata III — 320 Packs de Soulchip Común a Elección",
+            "1,750 Coronas: Plata IV — 160 Packs de Soulchip Raro a Elección",
+            "2,000 Coronas: Plata V — 80 Packs de Soulchip Raro a Elección"
+          ]
         },
         {
-          "title": "Recopila registros de cierres (logs)",
-          "description": "Abre Ejecutar de Windows, pega %APPDATA%, ve a lucid blocks/logs y reúne los archivos .txt para solucionar el problema."
+          "title": "Usa Oro y Platino para acumular recursos de invocación",
+          "description": "A partir de Oro, el Camino alterna entre Tickets de Soulchip Remix y Tickets de Invocación General, convirtiéndose este en el primer tramo importante de recursos de tiradas.",
+          "details": [
+            "2,300 Coronas: Oro I — 1 Ticket de Soulchip Remix",
+            "3,000 Coronas: Oro II — 5 Tickets de Invocación General",
+            "4,000 Coronas: Oro III — 1 Ticket de Soulchip Remix",
+            "5,000 Coronas: Oro IV — 5 Tickets de Invocación General",
+            "6,000 Coronas: Oro V — 1 Ticket de Soulchip Remix",
+            "7,000 Coronas: Platino I — 5 Tickets de Invocación General",
+            "8,000 Coronas: Platino II — 1 Ticket de Soulchip Remix",
+            "9,000 Coronas: Platino III — 5 Tickets de Invocación General",
+            "10,000 Coronas: Platino IV — 1 Ticket de Soulchip Remix",
+            "11,000 Coronas: Platino V — 5 Tickets de Invocación General"
+          ]
         },
         {
-          "title": "Reporta el problema correctamente",
-          "description": "Comparte los registros y los detalles del dispositivo a través del foro oficial de reportes de errores en Discord o en la página de la comunidad de Steam."
+          "title": "Planifica la larga escalada por Diamante, Maestro y Challenger",
+          "description": "El desglose publicado del juego tardío comprime cada banda en rangos de hitos, y cada hito de sub-rango listado en estas bandas otorga un Ticket de Soulchip Remix.",
+          "details": [
+            "12,000 a 24,000 Coronas: Diamante I a Diamante V — 1 Ticket de Soulchip Remix en los hitos listados",
+            "27,000 a 39,000 Coronas: Maestro I a Maestro V — 1 Ticket de Soulchip Remix en los hitos listados",
+            "42,000 a 54,000 Coronas: Challenger I a Challenger V — 1 Ticket de Soulchip Remix en los hitos listados",
+            "El punto final actual del Camino publicado es 56,800 Coronas del Horno."
+          ]
+        },
+        {
+          "title": "Avanza con más inteligencia, no solo más tiempo",
+          "description": "Gana consistentemente, mantén un roster central pequeño y evita el tilt. Eso importa más que cambiar constantemente de personaje mientras aún estás aprendiendo el flujo de partida.",
+          "details": [
+            "Enfócate en las victorias, porque las victorias son lo que hace avanzar el Camino.",
+            "Domina primero unas pocas Cookies fuertes en lugar de distribuir recursos demasiado delgado.",
+            "Construye en torno a la sinergia de equipo para que tus partidas sean más fáciles de cerrar.",
+            "Tómate un descanso después de una racha de derrotas para proteger tu impulso."
+          ]
+        }
+      ]
+    },
+    "summonGuide": {
+      "title": "Guía de Invocaciones de CookieRun: OvenSmash",
+      "displayType": "accordion",
+      "subtitle": "OvenSmash distribuye el crecimiento del roster a través de múltiples sistemas en lugar de un solo gacha. Esta guía agrupa las tablas de probabilidad oficiales en las partes que más importan para el crecimiento de la cuenta.",
+      "intro": "El poder de tu roster proviene principalmente de soulchips, monedas y tickets de tiradas. Las páginas de probabilidad oficiales cubren Soulchip Remix, Invocación General, Tirada de Trajes, Cajas de Batalla y Cajas de Monedas, mientras que el ecosistema de la página de cupones en vivo también puede agregar Cristales extra para más tiradas.",
+      "summons": [
+        {
+          "name": "Invocación General",
+          "summary": "La tirada base de soulchips. Las tasas oficiales dividen el resultado en Común 40%, Raro 40% y Épico 20%.",
+          "details": [
+            "Tasa total Común: 40.0000%; las cantidades posibles incluyen 40-59, 60-79, 80-119, 120-159 y 160.",
+            "Tasa total Raro: 40.0000%; las cantidades posibles incluyen 20-29, 30-39, 40-59, 60-79 y 80.",
+            "Tasa total Épico: 20.0000%; las cantidades posibles incluyen 5, 6-8, 9-12, 20 y 40.",
+            "Úsala cuando quieras crecimiento amplio del roster en múltiples grados en lugar de un objetivo de alto roll único."
+          ]
+        },
+        {
+          "name": "Soulchip Remix",
+          "summary": "Una tirada de progresión basada en tickets que siempre paga Soulchips Comunes, Raros, Épicos y Monedas juntos, con cinco etapas oficiales.",
+          "details": [
+            "Etapa 1: 45.0000% — Común 120-139, Raro 60-69, Épico 20-29, Monedas 4,510-5,610.",
+            "Etapa 2: 25.0000% — Común 140-159, Raro 70-79, Épico 30-39, Monedas 5,720-6,820.",
+            "Etapa 3: 15.0000% — Común 160-199, Raro 80-99, Épico 40-59, Monedas 6,920-9,230.",
+            "Etapa 4: 10.0000% — Común 200-259, Raro 100-129, Épico 60-89, Monedas 9,340-12,860.",
+            "Etapa 5: 5.0000% — Común 260-319, Raro 130-159, Épico 90-119, Monedas 12,960-16,480.",
+            "Este es el sistema más limpio para convertir un solo ticket en progreso de soulchip e ingresos de monedas."
+          ]
+        },
+        {
+          "name": "Tirada de Trajes",
+          "summary": "El sistema cosmético usa cuatro cubos de etapas oficiales, incluyendo resultados Épicos estándar y solo temáticos.",
+          "details": [
+            "Etapa 1 Grado Común: 49.8421%",
+            "Etapa 2 Grado Raro: 33.7587%",
+            "Etapa 3 Grado Épico, incluyendo Temáticos y Estándar: 10.9077%",
+            "Etapa 4 Grado Épico, solo temáticos incluyendo probabilidad de Set Completo: 5.4916%",
+            "En las Etapas 1-2, el Kilometraje Arcoíris también puede aparecer y se clasifica como grado Común."
+          ]
+        },
+        {
+          "name": "Cajas de Batalla",
+          "summary": "Las Cajas de Batalla son otra fuente importante de progresión porque sortean tanto niveles de mejora como recompensas específicas por nivel.",
+          "details": [
+            "Probabilidades de mejora de Caja de Batalla I: Nv1 80.0000%, Nv2 12.5000%, Nv3 6.0000%, Nv4 1.4000%, Nv5 0.1000%, Nv6 0.0020%.",
+            "Caja de Batalla III comienza en Nv3 80.0000% y puede llegar a Nv6 1.5000%.",
+            "Caja de Batalla V da Nv5 80.0000% y Nv6 20.0000%.",
+            "Caja de Batalla VI mejora a Nv6 100.0000%.",
+            "Las recompensas de Nv1 incluyen Soulchips Aleatorios Comunes x20 al 50.0000%, Soulchips Aleatorios Raros x10 al 20.0000%, o Monedas x1,000 al 30.0000%.",
+            "Las recompensas de Nv6 incluyen Soulchips Aleatorios Épicos x40 al 30.0000%, Monedas x10,000 al 30.0000%, Soulchips Universales Raros x40 al 10.0000%, o Soulchips Universales Épicos x20 al 30.0000%."
+          ]
+        },
+        {
+          "name": "Cajas de Monedas",
+          "summary": "Las Cajas de Monedas son la fuente más limpia de moneda pura en las tablas de probabilidad oficiales.",
+          "details": [
+            "Caja de Monedas Pequeña: Etapa 1 51.2000% para 4,600-5,600; Etapa 2 31.7760% para 5,601-7,600; Etapa 3 17.0240% para 7,601-10,600.",
+            "Caja de Monedas Mediana: Etapa 1 51.2000% para 14,000-17,000; Etapa 2 31.7760% para 17,001-23,000; Etapa 3 17.0240% para 23,001-32,000.",
+            "Caja de Monedas Grande: Etapa 1 51.2000% para 28,000-34,000; Etapa 2 31.7760% para 34,001-46,000; Etapa 3 17.0240% para 46,001-64,000."
+          ]
+        },
+        {
+          "name": "Recursos Extra de Tiradas",
+          "summary": "Los códigos del período de lanzamiento pueden agregar Cristales extra que se integran a tu economía general de tiradas.",
+          "details": [
+            "Código activo verificado el 29 de marzo de 2026: WELCOME2OVENSMASH — 1,000 Cristales.",
+            "El canje de cupones se gestiona a través de la página oficial de cupones de DevPlay.",
+            "Las recompensas canjeadas se envían a tu buzón en el juego."
+          ]
+        }
+      ]
+    },
+    "inviteCodes": {
+      "title": "Códigos de Invitación de CookieRun: OvenSmash",
+      "displayType": "codeCards",
+      "subtitle": "Este evento de lanzamiento está construido alrededor de los Puntos de Amistad. Tu ID de Jugador funciona como el código de invitación, y tanto las recompensas por hitos como las misiones diarias alimentan el mismo track de puntos.",
+      "intro": "Los Códigos de Invitación en CookieRun: OvenSmash no son cupones universales fijos. Son entradas de invitación específicas del jugador vinculadas al evento Invita a un Amigo, y la forma más rápida de completar el track de recompensas es combinar invitaciones exitosas con las misiones diarias de Puntos de Amistad.",
+      "items": [
+        {
+          "title": "Tu código de invitación",
+          "code": "Tu ID de Jugador",
+          "reward": "Usado por otro jugador para entrar al evento Invita a un Amigo",
+          "notes": [
+            "El código de invitación compartido es tu ID de Jugador.",
+            "Cuando otro jugador ingresa tu código, ese jugador recibe 200 Puntos de Amistad."
+          ]
+        },
+        {
+          "title": "Bono por invitación exitosa",
+          "code": "Un amigo ingresa tu ID de Jugador",
+          "reward": "500 Puntos de Amistad",
+          "notes": [
+            "Recibes 500 Puntos de Amistad por cada invitación exitosa.",
+            "Esto puede hacerse hasta 5 veces."
+          ]
+        },
+        {
+          "title": "Ruta de misiones diarias",
+          "code": "Tareas de evento repetibles",
+          "reward": "Hasta 200 Puntos de Amistad por día",
+          "notes": [
+            "Juega 1 vez en un grupo con un amigo: 40 Puntos de Amistad",
+            "Comparte tu código de invitación 1 vez: 40 Puntos de Amistad",
+            "Juega el Modo Estándar 3 veces: 20 Puntos de Amistad",
+            "Usa la Definitiva 5 veces: 20 Puntos de Amistad",
+            "Completa todas las misiones: 80 Puntos de Amistad"
+          ]
+        },
+        {
+          "title": "Hito: 200 Puntos de Amistad",
+          "code": "200 PA",
+          "reward": "100 Cristales",
+          "notes": [
+            "Esta es la primera recompensa del track de puntos.",
+            "Un solo código de invitación ingresado es suficiente para superar este umbral para el jugador invitado."
+          ]
+        },
+        {
+          "title": "Hito: 600 Puntos de Amistad",
+          "code": "600 PA",
+          "reward": "1 Caja de Monedas Aleatoria",
+          "notes": [
+            "Este es el segundo punto de ruptura de recompensas en el track del evento."
+          ]
+        },
+        {
+          "title": "Hito: 1,000 Puntos de Amistad",
+          "code": "1,000 PA",
+          "reward": "1 traje Cola de Gato Negro",
+          "notes": [
+            "Esta es la primera recompensa cosmética en el track Invita a un Amigo."
+          ]
+        },
+        {
+          "title": "Hito: 1,500 Puntos de Amistad",
+          "code": "1,500 PA",
+          "reward": "5 Soulchips Universales Épicos",
+          "notes": [
+            "Este punto de ruptura añade valor directo de mejora además del hito cosmético anterior."
+          ]
+        },
+        {
+          "title": "Hito: 2,500 Puntos de Amistad",
+          "code": "2,500 PA",
+          "reward": "1 Orejas de Gato Negro",
+          "notes": [
+            "Este es el hito de evento más alto listado en el desglose de recompensas publicado."
+          ]
+        }
+      ]
+    },
+    "friendsParty": {
+      "title": "Guía de Amigos y Grupo de CookieRun: OvenSmash",
+      "displayType": "steps",
+      "subtitle": "La lista de amigos y el lobby de grupo son flujos de UI separados en CookieRun: OvenSmash. Una vez que sabes dónde vive cada menú, agruparse es rápido y repetible.",
+      "intro": "CookieRun: OvenSmash no pone la adición de amigos y la creación de grupos en el mismo lugar, por eso muchos jugadores nuevos se pierden uno de los dos sistemas. Usa el menú de Amigos para conexiones de cuenta y la pestaña de Grupo para jugar en cola juntos con hasta tres jugadores.",
+      "steps": [
+        {
+          "title": "Ve primero a la Plaza",
+          "description": "El flujo de amigos comienza desde la Plaza, que es el área de interfaz principal. El icono de Amigos está junto al chat en lugar de dentro del menú de Grupo."
+        },
+        {
+          "title": "Abre el menú de Amigos",
+          "description": "Toca el icono de Amigos junto al chat mientras estás en la Plaza. Este es el lugar correcto para gestionar amigos y enviar solicitudes."
+        },
+        {
+          "title": "Agrega por apodo o ID de Jugador",
+          "description": "Puedes agregar a alguien ingresando su apodo o su ID de Jugador en la barra de búsqueda en la parte superior de la pantalla de Amigos."
+        },
+        {
+          "title": "Usa la pestaña Agregar Amigo para jugadores recientes",
+          "description": "Si ya jugaste con o contra alguien, la pestaña Agregar Amigo puede mostrar esos jugadores recientes para que no tengas que escribir su información manualmente."
+        },
+        {
+          "title": "Crea un grupo desde la pestaña de Grupo",
+          "description": "El menú de Grupo es para hacer cola en equipo, no para agregar amigos. Presiona Crear Grupo para abrir tu propio lobby."
+        },
+        {
+          "title": "El tamaño del grupo está limitado a tres jugadores",
+          "description": "Un grupo puede incluir hasta tres jugadores. El líder del grupo maneja la cola una vez que el grupo está formado."
+        },
+        {
+          "title": "Únete a otro grupo con un Código de Grupo",
+          "description": "Si un amigo ya creó el lobby, presiona Unirse e ingresa su Código de Grupo para entrar a ese grupo."
+        },
+        {
+          "title": "Copia o comparte el código desde la pantalla del grupo",
+          "description": "Cada grupo tiene un código único. Una vez creado el grupo, puedes copiar el código desde la parte inferior de la pantalla y enviarlo a tus compañeros."
+        },
+        {
+          "title": "Usa los grupos para el progreso de eventos sociales también",
+          "description": "El evento Invita a un Amigo incluye una misión diaria por jugar una vez en un grupo con un amigo, así que agruparse también alimenta el progreso de Puntos de Amistad."
+        }
+      ]
+    },
+    "ratesGuide": {
+      "title": "Guía de Probabilidades de CookieRun: OvenSmash",
+      "displayType": "table",
+      "subtitle": "Lee las probabilidades oficiales de invocación, tirada de trajes y cajas en un formato más claro. Compara el valor antes de gastar Cristales, tickets o cajas.",
+      "intro": "CookieRun: OvenSmash publica tablas de probabilidad separadas para Invocación General, Soulchip Remix, Tirada de Trajes, Cajas de Batalla y Cajas de Monedas. La Invocación General divide 40% Común, 40% Raro y 20% Épico por tasa de grado total, mientras que la Tirada de Trajes está ponderada hacia looks Comunes y Raros con una porción Épica más pequeña.",
+      "tables": [
+        {
+          "name": "Tasas de Grado Total de Invocación General de CookieRun: OvenSmash",
+          "rows": [
+            {
+              "item": "Soulchips Comunes",
+              "rate": "40.0000%",
+              "detail": "1x: 18% (40-59), 2x: 10% (60-79), 3x: 6% (80-119), 4x: 4% (120-159), 5x: 2% (160)"
+            },
+            {
+              "item": "Soulchips Raros",
+              "rate": "40.0000%",
+              "detail": "1x: 18% (20-29), 2x: 10% (30-39), 3x: 6% (40-59), 4x: 4% (60-79), 5x: 2% (80)"
+            },
+            {
+              "item": "Soulchips Épicos",
+              "rate": "20.0000%",
+              "detail": "1x: 9% (5), 2x: 5% (6-8), 3x: 3% (9-12), 4x: 2% (20), 5x: 1% (40)"
+            }
+          ]
+        },
+        {
+          "name": "Probabilidades de Tirada de Trajes de CookieRun: OvenSmash",
+          "rows": [
+            {
+              "item": "Etapa 1 — Grado Común",
+              "rate": "49.8421%"
+            },
+            {
+              "item": "Etapa 2 — Grado Raro",
+              "rate": "33.7587%"
+            },
+            {
+              "item": "Etapa 3 — Grado Épico (Temático + Estándar)",
+              "rate": "10.9077%"
+            },
+            {
+              "item": "Etapa 4 — Grado Épico (Solo temático, probabilidad de Set Completo)",
+              "rate": "5.4916%"
+            }
+          ]
+        },
+        {
+          "name": "Probabilidades de Etapas del Soulchip Remix de CookieRun: OvenSmash",
+          "rows": [
+            {
+              "item": "Etapa 1",
+              "rate": "45.0000%",
+              "detail": "Común 120-139, Raro 60-69, Épico 20-29, Monedas 4,510-5,610"
+            },
+            {
+              "item": "Etapa 2",
+              "rate": "25.0000%",
+              "detail": "Común 140-159, Raro 70-79, Épico 30-39, Monedas 5,720-6,820"
+            },
+            {
+              "item": "Etapa 3",
+              "rate": "15.0000%",
+              "detail": "Común 160-199, Raro 80-99, Épico 40-59, Monedas 6,920-9,230"
+            },
+            {
+              "item": "Etapa 4",
+              "rate": "10.0000%",
+              "detail": "Común 200-259, Raro 100-129, Épico 60-89, Monedas 9,340-12,860"
+            },
+            {
+              "item": "Etapa 5",
+              "rate": "5.0000%",
+              "detail": "Común 260-319, Raro 130-159, Épico 90-119, Monedas 12,960-16,480"
+            }
+          ]
+        },
+        {
+          "name": "Distribución de Mejora de Cajas de Batalla de CookieRun: OvenSmash",
+          "rows": [
+            {
+              "item": "Caja de Batalla I",
+              "rate": "Mejora 1 al 80%",
+              "detail": "2: 12.5%, 3: 6%, 4: 1.4%, 5: 0.1%, 6: 0.002%"
+            },
+            {
+              "item": "Caja de Batalla II",
+              "rate": "Mejora 2 al 80%",
+              "detail": "3: 12.5%, 4: 6%, 5: 1.4%, 6: 0.1%"
+            },
+            {
+              "item": "Caja de Batalla III",
+              "rate": "Mejora 3 al 80%",
+              "detail": "4: 12.5%, 5: 6%, 6: 1.5%"
+            },
+            {
+              "item": "Caja de Batalla IV",
+              "rate": "Mejora 4 al 80%",
+              "detail": "5: 12.5%, 6: 7.5%"
+            },
+            {
+              "item": "Caja de Batalla V",
+              "rate": "Mejora 5 al 80%",
+              "detail": "6: 20%"
+            },
+            {
+              "item": "Caja de Batalla VI",
+              "rate": "Mejora 6 al 100%",
+              "detail": "Mejora máxima garantizada"
+            }
+          ]
+        },
+        {
+          "name": "Probabilidades de Cajas de Monedas de CookieRun: OvenSmash",
+          "rows": [
+            {
+              "item": "Caja de Monedas Pequeña",
+              "rate": "4,600–10,600",
+              "detail": "Etapa 1: 51.2% (4,600-5,600), Etapa 2: 31.8% (5,601-7,600), Etapa 3: 17% (7,601-10,600)"
+            },
+            {
+              "item": "Caja de Monedas Mediana",
+              "rate": "14,000–32,000",
+              "detail": "Etapa 1: 51.2% (14,000-17,000), Etapa 2: 31.8% (17,001-23,000), Etapa 3: 17% (23,001-32,000)"
+            },
+            {
+              "item": "Caja de Monedas Grande",
+              "rate": "28,000–64,000",
+              "detail": "Etapa 1: 51.2% (28,000-34,000), Etapa 2: 31.8% (34,001-46,000), Etapa 3: 17% (46,001-64,000)"
+            }
+          ]
+        }
+      ]
+    },
+    "costumes": {
+      "title": "Guía de Trajes de CookieRun: OvenSmash",
+      "displayType": "gallery",
+      "subtitle": "Descubre cómo OvenSmash maneja el estilo, las caídas de trajes temáticos y las colecciones visuales. Cubre qué es cosmético, cómo está estructurado el pool de trajes y qué pueden conseguir los jugadores.",
+      "intro": "La personalización es una parte central de la identidad de OvenSmash. Los jugadores pueden crear una Cookie con docenas de looks y objetos, mientras que los canales oficiales de trajes presentan temas estacionales con nombre como Summer Time Breeze y Cosmic Odyssey.",
+      "items": [
+        {
+          "name": "Looks Personalizados de CookieRun: OvenSmash",
+          "tag": "Personalización Base",
+          "description": "La descripción del App Store presenta la personalización como una característica principal, indicando que los jugadores pueden crear su propio estilo de Cookie con docenas de looks y objetos.",
+          "howToGet": "Usa los sistemas de apariencia y trajes del juego para cambiar el estilo visual de tu Cookie.",
+          "playerTakeaway": "La capa de estilo más amplia en OvenSmash, orientada a la autoexpresión en lugar del poder de combate bruto."
+        },
+        {
+          "name": "Pool de Trajes Estándar de CookieRun: OvenSmash",
+          "tag": "Pool de Tiradas",
+          "description": "La tabla oficial de Tirada de Trajes confirma un pool mixto que incluye resultados de trajes Comunes, Raros y Épicos, con la Etapa 3 listando resultados Épicos que incluyen trajes temáticos y estándar.",
+          "howToGet": "Tira a través de la Tirada de Trajes.",
+          "playerTakeaway": "La mayoría de los resultados de trajes están en los rangos Común y Raro, mientras que los resultados Épicos son una parte más pequeña del pool."
+        },
+        {
+          "name": "Pool Épico Temático de CookieRun: OvenSmash",
+          "tag": "Estilo Premium",
+          "description": "La Etapa 4 de la Tirada de Trajes está reservada para resultados de Grado Épico solo temáticos e incluye también una probabilidad de set completo.",
+          "howToGet": "Tira a través de la etapa Épica temática superior en la Tirada de Trajes.",
+          "playerTakeaway": "El camino de búsqueda más claro para los jugadores que quieren sets de trajes de estilo evento en lugar de variedad cosmética general."
+        },
+        {
+          "name": "Summer Time Breeze de CookieRun: OvenSmash",
+          "tag": "Tema Estacional",
+          "description": "Una línea de trajes de verano construida alrededor de atuendos frescos, gafas estilosas y un look vacacional para las Cookies.",
+          "howToGet": "Sigue el ciclo de promoción oficial y los lanzamientos de trajes correspondientes.",
+          "playerTakeaway": "Se inclina hacia la moda estacional brillante y funciona bien como set de exhibición para jugadores enfocados en el estilo."
+        },
+        {
+          "name": "Cosmic Odyssey de CookieRun: OvenSmash",
+          "tag": "Tema Estacional",
+          "description": "Una línea de trajes con temática espacial descrita con frases como hackers espaciales y viajeros galácticos.",
+          "howToGet": "Sigue el ciclo de promoción oficial y los lanzamientos de trajes correspondientes.",
+          "playerTakeaway": "Le da a OvenSmash un look de fantasía urbana de ciencia ficción más fuerte y es uno de los sets de identidad temática más claros anunciados hasta ahora."
+        }
+      ]
+    },
+    "updates": {
+      "title": "Actualizaciones de CookieRun: OvenSmash",
+      "displayType": "card-list",
+      "subtitle": "Sigue los canales que importan para noticias de parches, lanzamientos de eventos y nuevas revelaciones de trajes.",
+      "intro": "El Centro de Ayuda no publica un calendario fijo de parches y en su lugar dirige a los jugadores al Discord oficial para el timing de actualizaciones. La lista de seguimiento más útil es Discord para charlas sobre la próxima actualización, YouTube y X para publicaciones de revelaciones, y el listado de la app store para el historial de versiones.",
+      "channels": [
+        {
+          "name": "Discord Oficial de CookieRun: OvenSmash",
+          "role": "Lugar principal para verificar el timing de la próxima actualización",
+          "details": "El artículo oficial del Centro de Ayuda sobre el timing de actualizaciones específicamente indica a los jugadores que revisen regularmente el Discord de CookieRun: OvenSmash para las últimas noticias, tácticas y actualizaciones de la comunidad.",
+          "bestFor": "Avisos de próximas actualizaciones, anuncios en vivo, conversación de la comunidad",
+          "url": "https://discord.com/invite/crovensmash"
+        },
+        {
+          "name": "YouTube Oficial de CookieRun: OvenSmash",
+          "role": "Mejor fuente para revelaciones visuales",
+          "details": "El canal oficial de YouTube publica contenido de revelación de trajes, incluyendo videos de Cosmic Odyssey y Summer Time Breeze.",
+          "bestFor": "Tráilers, vistas previas de trajes, videos promocionales",
+          "url": "https://www.youtube.com/@cookierunovensmash"
+        },
+        {
+          "name": "X Oficial de CookieRun: OvenSmash",
+          "role": "Feed de anuncios rápido",
+          "details": "El feed oficial de X se usa para promociones de trajes, campañas de compartir y publicaciones de revelaciones estacionales, incluyendo anuncios de trajes de temática veraniega y cósmica.",
+          "bestFor": "Anuncios breves, recordatorios de eventos, drops promocionales",
+          "url": "https://x.com/CROvenSmash"
+        },
+        {
+          "name": "Historial de Versiones del App Store de CookieRun: OvenSmash",
+          "role": "Punto de verificación rápido de notas de parche",
+          "details": "El historial de versiones actual muestra la Versión 1.0.01 con la nota: Corrección de errores y registro de nuevos productos dentro de la app para revisión.",
+          "bestFor": "Confirmaciones de corrección de errores y seguimiento de versiones del lado de la tienda",
+          "url": "https://apps.apple.com/us/app/cookierun-ovensmash/id6550902247"
+        },
+        {
+          "name": "Página de Actualizaciones del Centro de Ayuda de CookieRun: OvenSmash",
+          "role": "Guía oficial de actualizaciones del lado del soporte",
+          "details": "El artículo de soporte sobre el timing de actualizaciones es el lugar oficial que dirige a los usuarios hacia el canal de noticias en vivo principal.",
+          "bestFor": "Confirmación oficial de dónde se enrutan las noticias de actualizaciones",
+          "url": "https://cs-cookierunovensmash.devsisters.com/hc/en-us/articles/56159773706009-When-is-the-next-update"
+        }
+      ]
+    },
+    "troubleshooting": {
+      "title": "Solución de Problemas de CookieRun: OvenSmash",
+      "displayType": "accordion",
+      "subtitle": "Soluciona problemas de instalación, actualización, conexión, tartamudeo, cuelgues y notificaciones con los pasos oficiales del dispositivo.",
+      "intro": "La mayoría de los pasos de soporte de CookieRun: OvenSmash repiten las mismas verificaciones principales: usa la versión oficial de la tienda, mantén el SO del dispositivo actualizado, libera espacio y memoria, y asegúrate de que el dispositivo cumpla los requisitos mínimos. Para iPhone e iPad, se requiere iOS 15 o más reciente; para Android, versión 9.0 o más reciente con 3 GB de RAM o más.",
+      "items": [
+        {
+          "question": "No puedo instalar CookieRun: OvenSmash",
+          "answer": "Descarga el juego solo desde el App Store o Google Play Store. Luego verifica el almacenamiento, libera memoria eliminando apps o medios que no uses, actualiza el SO del dispositivo y confirma los requisitos mínimos: iOS 15 o más reciente, o Android 9.0 o más reciente con 3 GB de RAM o más.",
+          "steps": [
+            "Usa solo la versión oficial de la tienda",
+            "Verifica la capacidad de almacenamiento del dispositivo",
+            "Libera memoria eliminando apps, videos o fotos que no uses",
+            "Actualiza el SO del dispositivo a la versión más reciente",
+            "Confirma los requisitos del sistema antes de intentarlo de nuevo"
+          ]
+        },
+        {
+          "question": "¿Por qué no puedo actualizar CookieRun: OvenSmash?",
+          "answer": "La actualización puede requerir más espacio que el tamaño mínimo de instalación. Libera almacenamiento, mantén al menos 3 GB de espacio disponible, actualiza el SO del dispositivo y confirma los mismos requisitos mínimos usados para la instalación.",
+          "steps": [
+            "Libera memoria del dispositivo eliminando apps o archivos que no uses",
+            "Mantén al menos 3 GB de espacio libre disponible",
+            "Actualiza el SO del dispositivo a la versión más reciente",
+            "Confirma iOS 15+ o Android 9.0+ con 3 GB de RAM o más"
+          ]
+        },
+        {
+          "question": "No puedo conectarme a CookieRun: OvenSmash. ¿Qué hago?",
+          "answer": "Comienza con la calidad de red. Las redes inestables pueden hacer que CookieRun: OvenSmash sea inestable, así que cambia a una conexión confiable, confirma que instalaste la versión oficial de la tienda, actualiza el SO, libera algo de memoria del dispositivo y verifica los requisitos mínimos del dispositivo.",
+          "steps": [
+            "Cambia a una conexión de red estable",
+            "Asegúrate de que el juego fue descargado desde el App Store o Google Play",
+            "Actualiza el SO del dispositivo",
+            "Libera memoria eliminando apps o medios que no uses",
+            "Confirma iOS 15+ o Android 9.0+ con 3 GB de RAM o más"
+          ]
+        },
+        {
+          "question": "CookieRun: OvenSmash sigue tartamudeando durante el juego",
+          "answer": "El Centro de Ayuda señala primero la estabilidad de la red, especialmente porque tener todas las barras no siempre significa una conexión fuerte. Viajar en metro y lugares concurridos aún pueden causar juego inestable. Si la red está bien, cierra apps en segundo plano para liberar memoria del dispositivo.",
+          "steps": [
+            "Usa una red fuerte o una conexión 3G o 4G estable",
+            "Evita entornos inestables como lugares concurridos o viajes en metro si es posible",
+            "Cierra otras apps que se ejecuten en segundo plano",
+            "Intenta de nuevo después de liberar memoria"
+          ]
+        },
+        {
+          "question": "CookieRun: OvenSmash se cuelga en Android",
+          "answer": "Actualiza Android primero, luego verifica la calidad de conexión, libera al menos 3 GB de espacio, cierra apps en segundo plano y reinicia el dispositivo. La variedad de dispositivos Android significa que algunos dispositivos aún pueden quedarse por debajo del rendimiento recomendado.",
+          "steps": [
+            "Actualiza Android en Configuración > Acerca del dispositivo",
+            "Usa una conexión de red sólida",
+            "Libera al menos 3 GB de espacio",
+            "Cierra todas las apps en ejecución",
+            "Reinicia el dispositivo"
+          ]
+        },
+        {
+          "question": "CookieRun: OvenSmash se cuelga en iOS",
+          "answer": "Actualiza iOS, verifica el almacenamiento disponible, mantén al menos 3 GB de espacio libre, elimina apps o medios que no uses, luego cierra apps y reinicia el dispositivo. Los dispositivos con jailbreak no tienen garantía de ejecutar CookieRun: OvenSmash correctamente.",
+          "steps": [
+            "Actualiza iOS en Configuración > General > Actualización de software",
+            "Verifica el almacenamiento en Configuración > General > Acerca de",
+            "Mantén al menos 3 GB de espacio libre disponible",
+            "Elimina apps, videos o fotos que no uses si es necesario",
+            "Cierra apps en ejecución y reinicia el dispositivo"
+          ]
+        },
+        {
+          "question": "¿Cómo desactivo las notificaciones push de CookieRun: OvenSmash?",
+          "answer": "Hay tres caminos. En la configuración del juego, ve a Configuración > Notificaciones y activa o desactiva las alertas necesarias. En iOS, ve a Configuración > Notificaciones y selecciona CookieRun: OvenSmash. En Android, ve a Configuración > Sonidos y notificaciones > Notificaciones de aplicaciones, luego bloquea o desbloquea las notificaciones del juego.",
+          "steps": [
+            "En la configuración del juego o general, abre Notificaciones y activa o desactiva las alertas necesarias",
+            "En iOS, ve a Configuración > Notificaciones y selecciona CookieRun: OvenSmash",
+            "En Android, ve a Configuración > Sonidos y notificaciones > Notificaciones de aplicaciones, luego bloquea o desbloquea las notificaciones del juego"
+          ]
         }
       ]
     }
   },
   "faq": {
-    "title": "Preguntas",
-    "titleHighlight": "frecuentes",
-    "subtitle": "Todo lo que necesitas saber sobre Lucid Blocks",
+    "title": "CookieRun: OvenSmash",
+    "titleHighlight": "Preguntas Frecuentes",
+    "subtitle": "Preguntas frecuentes sobre CookieRun: OvenSmash",
     "questions": [
       {
-        "question": "¿Es Lucid Blocks un juego para un solo jugador?",
-        "answer": "Sí. Lucid Blocks es un juego exclusivamente para un solo jugador, sin planes para multijugador o cooperativo."
+        "question": "¿Qué es CookieRun: OvenSmash?",
+        "answer": "CookieRun: OvenSmash es un juego de arena PvP en tiempo real desarrollado por Devsisters. Los jugadores controlan Cookies en frenéticas batallas 3v3 y modos libre para todos ambientados en Platter City."
       },
       {
-        "question": "¿Qué es el sistema Apotheosis en Lucid Blocks?",
-        "answer": "Apotheosis es el sistema de creación por fusión de forma libre de Lucid Blocks. En lugar de seguir recetas fijas, combinas materiales y descubres tus propias rutas de creación."
+        "question": "¿Es CookieRun: OvenSmash gratuito?",
+        "answer": "Sí. CookieRun: OvenSmash es gratuito para descargar y jugar en iOS, Android y PC. Incluye compras opcionales dentro del juego para artículos cosméticos y mejoras de progresión."
       },
       {
-        "question": "¿Dónde puedo jugar Lucid Blocks?",
-        "answer": "Lucid Blocks está disponible actualmente en Steam para Windows. El soporte para Linux y Steam Deck está disponible a través de Proton 9.0."
+        "question": "¿Qué plataformas soportan CookieRun: OvenSmash?",
+        "answer": "CookieRun: OvenSmash está disponible en iOS (App Store), Android (Google Play) y PC. El juego cruzado está soportado en todas las plataformas."
       },
       {
-        "question": "¿Cuánto cuesta Lucid Blocks?",
-        "answer": "Lucid Blocks cuesta $9.99 en Steam."
+        "question": "¿Cuántas Cookies hay en CookieRun: OvenSmash?",
+        "answer": "CookieRun: OvenSmash lanzó con 20 Cookies jugables, cada una con habilidades únicas, roles y definitivas. Se espera que se añadan más Cookies en futuras actualizaciones."
       },
       {
-        "question": "¿Lucid Blocks es compatible con controles?",
-        "answer": "Sí, pero no se recomienda jugar con control porque los menús no están diseñados para ello. El teclado y el mouse son la opción más fluida."
+        "question": "¿Cómo canjeo códigos en CookieRun: OvenSmash?",
+        "answer": "Visita la página oficial de cupones de DevPlay en coupon.devplay.com, ingresa tu cuenta DevPlay y el código, luego reinicia el juego para recoger las recompensas desde tu buzón."
       },
       {
-        "question": "¿Recibirá actualizaciones Lucid Blocks?",
-        "answer": "Sí. Se planean algunas actualizaciones de contenido después del lanzamiento, pero no se pretende que continúen con un calendario regular indefinido."
+        "question": "¿Cuáles son las mejores Cookies en CookieRun: OvenSmash?",
+        "answer": "Las mejores elecciones del meta de lanzamiento incluyen Dark Choco Cookie, Red Velvet Cookie, Madeleine Cookie y Cherry Cookie. Consulta la sección de tier list para el ranking completo."
+      },
+      {
+        "question": "¿Cuántos modos de juego tiene CookieRun: OvenSmash?",
+        "answer": "CookieRun: OvenSmash tiene seis modos de juego: Castle Crasher, Drop the Beat, Jelly Race, Team Battle, Cookie Royale y Gnome Battle."
+      },
+      {
+        "question": "¿Cuándo lanzó CookieRun: OvenSmash?",
+        "answer": "CookieRun: OvenSmash lanzó globalmente el 26 de marzo de 2026, desarrollado por Devsisters y publicado en regiones selectas por VNGGames."
       }
     ]
   },
   "cta": {
-    "title": "¿Listo para explorar Lucid Blocks?",
-    "description": "¡Únete a la comunidad de Lucid Blocks en Discord para ver guías, actualizaciones y discusiones!",
-    "joinCommunity": "Únete a Discord",
-    "joinGame": "Juega en Steam"
+    "title": "¿Listo para jugar CookieRun: OvenSmash?",
+    "description": "¡Únete a la comunidad de CookieRun: OvenSmash en Discord para guías, actualizaciones y debates!",
+    "joinCommunity": "Unirse a Discord",
+    "joinGame": "Jugar en Google Play"
   },
   "footer": {
-    "title": "Wiki de Lucid Blocks",
-    "description": "Tu centro completo de recursos para la fabricación, biomas, criaturas, logros y guías de supervivencia de Lucid Blocks.",
+    "title": "CookieRun: OvenSmash Wiki",
+    "description": "Tu hub completo de recursos para cookies, builds, tier lists, códigos, modos de batalla y guías para principiantes de CookieRun: OvenSmash.",
     "resources": "Recursos",
     "community": "Comunidad",
     "legal": "Legal",
     "discord": "Discord",
     "twitter": "X / Twitter",
-    "steamCommunity": "Comunidad de Steam",
-    "steamStore": "Tienda de Steam",
+    "reddit": "Reddit",
+    "youtube": "YouTube",
+    "officialSite": "Sitio Oficial",
     "about": "Acerca de",
-    "privacy": "Política de privacidad",
-    "terms": "Términos de servicio",
-    "copyrightNotice": "Derechos de autor",
-    "copyright": "© 2026 Wiki de Lucid Blocks. No afiliada con los desarrolladores de Lucid Blocks.",
-    "disclaimer": "Sitio web de recursos no oficial creado por fans."
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "copyrightNotice": "Copyright",
+    "copyright": "© 2026 CookieRun: OvenSmash Wiki. No afiliado con Devsisters.",
+    "disclaimer": "Sitio web no oficial creado por fans."
   },
   "pages": {
-    "guides": {
-      "title": "Guías de Lucid Blocks",
-      "description": "Guías completas de juego, desde conceptos básicos para principiantes hasta estrategias avanzadas de Apotheosis. Domina la supervivencia y la fabricación.",
-      "metaTitle": "Guías de Lucid Blocks - Estrategias de principiante a avanzado",
-      "metaDescription": "Guías completas de Lucid Blocks que cubren consejos para principiantes, el sistema Apotheosis, estrategias de supervivencia y tácticas expertas para dominar este sandbox surrealista.",
-      "categoryLabel": "GUÍAS DEL JUEGO",
-      "whatIs": "¿Qué son las guías?",
-      "whatIsDescription": "Guías exhaustivas que cubren mecánicas de juego, estrategias de supervivencia y el sistema de fabricación Apotheosis. Aprende todo, desde los primeros pasos hasta técnicas avanzadas.",
-      "why": "¿Por qué leer las guías?",
+    "guide": {
+      "title": "Guía de Cookie Run: OvenSmash",
+      "description": "Guías completas que cubren consejos para principiantes, misiones del reino, trajes exclusivos y estrategias avanzadas para Cookie Run: OvenSmash.",
+      "metaTitle": "Guía de Cookie Run: OvenSmash - Consejos y Estrategias para Principiantes",
+      "metaDescription": "Domina Cookie Run: OvenSmash con guías para principiantes, tutoriales de misiones del reino, guías de trajes y estrategias avanzadas de juego.",
+      "categoryLabel": "GUÍA",
+      "whatIs": "¿Qué son las Guías de Cookie Run: OvenSmash?",
+      "whatIsDescription": "Guías completas que cubren desde los conceptos básicos de la primera sesión hasta tácticas PvP avanzadas, misiones del reino y desbloqueos de trajes exclusivos en Cookie Run: OvenSmash.",
+      "why": "¿Por qué leer las guías de Cookie Run: OvenSmash?",
       "whySteps": {
-        "step1Title": "Aprende las mecánicas principales",
-        "step1Description": "Entiende el sistema Apotheosis y evita errores comunes de principiante",
-        "step2Title": "Progresión rápida",
-        "step2Description": "Sigue caminos probados para sobrevivir y prosperar en este mundo surrealista",
-        "step3Title": "Domina las estrategias",
-        "step3Description": "Desarrolla tácticas avanzadas para la exploración y la fabricación"
+        "step1Title": "Domina lo Básico",
+        "step1Description": "Aprende los controles, el flujo de partidas y los roles de las Cookies desde tu primera sesión",
+        "step2Title": "Completa Misiones",
+        "step2Description": "Sigue tutoriales paso a paso para las misiones del reino y las quests de eventos",
+        "step3Title": "Desbloquea Trajes",
+        "step3Description": "Descubre cómo obtener trajes exclusivos y personalizar tus Cookies"
       },
-      "featured": "Destacado y esencial",
-      "all": "Todas las guías"
+      "featured": "Guías Esenciales",
+      "all": "Todas las Guías"
     },
-    "crafting": {
-      "title": "Fabricación en Lucid Blocks",
-      "description": "Domina el sistema de fusión Apotheosis con mecánicas de esencia, recetas y estrategias de fabricación para objetos poderosos.",
-      "metaTitle": "Fabricación en Lucid Blocks - Sistema Apotheosis y recetas",
-      "metaDescription": "Domina el sistema de fabricación Apotheosis de Lucid Blocks. Aprende mecánicas de esencia, recetas de fusión y estrategias para crear herramientas y armas poderosas.",
-      "categoryLabel": "SISTEMA DE FABRICACIÓN",
-      "whatIs": "¿Qué es la fabricación?",
-      "whatIsDescription": "El sistema Apotheosis es una mecánica de fusión única impulsada por esencias donde combinas hasta seis objetos para descubrir nuevas recetas. Sin menús de fabricación fijos: la experimentación es la clave.",
-      "why": "¿Por qué dominar la fabricación?",
+    "codes": {
+      "title": "Códigos de Cookie Run: OvenSmash",
+      "description": "Últimos códigos de cupón activos para Cristales, Monedas y recompensas gratis. Actualizado con cada nuevo lanzamiento.",
+      "metaTitle": "Códigos de Cookie Run: OvenSmash - Cristales y Recompensas Gratis",
+      "metaDescription": "Obtén Cristales, Monedas y artículos gratis con códigos activos de Cookie Run: OvenSmash. Lista actualizada con códigos que funcionan y guía de canje paso a paso.",
+      "categoryLabel": "CÓDIGOS",
+      "whatIs": "¿Qué son los Códigos de Cookie Run: OvenSmash?",
+      "whatIsDescription": "Los códigos de cupón son claves promocionales especiales lanzadas por Devsisters que otorgan Cristales, Monedas y artículos del juego gratis. Canjéalos a través de la página oficial de cupones de DevPlay.",
+      "why": "¿Por qué usar los códigos de Cookie Run: OvenSmash?",
       "whySteps": {
-        "step1Title": "Desbloquea objetos poderosos",
-        "step1Description": "Descubre herramientas esenciales, armas y equipo de movilidad a través de la fusión",
-        "step2Title": "Entiende las esencias",
-        "step2Description": "Aprende cómo se combinan las esencias de los objetos para crear resultados predecibles",
-        "step3Title": "Optimiza recursos",
-        "step3Description": "Usa mecánicas de dilución para maximizar la producción con materiales baratos"
+        "step1Title": "Recursos Gratis",
+        "step1Description": "Recibe Cristales, Monedas y artículos instantáneamente sin gastar dinero real",
+        "step2Title": "Acelera el Progreso",
+        "step2Description": "Usa las recompensas gratuitas para invocar Cookies y mejorar tu equipo más rápido",
+        "step3Title": "Recompensas por Tiempo Limitado",
+        "step3Description": "Los códigos expiran rápido — canjéalos antes de que se desactiven"
       },
-      "featured": "Destacado y esencial",
-      "all": "Todas las guías de fabricación"
+      "featured": "Códigos Activos",
+      "all": "Todos los Códigos"
     },
-    "items": {
-      "title": "Objetos de Lucid Blocks",
-      "description": "Guías detalladas de objetos que cubren herramientas, armas, equipo de movilidad y soluciones de almacenamiento con recetas de fabricación y consejos de uso.",
-      "metaTitle": "Objetos de Lucid Blocks - Guía de herramientas, armas y equipo",
-      "metaDescription": "Base de datos completa de objetos para Lucid Blocks, incluyendo herramientas, armas, equipo de movilidad y almacenamiento. Aprende a fabricar y usar cada objeto de manera efectiva.",
-      "categoryLabel": "OBJETOS Y EQUIPAMIENTO",
-      "whatIs": "¿Qué son los objetos?",
-      "whatIsDescription": "Guías exhaustivas de herramientas, armas, equipo de movilidad y objetos funcionales. Aprende recetas de fabricación, estrategias de uso y combinaciones óptimas.",
-      "why": "¿Por qué consultar las guías de objetos?",
+    "ranking": {
+      "title": "Ranking de Cookie Run: OvenSmash",
+      "description": "Tier list del meta actual que clasifica todas las Cookies por fuerza, impacto de rol y viabilidad competitiva.",
+      "metaTitle": "Tier List y Rankings de Cookie Run: OvenSmash - Mejores Cookies",
+      "metaDescription": "Tier list de Cookie Run: OvenSmash que clasifica cada Cookie por fuerza en el meta, efectividad de rol y rendimiento en ranked. Encuentra los mejores personajes para jugar.",
+      "categoryLabel": "RANKING",
+      "whatIs": "¿Qué es el Ranking de Cookie Run: OvenSmash?",
+      "whatIsDescription": "La tier list clasifica cada Cookie por su fuerza actual en el meta, impacto de rol y capacidad de convertir victorias en todos los modos de juego competitivos en Cookie Run: OvenSmash.",
+      "why": "¿Por qué revisar los rankings de Cookie Run: OvenSmash?",
       "whySteps": {
-        "step1Title": "Aprende recetas de fabricación",
-        "step1Description": "Descubre cómo fabricar herramientas y armas esenciales usando Apotheosis",
-        "step2Title": "Optimiza tu equipamiento",
-        "step2Description": "Elige los mejores objetos para tu estilo de juego y etapa de progresión",
-        "step3Title": "Mejora tu supervivencia",
-        "step3Description": "Equípate con equipo de movilidad y armas para navegar por este mundo peligroso"
+        "step1Title": "Elige Cookies Fuertes",
+        "step1Description": "Conoce qué Cookies dominan el meta competitivo actual",
+        "step2Title": "Planifica tu Roster",
+        "step2Description": "Invierte recursos en Cookies que seguirán siendo relevantes entre parches",
+        "step3Title": "Contrarresta el Meta",
+        "step3Description": "Entiende los emparejamientos para contrarrestar los picks de alto nivel populares"
       },
-      "featured": "Destacado y esencial",
-      "all": "Todos los objetos"
+      "featured": "Rankings Actuales",
+      "all": "Tier List Completa"
     },
-    "biomes": {
-      "title": "Biomas de Lucid Blocks",
-      "description": "Explora las regiones del mundo, características ambientales, ubicaciones de recursos y consejos de supervivencia para cada bioma.",
-      "metaTitle": "Biomas de Lucid Blocks - Regiones del mundo y exploración",
-      "metaDescription": "Explora los biomas de Lucid Blocks, incluyendo las Líneas Ley de Tiamana, Fog Meadow y regiones surrealistas. Encuentra recursos, evita peligros y navega por un mundo infinito.",
-      "categoryLabel": "REGIONES DEL MUNDO",
-      "whatIs": "¿Qué son los biomas?",
-      "whatIsDescription": "Guías de las diferentes regiones del mundo, características ambientales, distribución de recursos y zonas de peligro. Aprende qué esperar y cómo prepararte para cada área.",
-      "why": "¿Por qué explorar los biomas?",
+    "cookies": {
+      "title": "Cookies de Cookie Run: OvenSmash",
+      "description": "Roster completo de personajes con roles, rarezas, habilidades y consejos prácticos de uso para cada Cookie.",
+      "metaTitle": "Cookies de Cookie Run: OvenSmash - Lista Completa de Personajes y Roles",
+      "metaDescription": "Lista completa de personajes de Cookie Run: OvenSmash con roles, rarezas, habilidades y rankings de tier. Encuentra la mejor Cookie para tu estilo de juego.",
+      "categoryLabel": "COOKIES",
+      "whatIs": "¿Qué son las Cookies de Cookie Run: OvenSmash?",
+      "whatIsDescription": "Las Cookies son los personajes jugables en Cookie Run: OvenSmash. Cada Cookie tiene un rol definido (Tanque, Daño, Control o Soporte), habilidades únicas y una habilidad definitiva.",
+      "why": "¿Por qué aprender sobre las Cookies de Cookie Run: OvenSmash?",
       "whySteps": {
-        "step1Title": "Encuentra recursos",
-        "step1Description": "Localiza materiales raros y esencias específicas de cada región",
-        "step2Title": "Evita peligros",
-        "step2Description": "Entiende los riesgos ambientales y las criaturas hostiles",
-        "step3Title": "Planifica tu exploración",
-        "step3Description": "Prepara las herramientas y el equipo adecuados para cada tipo de bioma"
+        "step1Title": "Elige tu Principal",
+        "step1Description": "Encuentra la Cookie que se adapte a tu estilo de juego y rol preferidos",
+        "step2Title": "Comprende las Habilidades",
+        "step2Description": "Aprende el kit de cada Cookie para maximizar la efectividad en batalla",
+        "step3Title": "Construye con Inteligencia",
+        "step3Description": "Invierte recursos en las Cookies con el mayor rendimiento"
       },
-      "featured": "Destacado y esencial",
-      "all": "Todos los biomas"
+      "featured": "Cookies Destacadas",
+      "all": "Todas las Cookies"
     },
-    "building": {
-      "title": "Construcción en Lucid Blocks",
-      "description": "Domina las dimensiones personales Qualia, la construcción de bases, la gestión de almacenamiento y técnicas creativas de construcción.",
-      "metaTitle": "Construcción en Lucid Blocks - Qualia y construcción de bases",
-      "metaDescription": "Domina la construcción en Lucid Blocks con las dimensiones personales Qualia, construcción de bases, soluciones de almacenamiento y técnicas creativas de construcción.",
-      "categoryLabel": "CONSTRUCCIÓN Y BASES",
-      "whatIs": "¿Qué es la construcción?",
-      "whatIsDescription": "Guías sobre el sistema de dimensiones personales Qualia, construcción de bases, gestión de almacenamiento y construcción creativa. Aprende a crear tu refugio seguro en este mundo surrealista.",
-      "why": "¿Por qué construir bases?",
+    "download": {
+      "title": "Descarga de Cookie Run: OvenSmash",
+      "description": "Descarga Cookie Run: OvenSmash en iOS, Android, PC vía Google Play Games, BlueStacks o Steam.",
+      "metaTitle": "Descarga de Cookie Run: OvenSmash - PC, iOS, Android y APK",
+      "metaDescription": "Descarga Cookie Run: OvenSmash en PC, iOS, Android, BlueStacks y Steam. Guía completa de instalación con descarga de APK e instrucciones de configuración de emulador.",
+      "categoryLabel": "DESCARGAR",
+      "whatIs": "¿Cómo Descargar Cookie Run: OvenSmash?",
+      "whatIsDescription": "Cookie Run: OvenSmash está disponible en iOS y Android. Los jugadores de PC pueden usar Google Play Games, el emulador BlueStacks o esperar el lanzamiento en Steam.",
+      "why": "¿Por qué descargar Cookie Run: OvenSmash?",
       "whySteps": {
-        "step1Title": "Crea espacios seguros",
-        "step1Description": "Establece bases seguras para el almacenamiento y las operaciones de fabricación",
-        "step2Title": "Gestiona tus recursos",
-        "step2Description": "Organiza tus materiales de manera eficiente con soluciones de almacenamiento",
-        "step3Title": "Desbloquea Qualia",
-        "step3Description": "Accede a dimensiones de bolsillo personales para la máxima comodidad"
+        "step1Title": "Juego Multiplataforma",
+        "step1Description": "Juega en móvil o PC con la misma cuenta y progreso",
+        "step2Title": "Ventajas en PC",
+        "step2Description": "Disfruta de mejores controles y pantalla más grande para partidas competitivas",
+        "step3Title": "Configuración Fácil",
+        "step3Description": "Sigue guías paso a paso para tu plataforma preferida"
       },
-      "featured": "Destacado y esencial",
-      "all": "Todas las guías de construcción"
+      "featured": "Descargas Populares",
+      "all": "Todas las Guías de Descarga"
     },
-    "support": {
-      "title": "Soporte de Lucid Blocks",
-      "description": "Soporte técnico, compatibilidad de plataformas, optimización de rendimiento y solución de problemas comunes.",
-      "metaTitle": "Soporte de Lucid Blocks - Ayuda técnica y soluciones",
-      "metaDescription": "Obtén soporte técnico para Lucid Blocks, incluyendo la configuración de Steam Deck, soluciones a cierres inesperados, optimización de rendimiento y guías de compatibilidad de plataformas.",
-      "categoryLabel": "SOPORTE TÉCNICO",
-      "whatIs": "¿Qué es el soporte?",
-      "whatIsDescription": "Guías técnicas que cubren la compatibilidad de plataformas, optimización de rendimiento, soluciones a cierres inesperados y problemas comunes. Obtén ayuda con Steam Deck, preguntas sobre multijugador y ajustes.",
-      "why": "¿Por qué consultar el soporte?",
+    "release": {
+      "title": "Info de Lanzamiento de Cookie Run: OvenSmash",
+      "description": "Fechas de lanzamiento, detalles de pre-registro, anuncios oficiales e información del editor regional.",
+      "metaTitle": "Fecha de Lanzamiento e Info de Cookie Run: OvenSmash",
+      "metaDescription": "Fecha de lanzamiento de Cookie Run: OvenSmash, info de pre-registro, detalles del lanzamiento regional de VNG y anuncios oficiales de Devsisters.",
+      "categoryLabel": "LANZAMIENTO",
+      "whatIs": "¿Qué es la Info de Lanzamiento de Cookie Run: OvenSmash?",
+      "whatIsDescription": "Cronología oficial de lanzamiento, hitos de pre-registro, cronogramas de lanzamiento global y regional, y detalles de la asociación con el editor para Cookie Run: OvenSmash.",
+      "why": "¿Por qué seguir la info de lanzamiento de Cookie Run: OvenSmash?",
       "whySteps": {
-        "step1Title": "Soluciona problemas técnicos",
-        "step1Description": "Resuelve cierres inesperados, problemas de rendimiento y de compatibilidad",
-        "step2Title": "Optimiza el rendimiento",
-        "step2Description": "Configura los ajustes para obtener la mejor experiencia en tu plataforma",
-        "step3Title": "Compatibilidad de plataformas",
-        "step3Description": "Aprende sobre Steam Deck, soporte para controles y requisitos del sistema"
+        "step1Title": "Recompensas de Pre-Registro",
+        "step1Description": "Reclama recompensas exclusivas de lanzamiento al pre-registrarte antes del lanzamiento",
+        "step2Title": "Disponibilidad Regional",
+        "step2Description": "Verifica cuándo lanza Cookie Run: OvenSmash en tu región",
+        "step3Title": "Actualizaciones Oficiales",
+        "step3Description": "Mantente informado con anuncios directamente de Devsisters y VNG"
       },
-      "featured": "Destacado y esencial",
-      "all": "Todos los artículos de soporte"
+      "featured": "Últimas Noticias de Lanzamiento",
+      "all": "Toda la Info de Lanzamiento"
+    },
+    "issues": {
+      "title": "Problemas y Soluciones de Cookie Run: OvenSmash",
+      "description": "Soluciones para errores comunes, cuelgues, lag, pantallas negras y problemas de conexión al servidor.",
+      "metaTitle": "Problemas de Cookie Run: OvenSmash - Arreglos de Errores y Solución de Problemas",
+      "metaDescription": "Soluciona problemas de Cookie Run: OvenSmash incluyendo códigos de error, lag, pantalla negra, cuelgues y fallos de conexión al servidor. Guía de solución de problemas paso a paso.",
+      "categoryLabel": "PROBLEMAS",
+      "whatIs": "¿Qué son los Problemas de Cookie Run: OvenSmash?",
+      "whatIsDescription": "Problemas técnicos comunes que encuentran los jugadores incluyendo códigos de error, fallos de conexión, picos de lag, pantallas negras y cuelgues de la app en diferentes dispositivos.",
+      "why": "¿Por qué revisar la solución de problemas de Cookie Run: OvenSmash?",
+      "whySteps": {
+        "step1Title": "Arreglos Rápidos",
+        "step1Description": "Resuelve errores comunes y vuelve al juego rápidamente",
+        "step2Title": "Soluciones Específicas por Dispositivo",
+        "step2Description": "Encuentra arreglos adaptados a tu dispositivo específico y versión de SO",
+        "step3Title": "Previene Problemas Futuros",
+        "step3Description": "Aprende ajustes y hábitos que minimizan los cuelgues y el lag"
+      },
+      "featured": "Problemas Comunes",
+      "all": "Todos los Problemas y Soluciones"
+    },
+    "media": {
+      "title": "Media y Comunidad de Cookie Run: OvenSmash",
+      "description": "Canales sociales oficiales, hubs de la comunidad, creadores de contenido y recursos de media.",
+      "metaTitle": "Media de Cookie Run: OvenSmash - Discord, Reddit, YouTube y Más",
+      "metaDescription": "Únete a la comunidad de Cookie Run: OvenSmash en Discord, Reddit, YouTube, Twitter y Facebook. Encuentra canales oficiales y recursos de la comunidad.",
+      "categoryLabel": "MEDIA",
+      "whatIs": "¿Qué es la Media de Cookie Run: OvenSmash?",
+      "whatIsDescription": "Canales oficiales y de la comunidad donde los jugadores comparten estrategias, discuten actualizaciones, reportan errores y se conectan con otros fans de Cookie Run: OvenSmash.",
+      "why": "¿Por qué unirse a las comunidades de Cookie Run: OvenSmash?",
+      "whySteps": {
+        "step1Title": "Recibe Actualizaciones Primero",
+        "step1Description": "Los canales oficiales comparten códigos, eventos y notas de parche antes que nadie",
+        "step2Title": "Encuentra Equipos",
+        "step2Description": "Conéctate con jugadores para grupos, partidas ranked e invitaciones de amigos",
+        "step3Title": "Aprende Estrategias",
+        "step3Description": "Mira a creadores de contenido y discute el meta con jugadores experimentados"
+      },
+      "featured": "Canales Oficiales",
+      "all": "Todos los Medios y Comunidad"
     }
   }
 }
