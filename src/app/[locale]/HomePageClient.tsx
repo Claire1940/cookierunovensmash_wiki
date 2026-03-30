@@ -815,24 +815,29 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
             <h2 className="text-4xl md:text-5xl font-bold mb-4">{t.modules.ovenCrownRoad.title}</h2>
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.ovenCrownRoad.intro}</p>
           </div>
-          <div className="scroll-reveal space-y-4 mb-8">
+          <div className="scroll-reveal space-y-6">
             {t.modules.ovenCrownRoad.steps.map((step: any, index: number) => (
-              <div key={index} className="flex gap-4 p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
-                <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[hsl(var(--nav-theme)/0.2)] border-2 border-[hsl(var(--nav-theme)/0.5)] flex items-center justify-center">
-                  <span className="text-xl font-bold text-[hsl(var(--nav-theme-light))]">{index + 1}</span>
+              <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
+                <div className="flex gap-4 mb-4">
+                  <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[hsl(var(--nav-theme)/0.2)] border-2 border-[hsl(var(--nav-theme)/0.5)] flex items-center justify-center">
+                    <span className="text-xl font-bold text-[hsl(var(--nav-theme-light))]">{index + 1}</span>
+                  </div>
+                  <div>
+                    <h3 className="text-xl font-bold mb-2">{step.title}</h3>
+                    <p className="text-muted-foreground">{step.description}</p>
+                  </div>
                 </div>
-                <div>
-                  <h3 className="text-xl font-bold mb-2">{step.title}</h3>
-                  <p className="text-muted-foreground">{step.description}</p>
-                </div>
+                {step.details && (
+                  <div className="ml-16 grid grid-cols-1 md:grid-cols-2 gap-2">
+                    {step.details.map((d: string, di: number) => (
+                      <div key={di} className="flex items-start gap-2">
+                        <Crown className="w-4 h-4 text-[hsl(var(--nav-theme-light))] mt-0.5 flex-shrink-0" />
+                        <span className="text-sm text-muted-foreground">{d}</span>
+                      </div>
+                    ))}
+                  </div>
+                )}
               </div>
-            ))}
-          </div>
-          <div className="scroll-reveal flex flex-wrap gap-3 justify-center">
-            {t.modules.ovenCrownRoad.milestones.map((m: string, i: number) => (
-              <span key={i} className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-sm">
-                <Crown className="w-4 h-4 text-[hsl(var(--nav-theme-light))]" />{m}
-              </span>
             ))}
           </div>
         </div>
@@ -843,6 +848,9 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4">{t.modules.summonGuide.title}</h2>
+            {t.modules.summonGuide.subtitle && (
+              <p className="text-muted-foreground text-base max-w-3xl mx-auto mb-3">{t.modules.summonGuide.subtitle}</p>
+            )}
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.summonGuide.intro}</p>
           </div>
           <div className="scroll-reveal space-y-2">
@@ -859,7 +867,24 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
                   <ChevronDown className={`w-5 h-5 flex-shrink-0 transition-transform ${summonExpanded === index ? 'rotate-180' : ''}`} />
                 </button>
                 {summonExpanded === index && (
-                  <div className="px-5 pb-5 text-muted-foreground text-sm">{summon.description}</div>
+                  <div className="px-5 pb-5 space-y-3">
+                    {summon.summary && (
+                      <p className="text-muted-foreground text-sm font-medium">{summon.summary}</p>
+                    )}
+                    {summon.description && !summon.summary && (
+                      <p className="text-muted-foreground text-sm">{summon.description}</p>
+                    )}
+                    {summon.details && (
+                      <div className="space-y-2">
+                        {summon.details.map((d: string, di: number) => (
+                          <div key={di} className="flex items-start gap-2">
+                            <Check className="w-4 h-4 text-[hsl(var(--nav-theme-light))] mt-0.5 flex-shrink-0" />
+                            <span className="text-sm text-muted-foreground">{d}</span>
+                          </div>
+                        ))}
+                      </div>
+                    )}
+                  </div>
                 )}
               </div>
             ))}
@@ -872,15 +897,32 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4">{t.modules.inviteCodes.title}</h2>
+            {t.modules.inviteCodes.subtitle && (
+              <p className="text-muted-foreground text-base max-w-3xl mx-auto mb-3">{t.modules.inviteCodes.subtitle}</p>
+            )}
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.inviteCodes.intro}</p>
           </div>
-          <div className="scroll-reveal space-y-3">
-            {t.modules.inviteCodes.howItWorks.map((entry: any) => (
-              <div key={entry.step} className="flex gap-4 p-5 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
-                <div className="flex-shrink-0 w-10 h-10 rounded-full bg-[hsl(var(--nav-theme)/0.2)] flex items-center justify-center">
-                  <span className="text-sm font-bold text-[hsl(var(--nav-theme-light))]">{entry.step}</span>
+          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4">
+            {t.modules.inviteCodes.items.map((item: any, index: number) => (
+              <div key={index} className="p-5 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
+                <div className="flex items-center gap-2 mb-2">
+                  <UserPlus className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
+                  <h3 className="font-bold text-sm">{item.title}</h3>
                 </div>
-                <p className="text-muted-foreground text-sm pt-2">{entry.instruction}</p>
+                <div className="flex items-center gap-2 mb-2">
+                  <code className="text-sm font-mono font-bold text-[hsl(var(--nav-theme-light))] bg-[hsl(var(--nav-theme)/0.1)] px-2 py-0.5 rounded">{item.code}</code>
+                </div>
+                <p className="text-sm font-semibold text-foreground mb-3">{item.reward}</p>
+                {item.notes && (
+                  <div className="space-y-1.5">
+                    {item.notes.map((note: string, ni: number) => (
+                      <div key={ni} className="flex items-start gap-2">
+                        <Check className="w-4 h-4 text-[hsl(var(--nav-theme-light))] mt-0.5 flex-shrink-0" />
+                        <span className="text-xs text-muted-foreground">{note}</span>
+                      </div>
+                    ))}
+                  </div>
+                )}
               </div>
             ))}
           </div>
@@ -892,6 +934,9 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4">{t.modules.friendsParty.title}</h2>
+            {t.modules.friendsParty.subtitle && (
+              <p className="text-muted-foreground text-base max-w-3xl mx-auto mb-3">{t.modules.friendsParty.subtitle}</p>
+            )}
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.friendsParty.intro}</p>
           </div>
           <div className="scroll-reveal space-y-4">

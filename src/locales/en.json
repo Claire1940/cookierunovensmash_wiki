@@ -590,98 +590,275 @@
     "ovenCrownRoad": {
       "title": "CookieRun: OvenSmash Oven Crown Road Guide",
       "displayType": "steps",
-      "intro": "The Oven Crown Road is CookieRun: OvenSmash's long-term progression ladder. Climbing it unlocks milestone rewards including Crystals, Coins, Cookie Soulchips, and cosmetic items. Efficient climbing depends on consistent daily play and winning matches.",
+      "intro": "Oven Crown Road is the game's long-term reward track. Winning more matches pushes your total Oven Crowns higher and unlocks soulchips, summon tickets, boxes, and more. The published reward track currently runs up to 56,800 Crowns with rank bands from Bronze to Challenger.",
       "steps": [
         {
-          "title": "Complete Oven Crown Road milestones regularly",
-          "description": "Each rank milestone on the Oven Crown Road provides rewards that directly accelerate your Cookie upgrades and summoning power."
+          "title": "Understand what counts toward the Road",
+          "description": "Oven Crown Road progress comes from the total Oven Crowns you earn by winning battles. The more wins you stack, the faster you unlock Road rewards.",
+          "details": [
+            "Crowns are earned through battle wins.",
+            "Progress is based on total Oven Crowns earned.",
+            "The reward track is shared across your overall progression rather than tied to one single Cookie."
+          ]
         },
         {
-          "title": "Win matches to earn Crown Road points faster",
-          "description": "Winning ranked and casual matches provides the most efficient Crown Road progression. Focus on modes where your main Cookie performs best."
+          "title": "Know the rank ladder before you push",
+          "description": "The Road is divided into Bronze, Silver, Gold, Platinum, Diamond, Master, and Challenger, each with sub-ranks. Early ranks mainly hand out soulchip materials, while later ranks shift into repeatable ticket milestones.",
+          "details": [
+            "Bronze I-V",
+            "Silver I-V",
+            "Gold I-V",
+            "Platinum I-V",
+            "Diamond I-V",
+            "Master I-V",
+            "Challenger I-V"
+          ]
         },
         {
-          "title": "Claim milestone rewards immediately",
-          "description": "Check the Crown Road screen regularly and collect earned rewards. Unclaimed rewards do not compound, so pick them up as soon as possible."
+          "title": "Clear the early Bronze and Silver milestones",
+          "description": "The first part of the Road is packed with soulchip materials that help your roster come online quickly.",
+          "details": [
+            "0 Crowns: Bronze I — 80 Cherry Cookie's Soulchips",
+            "100 Crowns: Bronze II — 160 Common Soulchip Choice Boxes",
+            "250 Crowns: Bronze III — 80 Rare Soulchip Choice Packs",
+            "500 Crowns: Bronze IV — 40 Epic Soulchip Choice Packs",
+            "750 Crowns: Bronze V — 240 Common Soulchip Choice Boxes",
+            "1,000 Crowns: Silver I — 120 Rare Soulchip Choice Boxes",
+            "1,250 Crowns: Silver II — 60 Epic Soulchip Choice Boxes",
+            "1,500 Crowns: Silver III — 320 Common Soulchip Choice Packs",
+            "1,750 Crowns: Silver IV — 160 Rare Soulchip Choice Packs",
+            "2,000 Crowns: Silver V — 80 Rare Soulchip Choice Packs"
+          ]
         },
         {
-          "title": "Plan upgrades around Crown Road rewards",
-          "description": "Time your upgrade spending with expected Crown Road payouts. This prevents running out of Coins or Crystals at critical progression points."
+          "title": "Use Gold and Platinum to stock summon resources",
+          "description": "From Gold onward, the Road alternates between Soulchip Remix Tickets and General Summon Tickets, making this the first major pull-resource stretch.",
+          "details": [
+            "2,300 Crowns: Gold I — 1 Soulchip Remix Ticket",
+            "3,000 Crowns: Gold II — 5 General Summon Tickets",
+            "4,000 Crowns: Gold III — 1 Soulchip Remix Ticket",
+            "5,000 Crowns: Gold IV — 5 General Summon Tickets",
+            "6,000 Crowns: Gold V — 1 Soulchip Remix Ticket",
+            "7,000 Crowns: Platinum I — 5 General Summon Tickets",
+            "8,000 Crowns: Platinum II — 1 Soulchip Remix Ticket",
+            "9,000 Crowns: Platinum III — 5 General Summon Tickets",
+            "10,000 Crowns: Platinum IV — 1 Soulchip Remix Ticket",
+            "11,000 Crowns: Platinum V — 5 General Summon Tickets"
+          ]
+        },
+        {
+          "title": "Plan the long climb through Diamond, Master, and Challenger",
+          "description": "The published late-game breakdown compresses each band into milestone ranges, and each listed sub-rank milestone in these bands awards a Soulchip Remix Ticket.",
+          "details": [
+            "12,000 to 24,000 Crowns: Diamond I to Diamond V — 1 Soulchip Remix Ticket at the listed milestones",
+            "27,000 to 39,000 Crowns: Master I to Master V — 1 Soulchip Remix Ticket at the listed milestones",
+            "42,000 to 54,000 Crowns: Challenger I to Challenger V — 1 Soulchip Remix Ticket at the listed milestones",
+            "The current published Road endpoint is 56,800 Oven Crowns."
+          ]
+        },
+        {
+          "title": "Push smarter, not just longer",
+          "description": "Win consistently, stick to a small core roster, and avoid tilt. That matters more than constantly swapping characters while you are still learning match flow.",
+          "details": [
+            "Focus on wins, because wins are what move the Road forward.",
+            "Master a few strong Cookies first instead of spreading resources too thin.",
+            "Build around team synergy so your matches are easier to close out.",
+            "Take a break after a losing streak to protect your momentum."
+          ]
         }
-      ],
-      "milestones": [
-        "Crystals at rank milestones",
-        "Coins for Cookie upgrades",
-        "Cookie Soulchips for star levels",
-        "Cosmetic rewards and profile items"
       ]
     },
     "summonGuide": {
       "title": "CookieRun: OvenSmash Summon Guide",
       "displayType": "accordion",
-      "intro": "CookieRun: OvenSmash uses several acquisition systems including General Summon, Soulchip Remix, Costume Draw, and box rewards. Understanding how they work helps you spend Crystals and Tickets wisely.",
+      "subtitle": "OvenSmash spreads roster growth across multiple systems instead of one single gacha. This guide groups the official probability tables into the parts that matter most for account growth.",
+      "intro": "Your roster power mainly comes from soulchips, coins, and pull tickets. The official probability pages cover Soulchip Remix, General Summon, Costume Draw, Battle Boxes, and Coin Boxes, while the live coupon page ecosystem can also add extra Crystals for more pulls.",
       "summons": [
         {
           "name": "General Summon",
-          "description": "The standard Crystal-based summon pool. Includes all available Cookies and provides the broadest chance at new roster additions."
+          "summary": "The baseline soulchip pull. Official rates split the result into Common 40%, Rare 40%, and Epic 20%.",
+          "details": [
+            "Common total rate: 40.0000%; possible amounts include 40-59, 60-79, 80-119, 120-159, and 160.",
+            "Rare total rate: 40.0000%; possible amounts include 20-29, 30-39, 40-59, 60-79, and 80.",
+            "Epic total rate: 20.0000%; possible amounts include 5, 6-8, 9-12, 20, and 40.",
+            "Use this when you want broad roster growth across multiple grades instead of a single high-roll target."
+          ]
         },
         {
           "name": "Soulchip Remix",
-          "description": "A targeted summon that focuses on Soulchips for specific Cookies. Best used when you need star upgrades for a Cookie you already own."
+          "summary": "A ticket-based progression pull that always pays out Common, Rare, Epic soulchips, and Coins together, with five official stages.",
+          "details": [
+            "Stage 1: 45.0000% — Common 120-139, Rare 60-69, Epic 20-29, Coins 4,510-5,610.",
+            "Stage 2: 25.0000% — Common 140-159, Rare 70-79, Epic 30-39, Coins 5,720-6,820.",
+            "Stage 3: 15.0000% — Common 160-199, Rare 80-99, Epic 40-59, Coins 6,920-9,230.",
+            "Stage 4: 10.0000% — Common 200-259, Rare 100-129, Epic 60-89, Coins 9,340-12,860.",
+            "Stage 5: 5.0000% — Common 260-319, Rare 130-159, Epic 90-119, Coins 12,960-16,480.",
+            "This is the cleanest system for converting a single ticket into both soulchip progress and coin income."
+          ]
         },
         {
           "name": "Costume Draw",
-          "description": "A Ticket-based draw for cosmetic skins. Costumes do not affect gameplay stats but provide visual customization for your favorite Cookies."
+          "summary": "The cosmetic system uses four official stage buckets, including standard Epic and themed-only Epic outcomes.",
+          "details": [
+            "Stage 1 Common Grade: 49.8421%",
+            "Stage 2 Rare Grade: 33.7587%",
+            "Stage 3 Epic Grade, including Themed and Standard: 10.9077%",
+            "Stage 4 Epic Grade, themed only and including Full Set chance: 5.4916%",
+            "At Stages 1-2, Rainbow Mileage may also appear and is classified as Common grade."
+          ]
         },
         {
-          "name": "Box Rewards",
-          "description": "Event and progression boxes that contain mixed rewards including Coins, Crystals, Soulchips, and upgrade materials."
+          "name": "Battle Boxes",
+          "summary": "Battle Boxes are another major progression source because they roll both upgrade tiers and tier-specific rewards.",
+          "details": [
+            "Battle Box I upgrade chances: Lv1 80.0000%, Lv2 12.5000%, Lv3 6.0000%, Lv4 1.4000%, Lv5 0.1000%, Lv6 0.0020%.",
+            "Battle Box III starts at Lv3 80.0000% and can reach Lv6 1.5000%.",
+            "Battle Box V gives Lv5 80.0000% and Lv6 20.0000%.",
+            "Battle Box VI upgrades to Lv6 100.0000%.",
+            "Lv1 rewards include Common Random Soulchips x20 at 50.0000%, Rare Random Soulchips x10 at 20.0000%, or Coins x1,000 at 30.0000%.",
+            "Lv6 rewards include Epic Random Soulchips x40 at 30.0000%, Coins x10,000 at 30.0000%, Rare Universal Soulchips x40 at 10.0000%, or Epic Universal Soulchips x20 at 30.0000%."
+          ]
+        },
+        {
+          "name": "Coin Boxes",
+          "summary": "Coin Boxes are the cleanest pure-currency source in the official probability tables.",
+          "details": [
+            "Small Coin Box: Stage 1 51.2000% for 4,600-5,600; Stage 2 31.7760% for 5,601-7,600; Stage 3 17.0240% for 7,601-10,600.",
+            "Medium Coin Box: Stage 1 51.2000% for 14,000-17,000; Stage 2 31.7760% for 17,001-23,000; Stage 3 17.0240% for 23,001-32,000.",
+            "Large Coin Box: Stage 1 51.2000% for 28,000-34,000; Stage 2 31.7760% for 34,001-46,000; Stage 3 17.0240% for 46,001-64,000."
+          ]
+        },
+        {
+          "name": "Extra Pull Resources",
+          "summary": "Launch-period codes can add extra Crystals that loop back into your broader pull economy.",
+          "details": [
+            "Active code checked on March 29, 2026: WELCOME2OVENSMASH — 1,000 Crystals.",
+            "Coupon redemption is handled through the official DevPlay coupon page.",
+            "Redeemed rewards are sent to your in-game mailbox."
+          ]
         }
       ]
     },
     "inviteCodes": {
       "title": "CookieRun: OvenSmash Invite Codes",
       "displayType": "codeCards",
-      "intro": "The invite code system in CookieRun: OvenSmash rewards players who bring friends into the game. Both the inviter and the invited player receive bonus rewards through the social event.",
-      "howItWorks": [
+      "subtitle": "This launch event is built around Friendship Points. Your Player ID functions as the invite code, and both milestone rewards and daily quests feed the same point track.",
+      "intro": "Invite Codes in CookieRun: OvenSmash are not fixed universal coupons. They are player-specific invite entries tied to the Invite a Friend event, and the fastest way to finish the reward track is to combine successful invites with the daily Friendship Point quests.",
+      "items": [
         {
-          "step": 1,
-          "instruction": "Find your personal invite code in the Friends menu under the Invite tab."
+          "title": "Your invite code",
+          "code": "Your Player ID",
+          "reward": "Used by another player to enter the Invite a Friend event",
+          "notes": [
+            "The shared invite code is your Player ID.",
+            "When another player enters your code, that player receives 200 Friendship Points."
+          ]
         },
         {
-          "step": 2,
-          "instruction": "Share your invite code with friends who have not yet played CookieRun: OvenSmash."
+          "title": "Successful invite bonus",
+          "code": "One friend enters your Player ID",
+          "reward": "500 Friendship Points",
+          "notes": [
+            "You receive 500 Friendship Points per successful invite.",
+            "This can be done up to 5 times."
+          ]
         },
         {
-          "step": 3,
-          "instruction": "Your friend enters the invite code during the new player tutorial or in the Settings menu."
+          "title": "Daily quest route",
+          "code": "Repeatable event tasks",
+          "reward": "Up to 200 Friendship Points per day",
+          "notes": [
+            "Play 1 time while at a party with a friend: 40 Friendship Points",
+            "Share your invitation code 1 time: 40 Friendship Points",
+            "Play Standard Mode 3 times: 20 Friendship Points",
+            "Use Ultimate 5 times: 20 Friendship Points",
+            "Complete all quests: 80 Friendship Points"
+          ]
         },
         {
-          "step": 4,
-          "instruction": "Both players receive social rewards including Crystals and bonus items."
+          "title": "Milestone: 200 Friendship Points",
+          "code": "200 FP",
+          "reward": "100 Crystals",
+          "notes": [
+            "This is the first point-track reward.",
+            "A single entered invite code is enough to pass this threshold for the invited player."
+          ]
+        },
+        {
+          "title": "Milestone: 600 Friendship Points",
+          "code": "600 FP",
+          "reward": "1 Random Coin Box",
+          "notes": [
+            "This is the second reward breakpoint on the event track."
+          ]
+        },
+        {
+          "title": "Milestone: 1,000 Friendship Points",
+          "code": "1,000 FP",
+          "reward": "1 Black Cat Tail costume",
+          "notes": [
+            "This is the first cosmetic reward on the Invite a Friend track."
+          ]
+        },
+        {
+          "title": "Milestone: 1,500 Friendship Points",
+          "code": "1,500 FP",
+          "reward": "5 Epic Universal Soulchips",
+          "notes": [
+            "This breakpoint adds direct upgrade value on top of the earlier cosmetic milestone."
+          ]
+        },
+        {
+          "title": "Milestone: 2,500 Friendship Points",
+          "code": "2,500 FP",
+          "reward": "1 Black Cat Ears",
+          "notes": [
+            "This is the top listed event milestone in the published reward breakdown."
+          ]
         }
       ]
     },
     "friendsParty": {
       "title": "CookieRun: OvenSmash Friends & Party Guide",
       "displayType": "steps",
-      "intro": "Playing with friends is a core part of CookieRun: OvenSmash. Creating parties and queuing together for 3v3 modes makes coordination easier and matches more fun.",
+      "subtitle": "The friend list and the party lobby are separate UI flows in CookieRun: OvenSmash. Once you know where each menu lives, grouping up is quick and repeatable.",
+      "intro": "CookieRun: OvenSmash does not put friend adding and party creation in the same place, which is why many first-time players miss one of the two systems. Use the Friends menu for account connections and the Party tab for queueing together with up to three players.",
       "steps": [
         {
-          "title": "Add friends using their player ID or search name",
-          "description": "Open the Friends menu, tap Add Friend, and enter the player ID or search for their username."
+          "title": "Go to the Plaza first",
+          "description": "The friend flow starts from the Plaza, which is the main interface area. The Friends icon sits next to the chat rather than inside the Party menu."
         },
         {
-          "title": "Create a party from the lobby",
-          "description": "Tap the Party button in the main lobby, then invite friends from your friend list."
+          "title": "Open the Friends menu",
+          "description": "Tap the Friends icon beside chat while you are in the Plaza. This is the correct place to manage friends and send requests."
         },
         {
-          "title": "Share your party code for quick joins",
-          "description": "Your party generates a code that friends can enter to join directly without needing to be on your friend list."
+          "title": "Add by nickname or Player ID",
+          "description": "You can add someone by entering either their nickname or their Player ID in the search bar at the top of the Friends screen."
         },
         {
-          "title": "Queue together for 3v3 modes",
-          "description": "Once your party is assembled, select a mode and queue together. Party members are placed on the same team."
+          "title": "Use the Add Friend tab for recent players",
+          "description": "If you already played with or against someone, the Add Friend tab can surface those recent players so you do not need to type their information manually."
+        },
+        {
+          "title": "Create a party from the Party tab",
+          "description": "The Party menu is for grouped queueing, not for adding friends. Press Create Party to open your own lobby."
+        },
+        {
+          "title": "Party size is capped at three players",
+          "description": "A party can include up to three players. The party leader handles the queue once the group is assembled."
+        },
+        {
+          "title": "Join another group with a Party Code",
+          "description": "If a friend already made the lobby, press Join and type in their Party Code to enter that party."
+        },
+        {
+          "title": "Copy or share the code from the party screen",
+          "description": "Each party has a unique code. Once the party is created, you can copy the code from the bottom of the screen and send it to your teammates."
+        },
+        {
+          "title": "Use parties for social event progress too",
+          "description": "The Invite a Friend event includes a daily quest for playing one time while at a party with a friend, so grouping up also feeds Friendship Point progress."
         }
       ]
     },
