@@ -606,9 +606,12 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4">{t.modules.cookiesList.title}</h2>
+            {t.modules.cookiesList.subtitle && (
+              <p className="text-muted-foreground text-base max-w-3xl mx-auto mb-3">{t.modules.cookiesList.subtitle}</p>
+            )}
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.cookiesList.intro}</p>
           </div>
-          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4">
             {t.modules.cookiesList.cookies.map((cookie: any, index: number) => {
               const rarityColors: Record<string, string> = {
                 Epic: 'bg-purple-500/10 border-purple-500/30 text-purple-400',
@@ -618,13 +621,19 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
               return (
                 <div key={index} className="p-5 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
                   <div className="flex items-center gap-2 mb-2">
+                    <Users className="w-4 h-4 text-[hsl(var(--nav-theme-light))]" />
                     <h3 className="font-bold text-sm">{cookie.name}</h3>
                   </div>
-                  <div className="flex gap-2 mb-2">
+                  <div className="flex gap-2 mb-3">
                     <span className={`text-xs px-2 py-0.5 rounded-full border ${rarityColors[cookie.rarity] || ''}`}>{cookie.rarity}</span>
                     <span className="text-xs px-2 py-0.5 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)]">{cookie.role}</span>
                   </div>
-                  <p className="text-xs text-muted-foreground">{cookie.description}</p>
+                  {cookie.signature && (
+                    <p className="text-sm text-[hsl(var(--nav-theme-light))] font-medium mb-1">{cookie.signature}</p>
+                  )}
+                  {cookie.bestUse && (
+                    <p className="text-xs text-muted-foreground">{cookie.bestUse}</p>
+                  )}
                 </div>
               )
             })}
@@ -637,6 +646,9 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4">{t.modules.gameModes.title}</h2>
+            {t.modules.gameModes.subtitle && (
+              <p className="text-muted-foreground text-base max-w-3xl mx-auto mb-3">{t.modules.gameModes.subtitle}</p>
+            )}
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.gameModes.intro}</p>
           </div>
           <div className="scroll-reveal space-y-2">
@@ -654,16 +666,33 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
                   <ChevronDown className={`w-5 h-5 flex-shrink-0 transition-transform ${modeExpanded === index ? 'rotate-180' : ''}`} />
                 </button>
                 {modeExpanded === index && (
-                  <div className="px-5 pb-5">
-                    <p className="text-muted-foreground text-sm mb-3">{mode.objective}</p>
-                    <div className="space-y-1.5">
-                      {mode.tips.map((tip: string, ti3: number) => (
-                        <div key={ti3} className="flex items-start gap-2">
-                          <Check className="w-4 h-4 text-[hsl(var(--nav-theme-light))] mt-0.5 flex-shrink-0" />
-                          <span className="text-sm text-muted-foreground">{tip}</span>
-                        </div>
-                      ))}
+                  <div className="px-5 pb-5 space-y-3">
+                    <div>
+                      <p className="text-xs font-semibold text-[hsl(var(--nav-theme-light))] uppercase mb-1">Objective</p>
+                      <p className="text-muted-foreground text-sm">{mode.objective}</p>
                     </div>
+                    {mode.howToWin && (
+                      <div>
+                        <p className="text-xs font-semibold text-[hsl(var(--nav-theme-light))] uppercase mb-1">How to Win</p>
+                        <p className="text-muted-foreground text-sm">{mode.howToWin}</p>
+                      </div>
+                    )}
+                    {mode.bestFor && (
+                      <div>
+                        <p className="text-xs font-semibold text-[hsl(var(--nav-theme-light))] uppercase mb-1">Best For</p>
+                        <p className="text-muted-foreground text-sm">{mode.bestFor}</p>
+                      </div>
+                    )}
+                    {mode.tips && (
+                      <div className="space-y-1.5">
+                        {mode.tips.map((tip: string, ti3: number) => (
+                          <div key={ti3} className="flex items-start gap-2">
+                            <Check className="w-4 h-4 text-[hsl(var(--nav-theme-light))] mt-0.5 flex-shrink-0" />
+                            <span className="text-sm text-muted-foreground">{tip}</span>
+                          </div>
+                        ))}
+                      </div>
+                    )}
                   </div>
                 )}
               </div>
@@ -677,17 +706,36 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4">{t.modules.currencyGuide.title}</h2>
+            {t.modules.currencyGuide.subtitle && (
+              <p className="text-muted-foreground text-base max-w-3xl mx-auto mb-3">{t.modules.currencyGuide.subtitle}</p>
+            )}
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.currencyGuide.intro}</p>
           </div>
           <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
             {t.modules.currencyGuide.currencies.map((currency: any, index: number) => (
               <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
-                <div className="flex items-center gap-2 mb-3">
+                <div className="flex items-center gap-2 mb-1">
                   <Coins className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
                   <h3 className="font-bold">{currency.name}</h3>
                 </div>
-                <p className="text-sm text-muted-foreground mb-2"><span className="font-semibold">Source:</span> {currency.source}</p>
-                <p className="text-sm text-muted-foreground"><span className="font-semibold">Usage:</span> {currency.usage}</p>
+                {currency.type && (
+                  <p className="text-xs text-[hsl(var(--nav-theme-light))] font-medium mb-3">{currency.type}</p>
+                )}
+                {currency.howToGet && (
+                  <p className="text-sm text-muted-foreground mb-2"><span className="font-semibold">How to Get:</span> {currency.howToGet}</p>
+                )}
+                {currency.bestFirstUse && (
+                  <p className="text-sm text-muted-foreground mb-2"><span className="font-semibold">Best First Use:</span> {currency.bestFirstUse}</p>
+                )}
+                {currency.mainUses && (
+                  <p className="text-sm text-muted-foreground"><span className="font-semibold">Main Uses:</span> {currency.mainUses}</p>
+                )}
+                {currency.source && (
+                  <p className="text-sm text-muted-foreground mb-2"><span className="font-semibold">Source:</span> {currency.source}</p>
+                )}
+                {currency.usage && (
+                  <p className="text-sm text-muted-foreground"><span className="font-semibold">Usage:</span> {currency.usage}</p>
+                )}
               </div>
             ))}
           </div>
@@ -713,16 +761,39 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4">{t.modules.rolesGuide.title}</h2>
+            {t.modules.rolesGuide.subtitle && (
+              <p className="text-muted-foreground text-base max-w-3xl mx-auto mb-3">{t.modules.rolesGuide.subtitle}</p>
+            )}
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.rolesGuide.intro}</p>
           </div>
           <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4">
             {t.modules.rolesGuide.roles.map((role: any, index: number) => (
               <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
-                <div className="flex items-center gap-2 mb-3">
+                <div className="flex items-center gap-2 mb-2">
                   <ShieldCheck className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
-                  <h3 className="font-bold text-[hsl(var(--nav-theme-light))]">{role.name}</h3>
+                  <h3 className="font-bold text-lg text-[hsl(var(--nav-theme-light))]">{role.name}</h3>
                 </div>
-                <p className="text-sm text-muted-foreground mb-3">{role.description}</p>
+                {role.summary && (
+                  <p className="text-sm text-muted-foreground mb-3">{role.summary}</p>
+                )}
+                {role.description && !role.summary && (
+                  <p className="text-sm text-muted-foreground mb-3">{role.description}</p>
+                )}
+                {role.responsibilities && (
+                  <div className="space-y-1.5 mb-3">
+                    {role.responsibilities.map((r: string, ri: number) => (
+                      <div key={ri} className="flex items-start gap-2">
+                        <Check className="w-4 h-4 text-[hsl(var(--nav-theme-light))] mt-0.5 flex-shrink-0" />
+                        <span className="text-sm text-muted-foreground">{r}</span>
+                      </div>
+                    ))}
+                  </div>
+                )}
+                {role.playTip && (
+                  <div className="p-3 bg-[hsl(var(--nav-theme)/0.05)] border border-[hsl(var(--nav-theme)/0.2)] rounded-lg mb-3">
+                    <p className="text-xs text-muted-foreground"><span className="font-semibold text-[hsl(var(--nav-theme-light))]">Tip:</span> {role.playTip}</p>
+                  </div>
+                )}
                 <div className="flex flex-wrap gap-1.5">
                   {role.examples.map((ex: string, ei: number) => (
                     <span key={ei} className="text-xs px-2 py-0.5 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)]">{ex}</span>

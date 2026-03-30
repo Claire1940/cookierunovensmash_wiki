@@ -403,174 +403,187 @@
     "cookiesList": {
       "title": "CookieRun: OvenSmash Cookies List",
       "displayType": "table",
-      "intro": "Every Cookie in CookieRun: OvenSmash has a defined role, rarity, and set of abilities. This full character index helps you compare options before committing upgrade resources.",
+      "subtitle": "Browse the current playable roster by rarity, combat role, and practical battlefield job. This module is built for quick lookup after pulls, unlocks, or ranked losses.",
+      "intro": "CookieRun: OvenSmash mixes Tanks, Bruisers, Controllers, Supports, Marksmen, Mages, Assassins, and Bombers across a launch roster of familiar and new Cookies. The fastest way to use this list is to match a Cookie's role with the job your team is missing: engage, sustained damage, control, or healing.",
       "cookies": [
-        { "name": "Dark Choco Cookie", "role": "Bruiser", "rarity": "Epic", "description": "High sustain bruiser who can tank, deal damage, and survive extended fights." },
-        { "name": "Red Velvet Cookie", "role": "Controller", "rarity": "Epic", "description": "Displacement specialist with strong fight control and disruption abilities." },
-        { "name": "Madeleine Cookie", "role": "Tank", "rarity": "Epic", "description": "Sturdy frontliner who creates space and absorbs pressure for the team." },
-        { "name": "Rye Cookie", "role": "Marksman", "rarity": "Rare", "description": "Long-range damage dealer who punishes bad positioning from a distance." },
-        { "name": "Blue Slushy Cookie", "role": "Marksman", "rarity": "Rare", "description": "Fast ranged attacker with quick burst damage and solid poke." },
-        { "name": "String Cheese Cookie", "role": "Marksman", "rarity": "Common", "description": "Versatile marksman with consistent damage output across multiple modes." },
-        { "name": "Latte Cookie", "role": "Mage", "rarity": "Epic", "description": "Area-of-effect mage who controls zones and punishes grouped enemies." },
-        { "name": "Melon Soda Cookie", "role": "Support", "rarity": "Rare", "description": "Team healer who keeps allies alive during objective pushes." },
-        { "name": "Peppermint Cookie", "role": "Support", "rarity": "Rare", "description": "Defensive support who shields teammates and boosts team survivability." },
-        { "name": "Peach Cookie", "role": "Assassin", "rarity": "Epic", "description": "Agile assassin who dives backlines and eliminates high-value targets." },
-        { "name": "Cherry Cookie", "role": "Bomber", "rarity": "Common", "description": "Free starter bomber who still performs at top tier with strong area damage." },
-        { "name": "Bacon Roll Cookie", "role": "Bruiser", "rarity": "Rare", "description": "Aggressive frontliner who trades well in extended brawls." },
-        { "name": "Ice Pop Cookie", "role": "Controller", "rarity": "Epic", "description": "Crowd control specialist with freeze abilities and team-fight impact." },
-        { "name": "Strawberry Crepe Cookie", "role": "Tank", "rarity": "Epic", "description": "Durable tank with shielding mechanics and frontline presence." },
-        { "name": "Jerky Cookie", "role": "Mage", "rarity": "Rare", "description": "Burst mage with strong combo potential and aggressive playstyle." },
-        { "name": "Blueberry Pie Cookie", "role": "Mage", "rarity": "Epic", "description": "Tanky mage who can play aggressively without feeling fragile." },
-        { "name": "Chili Pepper Cookie", "role": "Assassin", "rarity": "Common", "description": "Fast assassin who cleans up fights with strong entry timing." },
-        { "name": "GingerBrave", "role": "Bruiser", "rarity": "Common", "description": "Straightforward and flexible but less impactful than higher-tier bruisers." },
-        { "name": "Fruit Punch Cookie", "role": "Tank", "rarity": "Rare", "description": "Functional tank, though stronger frontline options exist." },
-        { "name": "Tiger Lily Cookie", "role": "Marksman", "rarity": "Rare", "description": "Setup-dependent marksman who improves with progression investment." }
+        { "name": "Madeleine Cookie", "rarity": "Epic", "role": "Tank", "signature": "Reliable engage with area knock-up", "bestUse": "Lead teamfights, start objective contests, and protect ranged carries" },
+        { "name": "Red Velvet Cookie", "rarity": "Epic", "role": "Controller", "signature": "Enemy pull and displacement pressure", "bestUse": "Create picks, drag enemies out of position, and punish clustered teams" },
+        { "name": "String Cheese Cookie", "rarity": "Epic", "role": "Marksman", "signature": "Safe ranged poke with turret support", "bestUse": "Hold backline angles, pressure lanes, and chip enemies before commits" },
+        { "name": "Ice Pop Cookie", "rarity": "Epic", "role": "Controller", "signature": "Freeze-based crowd control", "bestUse": "Lock down targets for follow-up damage and stall tight choke fights" },
+        { "name": "Jerky Cookie", "rarity": "Epic", "role": "Mage", "signature": "Explosive talisman bursts", "bestUse": "Punish grouped enemies and add delayed area pressure in midrange fights" },
+        { "name": "Bacon Roll Cookie", "rarity": "Epic", "role": "Bruiser", "signature": "Sticky melee pressure", "bestUse": "Dive into skirmishes, chase weakened targets, and brawl around objectives" },
+        { "name": "Fruit Punch Cookie", "rarity": "Common", "role": "Tank", "signature": "Simple engage with shielding utility", "bestUse": "Frontline for beginner-friendly teams and soak pressure in grouped fights" },
+        { "name": "Melon Soda Cookie", "rarity": "Rare", "role": "Support", "signature": "Backline utility support", "bestUse": "Stabilize teamfights, help carries stay active, and round out balanced comps" },
+        { "name": "Dark Choco Cookie", "rarity": "Rare", "role": "Bruiser", "signature": "Durable melee pressure with sustain", "bestUse": "Trade aggressively, survive extended fights, and pressure frontline mirrors" },
+        { "name": "Strawberry Crepe Cookie", "rarity": "Rare", "role": "Tank", "signature": "Disruption and summon-based protection", "bestUse": "Block space, set up for teammates, and slow enemy entries into objectives" },
+        { "name": "Peach Cookie", "rarity": "Rare", "role": "Assassin", "signature": "High mobility dive and cleanup", "bestUse": "Punish isolated backliners and snowball after enemies spend cooldowns" },
+        { "name": "Tiger Lily Cookie", "rarity": "Rare", "role": "Marksman", "signature": "Long-range poke with jump-in follow-up", "bestUse": "Harass safely, then collapse when a low target is exposed" },
+        { "name": "Blueberry Pie Cookie", "rarity": "Rare", "role": "Mage", "signature": "Teleport-based burst angles", "bestUse": "Reposition around terrain and threaten midrange burst from unusual lines" },
+        { "name": "Latte Cookie", "rarity": "Rare", "role": "Mage", "signature": "Spell-heavy midline pressure", "bestUse": "Control space with magic damage and support slower, structured teamfights" },
+        { "name": "Peppermint Cookie", "rarity": "Common", "role": "Support", "signature": "Healing and knock-up sustain", "bestUse": "Keep frontline alive, extend fights, and anchor balanced 3v3 comps" },
+        { "name": "Rye Cookie", "rarity": "Common", "role": "Marksman", "signature": "Continuous straight-line gunfire", "bestUse": "Deal steady backline damage and punish enemies who walk predictable routes" },
+        { "name": "Blue Slushy Cookie", "rarity": "Common", "role": "Marksman", "signature": "Clone-arrow poke and lane pressure", "bestUse": "Play open maps, fire through lines, and wear teams down before all-ins" },
+        { "name": "Cherry Cookie", "rarity": "Common", "role": "Bomber", "signature": "Explosive zone control", "bestUse": "Throw pressure over walls, defend objectives, and disrupt enemy pathing" },
+        { "name": "Chili Pepper Cookie", "rarity": "Common", "role": "Assassin", "signature": "Fast burst entry and exit", "bestUse": "Flank exposed targets, finish low enemies, and punish weak backlines" },
+        { "name": "GingerBrave", "rarity": "Common", "role": "Bruiser", "signature": "Simple, flexible starter bruiser kit", "bestUse": "Learn engage timing, survive close combat, and fill gaps in casual lineups" }
       ]
     },
     "gameModes": {
       "title": "CookieRun: OvenSmash Game Modes Guide",
       "displayType": "accordion",
-      "intro": "CookieRun: OvenSmash features six competitive modes, each with unique objectives and win conditions. Understanding how each mode works is one of the fastest ways to improve your early win rate.",
+      "subtitle": "Learn what each current mode asks you to do and what kind of team habits convert more matches into wins. The goal here is not just knowing the rule, but knowing the win pattern.",
+      "intro": "OvenSmash is not a one-plan game. Some modes reward hard engage and area control, while others reward safe rotations, pick pressure, or independent survival. Treat each queue like a different objective puzzle and your results improve much faster.",
       "modes": [
         {
           "name": "Castle Crasher",
-          "teamSize": "3v3",
-          "objective": "Escort the Turtle to the enemy castle or destroy their castle before time runs out.",
-          "tips": [
-            "Stay near the Turtle to push it forward.",
-            "Eliminate enemies to clear the path.",
-            "Coordinate pushes with your team after winning a fight."
-          ]
+          "teamSize": "3v3 Escort",
+          "objective": "Capture the turtle and escort it toward the enemy sandcastle.",
+          "howToWin": "Control space around the turtle, clear defenders before overextending, and finish pushes with numbers advantage.",
+          "bestFor": "Teams with one sturdy frontliner and at least one ranged follow-up damage dealer"
         },
         {
           "name": "Drop the Beat",
-          "teamSize": "3v3",
-          "objective": "Capture and hold the center stage to score points over time.",
-          "tips": [
-            "Control the center zone as a team.",
-            "Group up before contesting the stage.",
-            "Use crowd control to force enemies off the point."
-          ]
+          "teamSize": "3v3 Stage Control",
+          "objective": "Hold the center stage to earn points over time until your team reaches the target score.",
+          "howToWin": "Take first control with engage tools, then cycle in and out of the point instead of stacking in one spot.",
+          "bestFor": "Comps that can contest mid repeatedly and punish enemy over-commits"
         },
         {
-          "name": "Jelly Race",
-          "teamSize": "3v3",
-          "objective": "Collect Jellies scattered across the map and deposit them in the enemy goal.",
-          "tips": [
-            "Split between collecting and defending your goal.",
-            "Carry Jellies as a group for safer deposits.",
-            "Target enemy carriers to steal their Jellies."
-          ]
-        },
-        {
-          "name": "Team Battle",
-          "teamSize": "3v3",
-          "objective": "Reach the target elimination count before the opposing team.",
-          "tips": [
-            "Focus fire on one target to secure eliminations quickly.",
-            "Stay grouped to avoid getting picked off alone.",
-            "Use ultimates during team engagements for maximum impact."
-          ]
-        },
-        {
-          "name": "Cookie Royale",
-          "teamSize": "FFA",
-          "objective": "Be the last Cookie standing in the free-for-all arena.",
-          "tips": [
-            "Play cautiously and let others fight first.",
-            "Save your ultimate for the final showdown.",
-            "Position near the edge to control space."
-          ]
+          "name": "Battle Royale / Wild Royale",
+          "teamSize": "Solo FFA",
+          "objective": "Outlast every other Cookie while collecting power resources and avoiding map hazards.",
+          "howToWin": "Farm safely early, keep track of shrinking safe space, and only take fights that improve your final-position odds.",
+          "bestFor": "Self-sufficient duelists and players comfortable rotating alone"
         },
         {
           "name": "Gnome Battle",
-          "teamSize": "3v3",
-          "objective": "Collect gnomes, build structures, and score more points than the enemy team.",
-          "tips": [
-            "Prioritize gnome collection over fighting.",
-            "Protect your structures once built.",
-            "Disrupt enemy builders to slow their score."
-          ]
+          "teamSize": "3v3 Collection",
+          "objective": "Gather Sugar Gnomes to build your team sculpture before the enemy completes theirs.",
+          "howToWin": "Escort carriers, steal enemy gnomes when possible, and reset quickly after losing control of the center route.",
+          "bestFor": "Mobile teams that can rotate fast and defend turn-ins under pressure"
+        },
+        {
+          "name": "Jelly Deposit",
+          "teamSize": "3v3 Score Race",
+          "objective": "Collect Jellies across the map and deposit them in the enemy goal to earn points.",
+          "howToWin": "Open a scoring path first, then move carriers in waves instead of trickling resources one by one.",
+          "bestFor": "Teams with speed, peel, and strong re-entry after short skirmishes"
+        },
+        {
+          "name": "Smash Arena",
+          "teamSize": "3v3 Knockout",
+          "objective": "Defeat enemies until your team reaches the required elimination count first.",
+          "howToWin": "Take clean 3v2 or 3v1 trades, disengage from bad fights early, and never donate free deaths while regrouping.",
+          "bestFor": "Direct combat teams with reliable engage, burst, or strong pick tools"
         }
       ]
     },
     "currencyGuide": {
       "title": "CookieRun: OvenSmash Currency Guide",
       "displayType": "table",
-      "intro": "CookieRun: OvenSmash uses several currencies that each serve different purposes. Smart spending early prevents wasted resources and keeps your progression efficient.",
+      "subtitle": "Use this module to understand which currencies matter most, how they enter your account, and what they should be spent on first. Good resource habits speed up both roster growth and match performance.",
+      "intro": "The biggest early trap in OvenSmash is spreading resources across too many Cookies too fast. Your best early value usually comes from strengthening a small core roster, using premium resources for real progression, and treating cosmetics and wide roster spending as later goals.",
       "currencies": [
         {
-          "name": "Crystals",
-          "source": "Quests, events, coupon codes, Oven Crown Road",
-          "usage": "Summon pulls, premium shop items, and special banners"
+          "name": "Coins",
+          "type": "Core upgrade currency",
+          "howToGet": "Matches, tasks, Progress Level rewards, Coin Boxes, Battle Pass, Oven Crown Road, login missions, and events",
+          "bestFirstUse": "Level up one or two main Cookies instead of your whole roster",
+          "mainUses": "Cookie leveling, upgrades, Power Biscuits, and some Common Soulchips"
         },
         {
-          "name": "Coins",
-          "source": "Cookie Mastery, events, reward boxes, daily missions",
-          "usage": "Cookie upgrades, skill leveling, and Power Biscuit purchases"
+          "name": "Crystals",
+          "type": "Flexible premium progression currency",
+          "howToGet": "Matches, missions, event tasks, Battle Pass, Progress Level rewards, and shop packs",
+          "bestFirstUse": "Target meaningful roster progress such as Epic Soulchips or high-value shop items",
+          "mainUses": "Shop purchases, Epic Soulchips, and Universal Soulchips"
         },
         {
           "name": "Soulchips",
-          "source": "Duplicate Cookie pulls and Soulchip exchange",
-          "usage": "Unlock Cookies and raise Cookie star levels"
+          "type": "Roster unlock and growth resource",
+          "howToGet": "Match missions, Oven Crown Road, Battle Pass, and shop purchases",
+          "bestFirstUse": "Finish unlocks or upgrades for the Cookies you actually queue with",
+          "mainUses": "Unlocking new Cookies and powering up owned Cookies"
         },
         {
-          "name": "Tickets",
-          "source": "Events, login rewards, and seasonal passes",
-          "usage": "Costume draws and special event summons"
+          "name": "General Summon Tickets",
+          "type": "Roster expansion pull resource",
+          "howToGet": "Oven Crown Road rewards, events, and code-style giveaway rewards",
+          "bestFirstUse": "Expand your core options before chasing duplicates for niche picks",
+          "mainUses": "Summon Shop pulls for Cookies and related rewards"
+        },
+        {
+          "name": "Rainbow Credits",
+          "type": "Premium cosmetic currency",
+          "howToGet": "Mostly shop purchases, with smaller amounts available through the Battle Pass",
+          "bestFirstUse": "Save for looks you actually plan to use often",
+          "mainUses": "Costume Summon Shop for clothing and fashion sets"
+        },
+        {
+          "name": "Oven Crowns",
+          "type": "Progression ladder resource",
+          "howToGet": "Winning battles across the game's different modes",
+          "bestFirstUse": "Push reward milestones consistently instead of stopping after a few wins",
+          "mainUses": "Advancing the Oven Crown Road for Soulchip packs, tickets, boxes, and other progression rewards"
         }
       ],
       "spendingTips": [
-        "Invest Coins into one main Cookie before spreading across the roster.",
-        "Save Crystals for featured banners with rate-up Cookies you plan to main.",
+        "Invest Coins into one or two main Cookies before spreading across the roster.",
+        "Save Crystals for meaningful progression like Epic Soulchips, not impulse shop buys.",
         "Use coupon codes immediately to maximize early Crystal income.",
-        "Complete daily missions every day to maintain steady resource flow."
+        "Push Oven Crown Road milestones consistently for the best free-to-play reward flow.",
+        "Treat cosmetic spending as a later goal after your core roster is upgraded."
       ]
     },
     "rolesGuide": {
       "title": "CookieRun: OvenSmash Roles Guide",
       "displayType": "cardList",
-      "intro": "CookieRun: OvenSmash is a role-based PvP game. Understanding how frontline, damage, control, and support responsibilities translate into winning team play is essential for climbing ranks and winning 3v3 matches.",
+      "subtitle": "Understand what each broad team job is supposed to do in a match and which Cookies commonly fill that job. This module is meant to help players pick a role identity before spending upgrades.",
+      "intro": "The cleanest way to build better teams in OvenSmash is to think in jobs, not just favorite characters. A strong comp usually needs someone to start fights, someone to finish damage, someone to disrupt or lock targets, and someone to keep the team stable through repeated skirmishes.",
       "roles": [
         {
-          "name": "Tank",
-          "description": "Tanks absorb damage and create space for teammates. They initiate fights, protect squishier allies, and control the frontline.",
-          "examples": ["Madeleine Cookie", "Strawberry Crepe Cookie", "Fruit Punch Cookie"]
+          "name": "Frontline",
+          "summary": "Frontline picks are your Tanks and Bruisers. They take first contact, claim space, and make it safer for the rest of the team to function.",
+          "responsibilities": [
+            "Start fights when your team is in follow-up range",
+            "Absorb pressure and block direct access to your backline",
+            "Stand on high-value objectives first and force enemies to walk through you"
+          ],
+          "examples": ["Madeleine Cookie", "Dark Choco Cookie", "Bacon Roll Cookie", "Fruit Punch Cookie", "Strawberry Crepe Cookie", "GingerBrave"],
+          "playTip": "Do not engage alone just because you can survive for a few seconds. Engage when your damage dealers are ready to cash in."
         },
         {
-          "name": "Bruiser",
-          "description": "Bruisers deal sustained damage while staying durable in extended fights. They trade blows in the frontline and pressure enemies.",
-          "examples": ["Dark Choco Cookie", "Bacon Roll Cookie", "GingerBrave"]
+          "name": "Damage",
+          "summary": "Damage picks convert openings into kills, objective clears, and score swings. This group includes Marksmen, Mages, Assassins, and Bombers.",
+          "responsibilities": [
+            "Pressure enemies after frontline contact starts",
+            "Punish exposed targets and bad positioning quickly",
+            "Keep steady output during extended teamfights and objective contests"
+          ],
+          "examples": ["String Cheese Cookie", "Rye Cookie", "Blue Slushy Cookie", "Blueberry Pie Cookie", "Latte Cookie", "Cherry Cookie", "Peach Cookie", "Chili Pepper Cookie", "Tiger Lily Cookie"],
+          "playTip": "Most damage losses come from stepping too far forward too early. Let your frontline or controller create the opening first."
         },
         {
-          "name": "Marksman",
-          "description": "Marksmen deal consistent ranged damage from the backline. They punish bad positioning and finish low-HP targets.",
-          "examples": ["Rye Cookie", "Blue Slushy Cookie", "String Cheese Cookie"]
-        },
-        {
-          "name": "Mage",
-          "description": "Mages control zones with area-of-effect abilities. They punish grouped enemies and control team-fight tempo.",
-          "examples": ["Latte Cookie", "Jerky Cookie", "Blueberry Pie Cookie"]
-        },
-        {
-          "name": "Assassin",
-          "description": "Assassins dive into the backline to eliminate high-value targets quickly. They excel at picking off isolated or low-HP enemies.",
-          "examples": ["Peach Cookie", "Chili Pepper Cookie"]
-        },
-        {
-          "name": "Controller",
-          "description": "Controllers apply crowd control effects to disrupt enemies. They set up kills for teammates and peel for allies.",
-          "examples": ["Red Velvet Cookie", "Ice Pop Cookie"]
+          "name": "Control",
+          "summary": "Control picks win fights by freezing, pulling, knocking up, slowing, or otherwise breaking enemy timing. They turn even fights into uneven ones.",
+          "responsibilities": [
+            "Interrupt enemy engages or punish stacked movement",
+            "Create picks before full teamfights begin",
+            "Lock important targets long enough for your team to finish them"
+          ],
+          "examples": ["Red Velvet Cookie", "Ice Pop Cookie", "Peppermint Cookie", "Jerky Cookie"],
+          "playTip": "Your best value usually comes from controlling the enemy carry or the diver reaching your backline, not from randomly spending crowd control on tanks."
         },
         {
           "name": "Support",
-          "description": "Supports heal and shield teammates, increasing overall team survivability. They enable aggressive plays by keeping the team healthy.",
-          "examples": ["Melon Soda Cookie", "Peppermint Cookie"]
-        },
-        {
-          "name": "Bomber",
-          "description": "Bombers deal heavy area damage with explosive abilities. They punish grouped enemies and control chokepoints.",
-          "examples": ["Cherry Cookie"]
+          "summary": "Support picks keep your team stable through healing, buffs, utility, and safer fight resets. They are the glue in longer objective games.",
+          "responsibilities": [
+            "Heal or stabilize allies before and after trades",
+            "Boost the team's uptime so carries can keep firing",
+            "Help winning fights stay won by preventing a sudden collapse"
+          ],
+          "examples": ["Peppermint Cookie", "Melon Soda Cookie", "Fruit Punch Cookie"],
+          "playTip": "Stand close enough to influence the fight, but far enough that the enemy cannot remove your healing or utility first."
         }
       ]
     },
