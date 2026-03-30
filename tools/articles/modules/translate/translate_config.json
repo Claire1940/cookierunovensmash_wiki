@@ -9,29 +9,27 @@
   "retry_attempts": 2,
   "retry_delay": 5,
 
-  "languages": ["ru", "pt", "de", "es", "ja", "ko", "fr"],
+  "languages": ["ko", "ja", "vi", "th", "id", "es"],
   "default_language": "en",
   "output_dir": "content/",
 
   "game_names": {
-    "en": "Lucid Blocks",
-    "ru": "Lucid Blocks",
-    "pt": "Lucid Blocks",
-    "de": "Lucid Blocks",
-    "es": "Lucid Blocks",
-    "ja": "Lucid Blocks",
-    "ko": "Lucid Blocks",
-    "fr": "Lucid Blocks"
+    "en": "CookieRun: OvenSmash",
+    "ko": "쿠키런: 오븐스매시",
+    "ja": "クッキーラン：オーブンスマッシュ",
+    "vi": "CookieRun: Bánh Quy Đại Chiến",
+    "th": "CookieRun: OvenSmash",
+    "id": "CookieRun: OvenSmash",
+    "es": "CookieRun: OvenSmash"
   },
 
   "lang_names": {
-    "ru": "Russian",
-    "pt": "Portuguese (Brazil)",
-    "de": "German",
-    "es": "Spanish (Latin America)",
-    "ja": "Japanese",
     "ko": "Korean",
-    "fr": "French"
+    "ja": "Japanese",
+    "vi": "Vietnamese",
+    "th": "Thai",
+    "id": "Indonesian",
+    "es": "Spanish (Latin America)"
   },
 
   "batch_size": 20,
