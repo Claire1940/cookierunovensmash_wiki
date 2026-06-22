@@ -18,7 +18,7 @@
   ],
   "default_language": "en",
   "output_dir": "src/locales/",
-  "use_value_extraction": false,
+  "use_value_extraction": true,
   "protected_terms": {
     "game_names": [
       "CookieRun: OvenSmash"

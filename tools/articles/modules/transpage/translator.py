@@ -24,7 +24,11 @@ class MessagesTranslator:
         # API credentials
         self.api_key = config['api_key']
         self.api_base_url = config['api_base_url']
-        self.api_url = f"{self.api_base_url.rstrip('/')}/chat/completions"
+        # If api_base_url already contains the full endpoint path, use it directly
+        if self.api_base_url.rstrip('/').endswith('/chat/completions'):
+            self.api_url = self.api_base_url
+        else:
+            self.api_url = f"{self.api_base_url.rstrip('/')}/chat/completions"
         self.model = config.get('model', 'gemini-2.0-flash')
         self.temperature = config.get('temperature', 0.7)
         self.max_tokens = config.get('max_tokens', 8192)
@@ -216,7 +220,7 @@ class MessagesTranslator:
 
         # Get language name and game name
         lang_name = self.lang_names.get(target_lang, target_lang)
-        game_name = self.game_names.get(target_lang, 'Slayerbound')
+        game_name = self.game_names.get(target_lang, 'CookieRun: OvenSmash')
 
         # Build prompt from template
         prompt = self.values_translation_prompt_template.format(
@@ -259,9 +263,9 @@ class MessagesTranslator:
         for attempt in range(self.retry_attempts):
             try:
                 timeout = aiohttp.ClientTimeout(
-                    total=self.timeout,
-                    connect=120,
-                    sock_read=600
+                    total=300,
+                    connect=60,
+                    sock_read=240
                 )
 
                 async with session.post(
